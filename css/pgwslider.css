@@ -33,7 +33,7 @@ body {  margin: 2px; }
 
 .pgwSlider .ps-current {
     float: left;
-    width: 70%;
+    width: 67%;
     overflow: hidden;
     height: inherit;
     position: relative;
