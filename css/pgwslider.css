@@ -40,13 +40,13 @@ body {  margin: 2px; }
     font-size: 1rem; }
 
 .pgwSlider .ps-current li {
-    width: 100%;
+    width: 97%;
     z-index: 1;
     opacity: 0;
     display: none; }
 
 .pgwSlider .ps-current img {
-    max-width: 100%;
+    max-width: 97%;
 	min-width: 100%;
     height: auto;
 	display: block;
