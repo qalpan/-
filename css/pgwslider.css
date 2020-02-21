@@ -57,7 +57,7 @@ ul.ps-list {
     padding: 2px;
     margin: 0px;
     height: 639px;
-    background-image: url(/suretter/fon.svg); }
+    background-image: url(../suretter/fon.svg); }
 
 .pgwSlider .ps-current ul {
     width: 100%; }
