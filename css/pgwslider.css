@@ -1,0 +1,174 @@
+* {
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: sans-serif }
+  
+@media only screen and (max-width: 490px) {
+ul.ps-list { min-width: 100%; }
+li.тақырыптар {margin-right: 88px;}
+li a.адамдар, 
+li a.бөлме-ғимарат-жобалар, 
+li a.ғарыш-қиал-тылсым-әлем, 
+li a.гүлдер,
+li a.жеміс-жидек-өсімдік-ағаштар
+ {margin-left: 96px;font: 11px sans-serif;} 
+li a.қалыпталған-кескіндер, 
+li a.қолданыс-заттары-құрылғы-құралдар, 
+li a.құс-жануар-жәндік-балықтар, 
+li a.өнер-білім-спорт, 
+li a.сән-үлгілері, 
+li a.табиғат
+ {margin-left: 255px;font: 11px sans-serif;} } 
+
+@media only screen and (max-width: 1020px) {
+ul.ps-list { max-width: 28%; max-height: 300px; } }    
+  
+body {  margin: 2px; }
+
+.pgwSlider {
+    width: 100%;
+    color: #fff; }
+
+.pgwSlider .ps-current {
+    float: left;
+    width: 70%;
+    overflow: hidden;
+    height: inherit;
+    position: relative;
+    font-size: 1rem; }
+
+.pgwSlider .ps-current li {
+    width: 100%;
+    z-index: 1;
+    opacity: 0;
+    display: none; }
+
+.pgwSlider .ps-current img {
+    max-width: 100%;
+	min-width: 100%;
+    height: auto;
+	display: block;
+    transition: margin-top 250ms linear; }
+
+ul.ps-list {
+    overflow-y: auto;
+    float: right;
+    width: 29%;
+    padding: 2px;
+    margin: 0px;
+    height: 639px;
+    background-image: url(/suretter/fon.svg); }
+
+.pgwSlider .ps-current ul {
+    width: 100%; }
+
+ul.pgwSlider > li img,
+.pgwSlider > ul > li img {
+    width: 100%;
+    min-height: 100%;
+    display: block;
+    margin: 0 auto;
+    transition: margin-top 250ms linear; }
+/*
+ * The media-queries are not used because IE8 doesn't support them.
+ */
+ul.pgwSlider.wide > li,
+.pgwSlider.wide > ul > li {
+    width: 23% !important;
+    height: auto !important;
+    float: left;
+    margin: 2px; }
+
+.pgwSlider.narrow .ps-current,
+ul.pgwSlider.narrow,.pgwSlider.narrow > ul { width: 100%; height: 300px; }
+
+ul.pgwSlider.narrow > li,
+.pgwSlider.narrow > .ps-list > li {
+    float: left;
+    min-height: 50px;
+    max-height: 70px;
+    min-width: 15%;
+    font-size: 0.7rem;
+    margin-bottom: 0; }
+
+#атаубелгі-karlyga {
+ width: 130px;
+ float: right;
+ line-height: 0;
+ margin-right: -530px;
+ margin-top: 95px; }
+
+a.белгі-karlyga {
+ color: #6B470F;
+ font: 10px sans-serif;
+ font-weight:bold;
+ letter-spacing: -0.4px;
+ position: absolute;
+ text-decoration: none; }
+
+#атаубелгі-karlyga p:hover::after {
+ content: attr(data-title);
+ display: inline-block;
+ width:233px;
+ height: 28px;
+ font:12px sans-serif;
+ position: absolute;
+ margin: -45px 0 0 -117px;
+ z-index: 1;
+ background: #ffffeefa;
+ padding: 4px;
+ border: 1px solid #e3d9ba52; }
+
+span.karlyga {
+ font: 16px sans-serif;
+ margin: -14px 8px 7px -1px;
+ font-weight: bold;
+ position: absolute;
+ outline: none; }
+
+a.белгі-karlyga:hover {
+ color: #B8A80D; }
+
+a.белгі-karlyga:before {
+ content: url(../suretter/atau-belgi.svg);
+ position: absolute;
+ z-index: 1;
+ margin: -13px 0px 0px -35px; }
+
+a.белгі-karlyga:hover:before {
+ content: url(../suretter/atau-belgi-janu.svg); }
+
+li.тақырыптар {
+ float: right;
+ margin-top: 79px;
+ margin-right: 446px;
+ padding: 4px;
+ color: #e3d9ba;
+ list-style-type: none; }
+
+.тақырыптар a {
+ width: 207px;
+ position: absolute;
+ font: 12px sans-serif;
+ color: #917c5a; }
+
+.тақырыптар a:hover { color: #B8A80D; }
+a.адамдар { margin: -82px 0px; }
+a.бөлме-ғимарат-жобалар { margin: -68px 0px; }
+a.ғарыш-қиал-тылсым-әлем {  margin: -54px 0px; }
+a.гүлдер { margin: -40px 0px; }
+a.жеміс-жидек-өсімдік-ағаштар { margin: -26px 0px; }
+a.қалыпталған-кескіндер { margin: -82px 175px; }
+a.қолданыс-заттары-құрылғы-құралдар { margin: -68px 175px; }
+a.құс-жануар-жәндік-балықтар { margin: -54px 175px; }
+a.өнер-білім-спорт { margin: -40px 175px; }
+a.сән-үлгілері { margin: -26px 175px; }
+a.табиғат { margin: -12px 175px; }
+
+p.takyryp-janu {
+ color: #b8a80d;
+ position: absolute;
+ margin: 0;
+ padding: 0;}
