@@ -53,7 +53,6 @@ body {  margin: 2px; }
 
 ul.ps-list {
     overflow-y: auto;
-    float: right;
     width: 29%;
     padding: 2px;
     margin: 0px;
