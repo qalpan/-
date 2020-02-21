@@ -47,7 +47,7 @@ body {  margin: 2px; }
 
 .pgwSlider .ps-current img {
     max-width: 68%;
-	min-width: 98%;
+	min-width: 96%;
     height: auto;
 	display: block;
     transition: margin-top 250ms linear; }
