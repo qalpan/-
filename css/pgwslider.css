@@ -66,7 +66,6 @@ ul.pgwSlider > li img,
 .pgwSlider > ul > li img {
     width: 100%;
     min-height: 100%;
-    display: block;
     margin: 0 auto;
     transition: margin-top 250ms linear; }
 /*
