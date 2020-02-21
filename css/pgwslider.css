@@ -94,8 +94,8 @@ ul.pgwSlider.narrow > li,
  width: 130px;
  float: right;
  line-height: 0;
- margin-right: -450px;
- margin-top: 95px; }
+ margin-right: -490px;
+ margin-top: 100px; }
 
 a.белгі-karlyga {
  color: #6B470F;
@@ -139,8 +139,8 @@ a.белгі-karlyga:hover:before {
 
 li.тақырыптар {
  float: right;
- margin-top: 79px;
- margin-right: 446px;
+ margin-top: 82px;
+ margin-right: 486px;
  padding: 4px;
  color: #e3d9ba;
  list-style-type: none; }
