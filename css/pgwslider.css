@@ -40,7 +40,7 @@ body {  margin: 2px; }
     font-size: 1rem; }
 
 .pgwSlider .ps-current li {
-    width: 98%;
+    width: 94%;
     z-index: 1;
     opacity: 0;
     display: none; }
