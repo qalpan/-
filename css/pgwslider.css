@@ -46,7 +46,7 @@ body {  margin: 2px; }
     display: none; }
 
 .pgwSlider .ps-current img {
-    max-width: 68%;
+    max-width: 70%;
 	min-width: 96%;
     height: auto;
 	display: block;
