@@ -120,7 +120,7 @@ a.белгі-karlyga:before {
  content: url(../suretter/atau-belgi.svg);
  position: absolute;
  z-index: 1;
- margin: -8px -35px; }
+ margin: -7px -35px; }
 
 a.белгі-karlyga:hover:before {
  content: url(../suretter/atau-belgi-janu.svg); }
