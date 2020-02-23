@@ -71,7 +71,7 @@ ul.pgwSlider > li img,
  */
 ul.pgwSlider.wide > li,
 .pgwSlider.wide > ul > li {
-    width: 23% !important;
+    width: 24% !important;
     height: auto !important;
     float: left;
     margin: 2px; }
