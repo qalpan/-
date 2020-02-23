@@ -91,8 +91,8 @@ ul.pgwSlider.narrow > li,
     margin-bottom: 0; }
 
 #атаубелгі-karlyga {
- margin-right: 0px;
- margin-top: 0px; }
+    float: right;
+    margin: 0px 78px;; }
 
 a.белгі-karlyga {
  color: #6B470F;
