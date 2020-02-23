@@ -64,7 +64,6 @@ ul.pgwSlider > li img,
 .pgwSlider > ul > li img {
     width: 100%;
     min-height: 100%;
-    margin: 0 auto;
     transition: margin-top 250ms linear; }
 /*
  * The media-queries are not used because IE8 doesn't support them.
