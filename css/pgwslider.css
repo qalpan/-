@@ -95,7 +95,7 @@ ul.pgwSlider.narrow > li,
  float: right;
  line-height: 0;
  margin-right: -490px;
- margin-top: 100px; }
+ margin-top: 87px; }
 
 a.белгі-karlyga {
  color: #6B470F;
@@ -139,8 +139,8 @@ a.белгі-karlyga:hover:before {
 
 li.тақырыптар {
  float: right;
- margin-top: 82px;
- margin-right: 486px;
+ margin-top: 84px;
+ margin-right: 460px;
  padding: 4px;
  color: #e3d9ba;
  list-style-type: none; }
@@ -148,7 +148,7 @@ li.тақырыптар {
 .тақырыптар a {
  width: 207px;
  position: absolute;
- font: 11px sans-serif;
+ font: 10px sans-serif;
  color: #917c5a; }
 
 .тақырыптар a:hover { color: #B8A80D; }
