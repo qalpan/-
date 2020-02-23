@@ -88,14 +88,12 @@ ul.pgwSlider.narrow > li,
 
 #атаубелгі-karlyga {
     float: right;
-    margin: -10px 78px;
+    margin: -45px 78px;
     padding: 4px;}
 
 a.белгі-karlyga {
  color: #6B470F;
- font: 10px sans-serif;
- position: absolute;
- text-decoration: none; }
+ font: 10px sans-serif; }
 
 #атаубелгі-karlyga p:hover::after {
  content: attr(data-title);
@@ -112,9 +110,8 @@ a.белгі-karlyga {
 
 span.karlyga {
  font: 15px sans-serif;
- margin: -15px -1px;
- position: absolute;
- outline: none; }
+ margin: -10px -1px;
+ position: absolute; }
 
 a.белгі-karlyga:hover {
  color: #B8A80D; }
@@ -123,7 +120,7 @@ a.белгі-karlyga:before {
  content: url(../suretter/atau-belgi.svg);
  position: absolute;
  z-index: 1;
- margin: -13px -35px; }
+ margin: -8px -35px; }
 
 a.белгі-karlyga:hover:before {
  content: url(../suretter/atau-belgi-janu.svg); }
