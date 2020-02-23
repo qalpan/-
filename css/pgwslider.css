@@ -22,7 +22,7 @@ li a.сән-үлгілері,
 li a.табиғат
  {margin-left: 255px;font: 10px sans-serif;} } 
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 28%; max-height: 300px; } }    
   
 body {  margin: 2px; }
