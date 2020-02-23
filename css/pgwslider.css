@@ -33,7 +33,7 @@ body {  margin: 2px; }
 
 .pgwSlider .ps-current {
     float: left;
-    width: 69%;
+    width: 70%;
     overflow: hidden;
     height: inherit;
     position: relative;
@@ -47,7 +47,7 @@ body {  margin: 2px; }
 
 .pgwSlider .ps-current img {
     max-width: 70%;
-	min-width: 98%;
+	min-width: 100%;
     height: auto;
     transition: margin-top 250ms linear; }
 
