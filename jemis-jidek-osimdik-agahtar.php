@@ -52,11 +52,11 @@ return false}
 	</ul>
 
 <li class="тақырыптар">
-<a class="адамдар" href="https://qalpan.github.io/korme/адамдар">адамдар ....</a>
+<a class="адамдар" href="https://qalpan.github.io/korme/index.html">адамдар ....</a>
 <a class="бөлме-ғимарат-жобалар" href="https://qalpan.github.io/korme/бөлме-ғимарат-жобалар">бөлме ғимарат жобалар</a>
 <a class="ғарыш-қиал-тылсым-әлем" href="https://qalpan.github.io/korme/ғарыш-қиал-тылсым-әлем">ғарыш қиал тылсым әлем</a>
 <a class="гүлдер" href="https://qalpan.github.io/korme/гүлдер">гүлдер</a>
-<a class="жеміс-жидек-өсімдік-ағаштар" href="https://qalpan.github.io/korme/жеміс-жидек-өсімдік-ағаштар"><p class="takyryp-janu">жеміс жидек өсімдік ағаштар</p></a>
+<a class="жеміс-жидек-өсімдік-ағаштар" href="https://qalpan.github.io/korme/jemis-jidek-osimdik-agahtar.php"><p class="takyryp-janu">жеміс жидек өсімдік ағаштар</p></a>
 <a class="қалыпталған-кескіндер" href="https://qalpan.github.io/korme/қалыпталған-кескіндер">қалыпталған кескіндер</a>
 <a class="қолданыс-заттары-құрылғы-құралдар" href="https://qalpan.github.io/korme/қолданыс-заттары-құрылғы-құралдар">қолданыс заттары құрылғы құралдар</a>
 <a class="құс-жануар-жәндік-балықтар" href="https://qalpan.github.io/korme/құс-жануар-жәндік-балықтар">құс жануар жәндік балықтар</a>
