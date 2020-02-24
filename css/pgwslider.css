@@ -117,13 +117,13 @@ a.белгі-karlyga:hover {
  color: #B8A80D; }
 
 a.белгі-karlyga:before {
- content: url(suretter/atau-belgi.svg);
+ content: url(https://qalpan.github.io/korme/suretter/atau-belgi.svg);
  position: absolute;
  z-index: 1;
  margin: -8px -38px; }
 
 a.белгі-karlyga:hover:before {
- content: url(suretter/atau-belgi-janu.svg); }
+ content: url(https://qalpan.github.io/korme/suretter/atau-belgi-janu.svg); }
 
 li.тақырыптар {
  margin-top: 80px;
