@@ -21,7 +21,8 @@ li a.сән-үлгілері,
 li a.табиғат {margin-left: 240px;font: 10px sans-serif;} }
 
 @media only screen and (max-width: 1200px) {
-ul.ps-list { max-width: 29%; max-height: 300px; } }  
+ul.ps-list { max-width: 29%; max-height: 300px; }
+.pgwSlider.wide > ul > li { max-width: 22% !important;}}  
 
 @media only screen and (max-width: 1500px) {
 ul.ps-list { max-width: 29%; max-height: 500px; }
