@@ -26,8 +26,8 @@ ul.ps-list { max-width: 28%; max-height: 300px; } }
 body {  margin: 2px; }
 
 .pgwSlider {
-    width: 100%;
-    color: #fff; }
+    width: 0%;
+    color: rgba(0, 0, 0, 0); }
 
 .pgwSlider .ps-current {
     float: left;
