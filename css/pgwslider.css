@@ -20,8 +20,11 @@ li a.өнер-білім-спорт,
 li a.сән-үлгілері, 
 li a.табиғат {margin-left: 240px;font: 10px sans-serif;} }
 
+@media only screen and (max-width: 1200px) {
+ul.ps-list { max-width: 29%; max-height: 300px; } }  
+
 @media only screen and (max-width: 1500px) {
-ul.ps-list { max-width: 29%; max-height: 300px; } }    
+ul.ps-list { max-width: 29%; max-height: 500px; } }    
   
 body {  margin: 2px; }
 
@@ -121,7 +124,7 @@ a.белгі-karlyga:before {
  content: url(../suretter/atau-belgi.svg);
  position: absolute;
  z-index: 1;
- margin: -8px -38px; }
+ margin: -7px -38px; }
 
 a.белгі-karlyga:hover:before {
  content: url(../suretter/atau-belgi-janu.svg); }
