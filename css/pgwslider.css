@@ -54,7 +54,7 @@ body {  margin: 2px; }
 
 ul.ps-list {
     overflow-y: auto;
-    width: 29%;
+    width: 30%;
     padding: 3px;
     margin: 0px;
     height: 650px;
@@ -73,7 +73,7 @@ ul.pgwSlider > li img,
  */
 ul.pgwSlider.wide > li,
 .pgwSlider.wide > ul > li {
-    width: 24.33% !important;
+    width: 24.31% !important;
     height: auto !important;
     float: left;
     margin-right: 3px; }
