@@ -99,19 +99,6 @@ a.белгі-karlyga {
  color: #6B470F;
  font: 10px sans-serif; }
 
-#атаубелгі-karlyga p:hover::after {
- content: attr(data-title);
- display: inline-block;
- width:233px;
- height: 28px;
- font:12px sans-serif;
- position: absolute;
- margin: -45px 0 0 -117px;
- z-index: 1;
- background: #ffffeefa;
- padding: 4px;
- border: 1px solid #e3d9ba52; }
-
 span.karlyga {
  font: 15px sans-serif;
  margin: -8px -1px;
