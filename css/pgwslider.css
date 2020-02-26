@@ -6,8 +6,7 @@
   font-family: sans-serif }
   
 @media only screen and (max-width: 490px) {
-ul.ps-list { max-width: 100%;
-	 max-height: 120px;}
+ul.ps-list { max-width: 100%; max-height: 120px;}
 li.тақырыптар {margin-left: -98px;}
 li a.адамдар, 
 li a.бөлме-ғимарат-жобалар, 
@@ -26,7 +25,7 @@ ul.ps-list { max-width: 29%; max-height: 200px; }
 .pgwSlider.wide > ul > li { max-width: 22% !important;}}  
 
 @media only screen and (max-width: 1500px) {
-ul.ps-list { max-width: 29%; max-height: 500px; }
+ul.ps-list { max-width: 29%; max-height: 400px; }
 ul.pgwSlider.wide > li,
 .pgwSlider.wide > ul > li { max-width: 24% !important;} }   
   
