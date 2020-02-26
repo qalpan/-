@@ -25,7 +25,7 @@ ul.ps-list { max-width: 29%; max-height: 200px; }
 .pgwSlider.wide > ul > li { max-width: 22% !important;}}  
 
 @media only screen and (max-width: 1500px) {
-ul.ps-list { max-width: 29%; max-height: 400px; }
+ul.ps-list { max-width: 29%; max-height: 500px; }
 ul.pgwSlider.wide > li,
 .pgwSlider.wide > ul > li { max-width: 24% !important;} }   
   
