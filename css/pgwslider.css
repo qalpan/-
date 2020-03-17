@@ -103,7 +103,7 @@ a.белгі-karlyga {
  font: 10px sans-serif; }
 
 span.karlyga {
- font: 15px sans-serif;
+ font: 14px sans-serif;
  margin: -8px -1px;
  position: absolute; }
 
@@ -114,7 +114,7 @@ a.белгі-karlyga:before {
  content: url(../suretter/atau-belgi.svg);
  position: absolute;
  z-index: 1;
- margin: -6px -34px; }
+ margin: -7px -34px; }
 
 a.белгі-karlyga:hover:before {
  content: url(../suretter/atau-belgi-janu.svg); }
