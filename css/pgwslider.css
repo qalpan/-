@@ -82,7 +82,7 @@ ul.pgwSlider.wide > li,
     margin-right: 3px; }
 
 .pgwSlider.narrow .ps-current,
-ul.pgwSlider.narrow,.pgwSlider.narrow > ul { width: 100%; height: 300px; }
+ul.pgwSlider.narrow,.pgwSlider.narrow > ul { min-width: 100%; height: 240px; }
 
 ul.pgwSlider.narrow > li,
 .pgwSlider.narrow > .ps-list > li {
