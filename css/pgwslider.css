@@ -144,10 +144,14 @@ a.құс-жануар-жәндік-балықтар { margin: -62px 146px; }
 a.өнер-білім-спорт { margin: -52px 146px; }
 a.сән-үлгілері { margin: -42px 146px; }
 a.табиғат { margin: -32px 146px; }
+
 a.үй { margin: -33px 4px; position: absolute; }
 a.көлік { margin: -17px 49px; position: absolute; }
 a.азық { margin: -33px 4px; position: absolute; }
 a.кійім { margin: -17px 49px; position: absolute; }
+a.құрылғы { margin: -17px 49px; position: absolute; }
+a.құрлыс заттары { margin: -17px 49px; position: absolute; }
+a.тазарту заттары { margin: -17px 49px; position: absolute; }
 a.қызмет { margin: -17px 49px; position: absolute; }
 
 a.үй:hover { content: url(../suretter/yi-janu.svg); }
@@ -155,6 +159,8 @@ a.көлік:hover { content: url(../suretter/kolik-janu.svg); }
 a.азық:hover { content: url(../suretter/yi-janu.svg); }
 a.кійім:hover { content: url(../suretter/kolik-janu.svg); }
 a.құрылғы:hover { content: url(../suretter/yi-janu.svg); }
+a.құрлыс заттары:hover { content: url(../suretter/yi-janu.svg); }
+a.тазарту заттары:hover { content: url(../suretter/yi-janu.svg); }
 a.қызмет:hover { content: url(../suretter/yi-janu.svg); }
 
 p.takyryp-janu {
