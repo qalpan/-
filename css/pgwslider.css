@@ -152,7 +152,7 @@ a.кійім { margin: -17px 49px; position: absolute; }
 a.құрылғы { margin: -33px 168px; position: absolute; }
 a.құрлыс-заттары { margin: -17px 129px; position: absolute; }
 a.тазарту-заттары { margin: -33px 205px; position: absolute; }
-a.қызмет { margin: -17px 49px; position: absolute; }
+a.қызмет { margin: -17px 250px; position: absolute; }
 
 a.үй:hover { content: url(../suretter/yi-janu.svg); }
 a.көлік:hover { content: url(../suretter/kolik-janu.svg); }
