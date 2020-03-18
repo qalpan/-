@@ -156,12 +156,12 @@ a.қызмет { margin: -17px 49px; position: absolute; }
 
 a.үй:hover { content: url(../suretter/yi-janu.svg); }
 a.көлік:hover { content: url(../suretter/kolik-janu.svg); }
-a.азық:hover { content: url(../suretter/yi-janu.svg); }
-a.кійім:hover { content: url(../suretter/kolik-janu.svg); }
-a.құрылғы:hover { content: url(../suretter/yi-janu.svg); }
-a.құрлыс заттары:hover { content: url(../suretter/yi-janu.svg); }
-a.тазарту заттары:hover { content: url(../suretter/yi-janu.svg); }
-a.қызмет:hover { content: url(../suretter/yi-janu.svg); }
+a.азық:hover { content: url(../suretter/azyk-janu.svg); }
+a.кійім:hover { content: url(../suretter/kiim-janu.svg); }
+a.құрылғы:hover { content: url(../suretter/kyrylgy-janu.svg); }
+a.құрлыс заттары:hover { content: url(../suretter/kyrlys-zattary-janu.svg); }
+a.тазарту заттары:hover { content: url(../suretter/tazartu-zattary-janu.svg); }
+a.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
 p.takyryp-janu {
  color: #b8a80d;
