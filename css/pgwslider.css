@@ -145,8 +145,10 @@ a.өнер-білім-спорт { margin: -52px 146px; }
 a.сән-үлгілері { margin: -42px 146px; }
 a.табиғат { margin: -32px 146px; }
 a.үй { margin: -33px 4px; position: absolute; }
+a.көлік { margin: -33px 24px; position: absolute; }
 
 a.үй:hover { content: url(../suretter/yi-janu.svg); }
+a.көлік:hover { content: url(../suretter/kolik-janu.svg); }
 
 p.takyryp-janu {
  color: #b8a80d;
