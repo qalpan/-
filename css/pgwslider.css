@@ -144,6 +144,9 @@ a.құс-жануар-жәндік-балықтар { margin: -62px 146px; }
 a.өнер-білім-спорт { margin: -52px 146px; }
 a.сән-үлгілері { margin: -42px 146px; }
 a.табиғат { margin: -32px 146px; }
+a.үй { margin: 0px 21px; }
+
+a.үй:hover { content: url(../suretter/yi-janu.svg); }
 
 p.takyryp-janu {
  color: #b8a80d;
