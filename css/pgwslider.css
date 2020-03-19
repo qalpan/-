@@ -147,11 +147,11 @@ a.табиғат { margin: -32px 146px; }
 
 a.үй { margin: -33px 4px; position: absolute; }
 a.көлік { margin: -17px 49px; position: absolute; }
-a.азық { margin: -21px 89px; position: absolute; }
-a.кійім { margin: -17px 129px; position: absolute; }
-a.құрылғы { margin: -33px 162px; position: absolute; }
-a.құрлыс-заттары { margin: -17px 206px; position: absolute; }
-a.тазарту-заттары { margin: -33px 239px; position: absolute; }
+a.азық { margin: -22px 86px; position: absolute; }
+a.кійім { margin: -23px 121px; position: absolute; }
+a.құрылғы { margin: -23px 159px; position: absolute; }
+a.құрлыс-заттары { margin: -20px 197px; position: absolute; }
+a.тазарту-заттары { margin: -18px 234px; position: absolute; }
 a.қызмет { margin: -17px 284px; position: absolute; }
 
 a.үй:hover { content: url(../suretter/yi-janu.svg); }
