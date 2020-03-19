@@ -100,8 +100,8 @@ ul.pgwSlider.narrow > li,
 .pgwSlider.narrow > .ps-list > li {
     float: left;
     min-height: 50px;
-    max-height: 70px;
-    min-width: 15%;
+    max-height: 78px;
+    min-width: 20%;
     font-size: 0.7rem;
     margin-bottom: 0; }
 
