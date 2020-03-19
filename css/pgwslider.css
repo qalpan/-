@@ -31,6 +31,12 @@ ul.pgwSlider.wide > li,
   
 body {  margin: 2px; }
 
+span.ps-prevIcon {
+    content: url(suretter/atau-belgi1.svg);
+    position: absolute;
+    bottom: 5px;
+    left: 5px; }
+
 .pgwSlider {
     width: 100%;
     color: rgba(0, 0, 0, 0); }
@@ -92,32 +98,6 @@ ul.pgwSlider.narrow > li,
     min-width: 15%;
     font-size: 0.7rem;
     margin-bottom: 0; }
-
-#атаубелгі-karlyga {
-    float: right;
-    margin: 8px 20px;
-    padding: 4px;}
-
-a.белгі-karlyga {
- color: #6B470F;
- font: 10px sans-serif; }
-
-span.karlyga {
- font: 14px sans-serif;
- margin: -8px -1px;
- position: absolute; }
-
-a.белгі-karlyga:hover {
- color: #B8A80D; }
-
-a.белгі-karlyga:before {
- content: url(../suretter/atau-belgi.svg);
- position: absolute;
- z-index: 1;
- margin: -7px -34px; }
-
-a.белгі-karlyga:hover:before {
- content: url(../suretter/atau-belgi-janu.svg); }
 
 li.тақырыптар {
  margin-top: 80px;
