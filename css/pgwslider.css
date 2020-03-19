@@ -18,7 +18,9 @@ li a.қолданыс-заттары-құрылғы-құралдар,
 li a.құс-жануар-жәндік-балықтар, 
 li a.өнер-білім-спорт, 
 li a.сән-үлгілері, 
-li a.табиғат {margin-left: 240px;font: 10px sans-serif;} }
+li a.табиғат {margin-left: 240px;font: 10px sans-serif;}
+a.жануар { margin: -31px 144px; position: absolute; }
+a.қызмет { margin: -35px 282px; position: absolute; } }
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
