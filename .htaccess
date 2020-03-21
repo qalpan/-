@@ -14,7 +14,7 @@ RewriteRule (.*) %1 [R=301,L]
 
 RewriteRule ^адамдар$ index.html [QSA,L]
 RewriteRule ^бөлме-ғимарат-жобалар$ bolme-gimarat-jobalar.php [QSA,L]
-RewriteRule ^ғарыш-қиал-тылсым-әлем$ garyh-kial-tylsym-alem.php [QSA,L]
+RewriteRule ^ғарыш-тылсым-әлем$ garyh-tylsym-alem.php [QSA,L]
 RewriteRule ^гүлдер$ gylder.php [QSA,L]
 RewriteRule ^жеміс-жидек-өсімдік-ағаштар$ jemis-jidek-osimdik-agahtar.php [QSA,L]
 RewriteRule ^қалыпталған-кескіндер$ kalyptalgan-keskinder.php [QSA,L]
