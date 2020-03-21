@@ -17,11 +17,11 @@ li a.қалыпталған-кескіндер,
 li a.құрылғы-құрал-қолданыс-заттары, 
 li a.құс-жануар-жәндік-балықтар, 
 li a.өнер-білім-спорт, 
-li a.сән-үлгілері,
-span.ps-prevIcon { width:41px; }	
+li a.сән-үлгілері,	
 li a.табиғат {margin-left: 240px;font: 10px sans-serif;}
 a.жануар { margin: -31px 144px; position: absolute; }
-a.қызмет { margin: -35px 282px; position: absolute; } }
+a.қызмет { margin: -35px 282px; position: absolute; }
+span.ps-prevIcon { width:41px; } }
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
