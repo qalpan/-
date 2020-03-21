@@ -22,4 +22,4 @@ RewriteRule ^қолданыс-заттары-құрылғы-құралдар$ ko
 RewriteRule ^құс-жануар-жәндік-балықтар$ kys-januar-jandik-balyktar.php [QSA,L]
 RewriteRule ^өнер-білім-спорт$ oner-bilim-sport.php [QSA,L]
 RewriteRule ^сән-үлгілері$ san-ylgileri.php [QSA,L]
-RewriteRule ^табиғат$ tabigat.html [QSA,L]
+RewriteRule ^tabigat$ tabigat.html [QSA,L]
