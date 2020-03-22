@@ -21,7 +21,7 @@ li a.сән-үлгілері,
 li a.табиғат {margin-left: 216px;font: 10px sans-serif;}
 a.жануар { position: absolute; }
 a.қызмет { left: -34px; bottom: 143px; }
-span.ps-prevIcon { width:41px; } }
+span.ps-prevIcon { width:41px; margin-bottom: -3px; } }
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
