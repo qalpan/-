@@ -20,7 +20,7 @@ li a.өнер-білім-спорт,
 li a.сән-үлгілері,	
 li a.табиғат {margin-left: 240px;font: 10px sans-serif;}
 a.жануар { position: absolute; }
-a.қызмет { left: -34px; bottom: 135px; }
+a.қызмет { left: -34px; bottom: 143px; }
 span.ps-prevIcon { width:41px; } }
 
 @media only screen and (max-width: 1200px) {
@@ -142,7 +142,7 @@ a.тазарту-заттары { margin: -18px 216px; position: absolute; }
 a.жихаз { margin: -24px 251px; position: absolute; }
 a.оқу-құралдары { margin: -22px 286px; position: absolute; }
 a.жануар { margin: -22px 320px; position: absolute; }
-a.қызмет { margin: -20px 358px; position: absolute; }
+a.қызмет { margin: -26px 356px; position: absolute; }
 
 a.үй:hover { content: url(../suretter/yi-janu.svg); }
 a.көлік:hover { content: url(../suretter/kolik-janu.svg); }
