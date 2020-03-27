@@ -1,9 +1,4 @@
-* {
-  outline: 0;
-  padding: 0;
-  margin: 0;
-  text-decoration: none;
-  font-family: sans-serif }
+* { outline: 0; padding: 0; margin: 0; text-decoration: none; font-family: sans-serif }
   
 @media only screen and (max-width: 490px) {
 ul.ps-list { max-width: 100%; max-height: 200px;}
@@ -84,9 +79,7 @@ ul.pgwSlider > li img,
     width: 100%;
     min-height: 100%;
     transition: margin-top 250ms linear; }
-/*
- * The media-queries are not used because IE8 doesn't support them.
- */
+
 ul.pgwSlider.wide > li,
 .pgwSlider.wide > ul > li {
     width: 24.3% !important;
@@ -132,29 +125,31 @@ a.өнер-білім-спорт { margin: -52px 126px; }
 a.сән-үлгілері { margin: -42px 126px; }
 a.табиғат { margin: -82px 241px; }
 
-a.үй { margin: -33px 2px; position: absolute; }
-a.көлік { margin: -17px 44px; position: absolute; }
-a.азық { margin: -22px 79px; position: absolute; }
-a.кійім { margin: -23px 111px; position: absolute; }
-a.құрылғы { margin: -23px 146px; position: absolute; }
-a.құрлыс-заттары { margin: -20px 182px; position: absolute; }
-a.тазарту-заттары { margin: -18px 216px; position: absolute; }
-a.жихаз { margin: -24px 251px; position: absolute; }
-a.оқу-құралдары { margin: -22px 286px; position: absolute; }
-a.жануар { margin: -22px 320px; position: absolute; }
-a.қызмет { margin: -26px 356px; position: absolute; }
+.көрме { margin: -33px 2px; position: absolute; }
+.үй { margin: -33px 2px; position: absolute; }
+.көлік { margin: -17px 44px; position: absolute; }
+.азық { margin: -22px 79px; position: absolute; }
+.кійім { margin: -23px 111px; position: absolute; }
+.құрылғы { margin: -23px 146px; position: absolute; }
+.құрлыс-заттары { margin: -20px 182px; position: absolute; }
+.тазарту-заттары { margin: -18px 216px; position: absolute; }
+.жихаз { margin: -24px 251px; position: absolute; }
+.оқу-құралдары { margin: -22px 286px; position: absolute; }
+.жануар { margin: -22px 320px; position: absolute; }
+.қызмет { margin: -26px 356px; position: absolute; }
 
-a.үй:hover { content: url(../suretter/yi-janu.svg); }
-a.көлік:hover { content: url(../suretter/kolik-janu.svg); }
-a.азық:hover { content: url(../suretter/azyk-janu.svg); }
-a.кійім:hover { content: url(../suretter/kiim-janu.svg); }
-a.құрылғы:hover { content: url(../suretter/kyrylgy-janu.svg); }
-a.құрлыс-заттары:hover { content: url(../suretter/kyrlys-zattary-janu.svg); }
-a.тазарту-заттары:hover { content: url(../suretter/tazartu-zattary-janu.svg); }
-a.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
-a.оқу-құралдары:hover { content: url(../suretter/oku-kyraldary-janu.svg); }
-a.жануар:hover { content: url(../suretter/januar-janu.svg); }
-a.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
+.көрме:hover { content: url(../suretter/korme-janu.svg); }
+.үй:hover { content: url(../suretter/yi-janu.svg); }
+.көлік:hover { content: url(../suretter/kolik-janu.svg); }
+.азық:hover { content: url(../suretter/azyk-janu.svg); }
+.кійім:hover { content: url(../suretter/kiim-janu.svg); }
+.құрылғы:hover { content: url(../suretter/kyrylgy-janu.svg); }
+.құрлыс-заттары:hover { content: url(../suretter/kyrlys-zattary-janu.svg); }
+.тазарту-заттары:hover { content: url(../suretter/tazartu-zattary-janu.svg); }
+.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
+.оқу-құралдары:hover { content: url(../suretter/oku-kyraldary-janu.svg); }
+.жануар:hover { content: url(../suretter/januar-janu.svg); }
+.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
 p.takyryp-janu {
  color: #b8a80d;
