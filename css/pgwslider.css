@@ -131,10 +131,10 @@ a.табиғат { margin: -82px 241px; }
 .азық { margin: -22px 79px; position: absolute; }
 .кійім { margin: -23px 111px; position: absolute; }
 .құрылғы { margin: -23px 146px; position: absolute; }
-.құрлыс-заттары { margin: -20px 182px; position: absolute; }
-.тазарту-заттары { margin: -18px 216px; position: absolute; }
+.құрлыс { margin: -20px 182px; position: absolute; }
+.тазарту { margin: -18px 216px; position: absolute; }
 .жихаз { margin: -24px 251px; position: absolute; }
-.оқу-құралдары { margin: -22px 286px; position: absolute; }
+.білім { margin: -22px 286px; position: absolute; }
 .жануар { margin: -22px 320px; position: absolute; }
 .қызмет { margin: -26px 356px; position: absolute; }
 
@@ -144,10 +144,10 @@ a.табиғат { margin: -82px 241px; }
 .азық:hover { content: url(../suretter/azyk-janu.svg); }
 .кійім:hover { content: url(../suretter/kiim-janu.svg); }
 .құрылғы:hover { content: url(../suretter/kyrylgy-janu.svg); }
-.құрлыс-заттары:hover { content: url(../suretter/kyrlys-zattary-janu.svg); }
-.тазарту-заттары:hover { content: url(../suretter/tazartu-zattary-janu.svg); }
+.құрлыс:hover { content: url(../suretter/kyrlys-zattary-janu.svg); }
+.тазарту:hover { content: url(../suretter/tazartu-zattary-janu.svg); }
 .жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
-.оқу-құралдары:hover { content: url(../suretter/oku-kyraldary-janu.svg); }
+.білім:hover { content: url(../suretter/oku-kyraldary-janu.svg); }
 .жануар:hover { content: url(../suretter/januar-janu.svg); }
 .қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
