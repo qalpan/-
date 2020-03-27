@@ -181,5 +181,5 @@ div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кйім a
   text-decoration: none;
   display: block; }
 div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азық a:hover,div.кйім a:hover,div.құрылғы a:hover,div.құрлыс a:hover,div.тазарту a:hover,div.жиһаз a:hover,div.білім a:hover,div.жануар a:hover,div.қызмет a:hover {background-color: #baa90d6e;}
-.dropdown:hover div.көрме,.dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кйім,div.құрылғы,div.құрлыс,div.тазарту,div.жиһаз,div.білім,div.жануар,div.қызмет {display: block;}
+.dropdown:hover div.көрме,.dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кйім,.dropdown:hover div.құрылғы,.dropdown:hover div.құрлыс,.dropdown:hover div.тазарту,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,.dropdown:hover div.қызмет {display: block;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
