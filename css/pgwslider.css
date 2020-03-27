@@ -173,7 +173,7 @@ div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.құ�
   z-index: 1; }
 div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кйім a,div.құрылғы a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
   color: #917c5a;
-  padding: 12px 16px;
+  padding: 4px 7px;
   text-decoration: none;
   display: block; }
 div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азық a:hover,div.кйім a:hover,div.құрылғы a:hover,div.құрлыс a:hover,div.тазарту a:hover,div.жиһаз a:hover,div.білім a:hover,div.жануар a:hover,div.қызмет a:hover {background-color: #baa90d6e;}
