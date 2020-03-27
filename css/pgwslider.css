@@ -125,7 +125,7 @@ a.өнер-білім-спорт { margin: -52px 126px; }
 a.сән-үлгілері { margin: -42px 126px; }
 a.табиғат { margin: -82px 241px; }
 
-.көрме { margin: -7px 2px; position: absolute; }
+img.көрме { margin: -7px 2px; position: absolute; }
 .үй { margin: -10px 32px; position: absolute; }
 .көлік { margin: -5px 66px; position: absolute; }
 .азық { margin: -3px 96px; position: absolute; }
@@ -138,7 +138,7 @@ a.табиғат { margin: -82px 241px; }
 .жануар { margin: -9px 348px; position: absolute; }
 .қызмет { margin: 27px 343px; position: absolute; }
 
-.көрме:hover { content: url(../suretter/korme-janu.svg); }
+img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 .үй:hover { content: url(../suretter/yi-janu.svg); }
 .көлік:hover { content: url(../suretter/kolik-janu.svg); }
 .азық:hover { content: url(../suretter/azyk-janu.svg); }
@@ -148,8 +148,8 @@ a.табиғат { margin: -82px 241px; }
 .тазарту:hover { content: url(../suretter/tazartu-janu.svg); }
 .жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
 .білім:hover { content: url(../suretter/bilim-janu.svg); }
-.жануар:hover { content: url(../suretter/januar-janu.svg); }
-.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
+img.жануар:hover { content: url(../suretter/januar-janu.svg); }
+img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
 p.takyryp-janu {
  color: #b8a80d;
@@ -166,7 +166,7 @@ p.takyryp-janu {
 .dropdown {
   position: relative;
   display: inline-block; }
-div.көрме,div.мүлік,div.көлік,.азық,.кйім,.құрылғы,.құрлыс,.тазарту,.жиһаз,.білім,.жануар,.қызмет {
+div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.құрылғы,div.құрлыс,div.тазарту,div.жиһаз,div.білім,div.жануар,div.қызмет {
   font-size: 12px;
   margin: -223px 0px;
   display: none;
