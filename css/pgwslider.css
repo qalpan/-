@@ -149,23 +149,25 @@ img.тазарту:hover { content: url(../suretter/tazartu-janu.svg); }
 img.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
 img.білім:hover { content: url(../suretter/bilim-janu.svg); }
 img.жануар:hover { content: url(../suretter/januar-janu.svg); }
-img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
+img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 
-p.takyryp-janu {
- color: #b8a80d;
- position: absolute;
- margin: 0;
- padding: 0;}
+.көрме { margin: -435px 2px; }
+.мүлік { margin: -198px 30px; }
+.көлік { margin: -194px 66px; }
+.азық { margin: -193px 96px; }
+.кйім { margin: -201px 122px; }
+.құрылғы { margin: -193px 158px; }
+.құрлыс { margin: -198px 202px; }
+.тазарту { margin: -188px 245px; }
+.жиһаз { margin: -202px 265px; }
+.білім { margin: -190px 260px; }
+.жануар { margin: -197px 256px; }
+.қызмет { margin: -161px 251px; }
 
-.dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none; }
-.dropdown {
-  position: relative;
-  display: inline-block; }
+p.takyryp-janu { color: #b8a80d; position: absolute; margin: 0; padding: 0;}
+.dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
+.dropdown { position: relative; display: inline-block; }
+
 div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.құрылғы,div.құрлыс,div.тазарту,div.жиһаз,div.білім,div.жануар,div.қызмет {
   font-size: 12px;
   margin: -223px 0px;
