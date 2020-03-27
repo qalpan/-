@@ -175,11 +175,11 @@ div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.құ�
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px #e3d9bab3;
   z-index: 1; }
-.dropdown-content a {
+div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кйім a,div.құрылғы a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block; }
-.dropdown-content a:hover {background-color: #baa90d6e;}
-.dropdown:hover .dropdown-content {display: block;}
+div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кйім a,div.құрылғы a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a:hover {background-color: #baa90d6e;}
+.dropdown:hover div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.құрылғы,div.құрлыс,div.тазарту,div.жиһаз,div.білім,div.жануар,div.қызмет {display: block;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
