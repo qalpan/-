@@ -126,28 +126,28 @@ a.сән-үлгілері { margin: -42px 126px; }
 a.табиғат { margin: -82px 241px; }
 
 img.көрме { margin: -7px 2px; position: absolute; }
-.үй { margin: -10px 32px; position: absolute; }
-.көлік { margin: -5px 66px; position: absolute; }
-.азық { margin: -3px 96px; position: absolute; }
-.кійім { margin: -12px 122px; position: absolute; }
-.құрылғы { margin: -4px 151px; position: absolute; }
-.құрлыс { margin: -9px 198px; position: absolute; }
-.тазарту { margin: 1px 233px; position: absolute; }
-.жихаз { margin: -11px 285px; position: absolute; }
-.білім { margin: -2px 318px; position: absolute; }
-.жануар { margin: -9px 348px; position: absolute; }
-.қызмет { margin: 27px 343px; position: absolute; }
+img.мүлік { margin: -10px 32px; position: absolute; }
+img.көлік { margin: -5px 66px; position: absolute; }
+img.азық { margin: -3px 96px; position: absolute; }
+img.кійім { margin: -12px 122px; position: absolute; }
+img.құрылғы { margin: -4px 151px; position: absolute; }
+img.құрлыс { margin: -9px 198px; position: absolute; }
+img.тазарту { margin: 1px 233px; position: absolute; }
+img.жихаз { margin: -11px 285px; position: absolute; }
+img.білім { margin: -2px 318px; position: absolute; }
+img.жануар { margin: -9px 348px; position: absolute; }
+img.қызмет { margin: 27px 343px; position: absolute; }
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
-.үй:hover { content: url(../suretter/yi-janu.svg); }
-.көлік:hover { content: url(../suretter/kolik-janu.svg); }
-.азық:hover { content: url(../suretter/azyk-janu.svg); }
-.кійім:hover { content: url(../suretter/kiim-janu.svg); }
-.құрылғы:hover { content: url(../suretter/kyrylgy-janu.svg); }
-.құрлыс:hover { content: url(../suretter/kyrlys-janu.svg); }
-.тазарту:hover { content: url(../suretter/tazartu-janu.svg); }
-.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
-.білім:hover { content: url(../suretter/bilim-janu.svg); }
+img.мүлік:hover { content: url(../suretter/mylik-janu.svg); }
+img.көлік:hover { content: url(../suretter/kolik-janu.svg); }
+img.азық:hover { content: url(../suretter/azyk-janu.svg); }
+img.кійім:hover { content: url(../suretter/kiim-janu.svg); }
+img.құрылғы:hover { content: url(../suretter/kyrylgy-janu.svg); }
+img.құрлыс:hover { content: url(../suretter/kyrlys-janu.svg); }
+img.тазарту:hover { content: url(../suretter/tazartu-janu.svg); }
+img.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
+img.білім:hover { content: url(../suretter/bilim-janu.svg); }
 img.жануар:hover { content: url(../suretter/januar-janu.svg); }
 img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
