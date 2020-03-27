@@ -167,7 +167,7 @@ div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.құ�
   font-size: 12px;
   display: none;
   position: absolute;
-  background-color: #e3d9bad1;
+  background-color: rgba(227, 217, 186, 0.8196078431372549);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px #e3d9bab3;
   z-index: 1; }
