@@ -232,7 +232,7 @@
 
             // Add controls
             if (pgwSlider.config.displayControls && pgwSlider.slideCount > 1) {
-                pgwSlider.plugin.find('.ps-current').prepend('<span class=""><span class="ps-prevIcon"><img src="suretter/atau-belgi1.svg"></span></span>');
+                pgwSlider.plugin.find('.ps-current').prepend('<span class=""><span class="ps-prevIcon"><img src="suretter/atau-belgi.svg"></span></span>');
                 pgwSlider.plugin.find('.ps-current').append('<span class=""><span class="ps-nextIcon"></span></span>');
                 pgwSlider.plugin.find('.ps-current .ps-prev').click(function() {
                     pgwSlider.previousSlide();
