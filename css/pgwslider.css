@@ -18,7 +18,7 @@ ul.pgwSlider.wide > li,
 body {  margin: 2px; }
 
 span.ps-prevIcon {
-    content: url(../suretter/atau-belgi1.svg);
+    content: url(../suretter/atau-belgi.svg);
     position: absolute;
     z-index:4;
     bottom: 5px;
@@ -120,7 +120,6 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .жануар { margin: -73px 256px; }
 .қызмет { margin: -75px 251px; }
 
-p.takyryp-janu { color: #b8a80d; position: absolute; margin: 0; padding: 0;}
 .dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
 .dropdown { position: relative; display: inline-block; }
 
