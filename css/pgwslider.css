@@ -115,6 +115,10 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .заттар { margin: -119px 151px; }
 .құрлыс { margin: -139px 197px; }
 .тазарту { margin: -52px 237px; }
+.жиһаз { margin: -138px 265px; } 
+.білім { margin: -138px 260px; }
+.жануар { margin: -73px 256px; }
+.қызмет { margin: -75px 251px; }
 
 p.takyryp-janu { color: #b8a80d; position: absolute; margin: 0; padding: 0;}
 .dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
