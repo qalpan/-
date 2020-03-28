@@ -110,6 +110,9 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 
 .көрме { margin: -249px -6px; }
 .мүлік { margin: -119px 30px; }
+.көлік { margin: -184px 64px; }
+.азық { margin: -162px 95px; }
+
 
 p.takyryp-janu { color: #b8a80d; position: absolute; margin: 0; padding: 0;}
 .dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
