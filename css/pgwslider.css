@@ -120,18 +120,18 @@ a.өнер-білім-спорт { margin: -52px 126px; }
 a.сән-үлгілері { margin: -42px 126px; }
 a.табиғат { margin: -82px 241px; }
 
-img.көрме { margin: -7px 2px; position: absolute; }
-img.мүлік { margin: -10px 32px; position: absolute; }
-img.көлік { margin: -5px 66px; position: absolute; }
-img.азық { margin: -3px 96px; position: absolute; }
-img.кійім { margin: -12px 122px; position: absolute; }
-img.заттар { margin: -4px 151px; position: absolute; }
-img.құрлыс { margin: -9px 198px; position: absolute; }
-img.тазарту { margin: 1px 233px; position: absolute; }
-img.жихаз { margin: -11px 285px; position: absolute; }
-img.білім { margin: -2px 318px; position: absolute; }
-img.жануар { margin: -9px 348px; position: absolute; }
-img.қызмет { margin: 27px 343px; position: absolute; }
+img.көрме { margin: -10px 2px; position: absolute; }
+img.мүлік { margin: -10px 37px; position: absolute; }
+img.көлік { margin: -10px 71px; position: absolute; }
+img.азық { margin: -10px 101px; position: absolute; }
+img.кійім { margin: -10px 129px; position: absolute; }
+img.заттар { margin: -10px 157px; position: absolute; }
+img.құрлыс { margin: -9px 205px; position: absolute; }
+img.тазарту { margin: -8px 244px; position: absolute; }
+img.жихаз { margin: -8px 298px; position: absolute; }
+img.білім { margin: -8px 333px; position: absolute; }
+img.жануар { margin: -8px 363px; position: absolute; }
+img.қызмет { margin: 34px 358px; position: absolute; }
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 img.мүлік:hover { content: url(../suretter/mylik-janu.svg); }
