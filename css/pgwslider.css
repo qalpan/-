@@ -129,7 +129,7 @@ img.білім:hover { content: url(../suretter/bilim-janu.svg); }
 img.жануар:hover { content: url(../suretter/januar-janu.svg); }
 img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 
-.dropdown img:hover {background-color:rgba(255, 255, 240, 0.88); }
+.dropdown img:hover {background-color:rgb(255, 255, 240); }
 
 .көрме { margin:-250px -6px; }
 .мүлік { margin:-119px 30px; }
@@ -150,7 +150,7 @@ div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.з�
   font-size: 12px;
   display: none;
   position: absolute;
-  background-color:rgb(255, 255, 240);
+  background-color:rgba(255, 255, 240, 0.89);
   min-width: 150px;
   z-index: 1; }
 div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.заттар a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
