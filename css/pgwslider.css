@@ -129,7 +129,7 @@ img.білім:hover { content: url(../suretter/bilim-janu.svg); }
 img.жануар:hover { content: url(../suretter/januar-janu.svg); }
 img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 
-.dropdown img:hover {background-color:rgb(255, 255, 240); }
+.dropdown img:hover {background-color:rgba(255, 255, 240, 0.88); }
 
 .көрме { margin:-250px -6px; }
 .мүлік { margin:-119px 30px; }
