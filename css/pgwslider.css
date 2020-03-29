@@ -17,6 +17,9 @@ img.білім { width: 16px; left: -141px;}
 img.жануар {width: 25px; left: -156px;}
 img.қызмет { width: 30px; bottom: -47px; left: -126px;}}
 
+div.көрме, div.мүлік, div.көлік, div.азық, div.кйім, div.заттар, div.құрлыс, div.тазарту, 
+div.жиһаз, div.білім, div.жануар, div.қызмет { font-size: 9px; }
+
 @media only screen and (max-width: 1200px) {ul.ps-list { max-width: 29%; max-height: 300px; }
 .pgwSlider.wide > ul > li { max-width: 22% !important;}}   
 
