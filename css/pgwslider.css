@@ -3,18 +3,18 @@
 @media only screen and (max-width:490px) { 
 ul.ps-list { max-width:100%; max-height:200px;}	
 span.ps-prevIcon { width:41px; margin-bottom:-3px; }
-img.көрме {width:22px;}
-img.мүлік {width:20px; left:-14px;}
-img.көлік {width:18px; left:-27px;}
-img.азық {width:17px; left:-40px;}
-img.кійім {width:17px; left:-51px;}
-img.заттар {width:30px;left:-63px;}
-img.құрлыс {width:22px; left:-82px;}
-img.тазарту {width:30px; left:-100px;}
-img.жихаз {width:19px; left:-125px;}
-img.білім { width:16px; left:-141px;}
-img.жануар {width:25px; left:-156px;}
-img.қызмет { width:30px; bottom:-47px; left:-126px;}
+img.көрме {width:24px;}
+img.мүлік {width:22px; left:-11px;}
+img.көлік {width:20px; left:-22px;}
+img.азық {width:19px; left:-32px;}
+img.кійім {width:19px; left:-40px;}
+img.заттар {width:34px;left:-48px;}
+img.құрлыс {width:25px; left:-61px;}
+img.тазарту {width:35px; left:-74px;}
+img.жихаз {width:22px; left:-93px;}
+img.білім { width:18px; left:-105px;}
+img.жануар {width:28px; left:-117px;}
+img.қызмет { width:32px; bottom:-50px; left:-84px;}
 .dropdown div.көрме {font-size:9px;min-width:116px;margin:-208px -4px;}
 .dropdown div.мүлік {font-size:9px;min-width:64px;margin:-100px 17px;}
 .dropdown div.көлік {font-size:9px;margin:-154px 38px;min-width:68px;}
