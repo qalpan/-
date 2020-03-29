@@ -26,7 +26,7 @@ img.қызмет { width:30px; bottom:-47px; left:-126px;}
 .dropdown div.жиһаз {font-size:9px;min-width:48px;margin:-116px 167px;}
 .dropdown div.білім {font-size:9px;text-align:left;min-width:56px;margin:-116px 186px;}
 .dropdown div.жануар {font-size:9px;text-align:left; min-width:64px;margin:-62px 202px;}
-.dropdown div.қызмет {font-size:9px;text-align:left; min-width:68px;margin:-121px 225px;} }
+.dropdown div.қызмет {font-size:9px;text-align:left; min-width:72px;margin:-121px 225px;} }
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
