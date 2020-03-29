@@ -17,10 +17,10 @@ img.білім { width: 16px; left: -141px;}
 img.жануар {width: 25px; left: -156px;}
 img.қызмет { width: 30px; bottom: -47px; left: -126px;}
 
-.dropdown div.көрме { font-size: 9px; min-width: 90px; margin: -207px -6px; }
-.dropdown div.мүлік { font-size: 9px; margin: -207px -6px; }
-.dropdown div.көлік { font-size: 9px; margin: -207px -6px; }
-.dropdown div.азық { font-size: 9px; margin: -207px -6px; }
+.dropdown div.көрме {font-size: 9px;min-width: 116px;margin: -207px -6px;}
+.dropdown div.мүлік {font-size: 9px;min-width: 64px;margin: -100px 15px;}
+.dropdown div.көлік {font-size: 9px;margin: -155px 37px;min-width: 68px;}
+.dropdown div.азық {font-size: 9px;margin: -137px 55px;min-width: 98px;}
 .dropdown div.кійім { font-size: 9px; margin: -207px -6px; }
 .dropdown div.заттар { font-size: 9px; margin: -207px -6px; }
 .dropdown div.құрлыс { font-size: 9px; margin: -207px -6px; }
@@ -134,7 +134,7 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .мүлік { margin: -119px 30px; }
 .көлік { margin: -184px 63px; }
 .азық { margin: -162px 95px; }
-.кйім { margin: -162px 122px; }
+.кійім { margin: -162px 122px; }
 .заттар { margin: -119px 151px; }
 .құрлыс { margin: -139px 197px; }
 .тазарту { margin: -52px 237px; }
@@ -146,18 +146,18 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
 .dropdown { position: relative; display: inline-block; }
 
-div.көрме,div.мүлік,div.көлік,div.азық,div.кйім,div.заттар,div.құрлыс,div.тазарту,div.жиһаз,div.білім,div.жануар,div.қызмет {
+div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.заттар,div.құрлыс,div.тазарту,div.жиһаз,div.білім,div.жануар,div.қызмет {
   font-size: 12px;
   display: none;
   position: absolute;
   background-color: rgba(227, 217, 186, 0.8196078431372549);
   min-width: 160px;
   z-index: 1; }
-div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кйім a,div.заттар a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
+div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.заттар a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
   color: #917c5a;
   padding: 4px 7px;
   text-decoration: none;
   display: block; }
-div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азық a:hover,div.кйім a:hover,div.заттар a:hover,div.құрлыс a:hover,div.тазарту a:hover,div.жиһаз a:hover,div.білім a:hover,div.жануар a:hover,div.қызмет a:hover {background-color: rgba(186, 169, 13, 0.43137254901960786);}
+div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азық a:hover,div.кійім a:hover,div.заттар a:hover,div.құрлыс a:hover,div.тазарту a:hover,div.жиһаз a:hover,div.білім a:hover,div.жануар a:hover,div.қызмет a:hover {background-color: rgba(186, 169, 13, 0.43137254901960786);}
 .dropdown:hover div.көрме,.dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кйім,.dropdown:hover div.заттар,.dropdown:hover div.құрлыс,.dropdown:hover div.тазарту,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,.dropdown:hover div.қызмет {display: block;}
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
