@@ -21,11 +21,11 @@ img.қызмет { width: 30px; bottom: -47px; left: -126px;}
 .dropdown div.мүлік {font-size: 9px;min-width: 64px;margin: -100px 15px;}
 .dropdown div.көлік {font-size: 9px;margin: -155px 37px;min-width: 68px;}
 .dropdown div.азық {font-size: 9px;margin: -137px 55px;min-width: 98px;}
-.dropdown div.кійім { font-size: 9px; margin: -207px -6px; }
-.dropdown div.заттар { font-size: 9px; margin: -207px -6px; }
-.dropdown div.құрлыс { font-size: 9px; margin: -207px -6px; }
-.dropdown div.тазарту { font-size: 9px; margin: -207px -6px; }
-.dropdown div.жихаз { font-size: 9px; margin: -207px -6px; }
+.dropdown div.кійім {font-size: 9px;min-width: 51px;margin: -137px 71px;}
+.dropdown div.заттар {font-size: 9px;min-width: 48px;margin: -101px 88px;}
+.dropdown div.құрлыс {font-size: 9px;min-width: 61px;margin: -119px 115px;}
+.dropdown div.тазарту {font-size: 9px;min-width: 63px;margin: -46px 136px;}
+.dropdown div.жиһаз { font-size: 9px; margin: -207px -6px; }
 .dropdown div.білім { font-size: 9px; margin: -207px -6px; }
 .dropdown div.жануар { font-size: 9px; margin: -207px -6px; }
 .dropdown div.қызмет { font-size: 9px; margin: -207px -6px; }   }
