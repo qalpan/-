@@ -84,7 +84,7 @@ return false}
 <li><img src="suretter/adamdarmen/шәнж боп достары.jpg"/></li>
 </ul>
 
-<?html include 'bolimder.html';?>
+<?php include 'bolimder.php';?>
 
 
 <script>
