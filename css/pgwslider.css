@@ -132,18 +132,18 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 
 .dropdown img:hover {background-color:rgba(227, 217, 186, 0.8196078431372549); }
 
-.көрме { margin: -249px -6px; }
-.мүлік { margin: -119px 30px; }
-.көлік { margin: -184px 63px; }
-.азық { margin: -162px 95px; }
-.кійім { margin: -162px 122px; }
-.заттар { margin: -119px 151px; }
-.құрлыс { margin: -139px 197px; }
+.көрме { margin: -252px -6px; }
+.мүлік { margin: -120px 30px; }
+.көлік { margin: -186px 63px; }
+.азық { margin: -164px 95px; }
+.кійім { margin: -164px 122px; }
+.заттар { margin: -120px 151px; }
+.құрлыс { margin: -141px 197px; }
 .тазарту { margin: -52px 237px; }
-.жиһаз { margin: -141px 291px; } 
-.білім { margin: -141px 218px; text-align: right; }
-.жануар { margin: -75px 260px; text-align: right; }
-.қызмет { margin: -78px 258px; text-align: right; }
+.жиһаз { margin: -140px 291px; } 
+.білім { margin: -140px 218px; text-align: right; }
+.жануар { margin: -74px 260px; text-align: right; }
+.қызмет { margin: -76px 258px; text-align: right; }
 
 .dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
 .dropdown { position: relative; display: inline-block; }
