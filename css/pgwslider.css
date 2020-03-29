@@ -139,9 +139,9 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .құрлыс { margin: -139px 197px; }
 .тазарту { margin: -52px 237px; }
 .жиһаз { margin: -141px 291px; } 
-.білім { margin: -138px 260px; }
-.жануар { margin: -73px 256px; }
-.қызмет { margin: -75px 251px; }
+.білім { margin: -141px 218px; text-align: right; }
+.жануар { margin: -75px 260px; text-align: right; }
+.қызмет { margin: -78px 258px; text-align: right; }
 
 .dropbtn { background-color: #4CAF50; color: white; padding: 16px; font-size: 16px; border: none; }
 .dropdown { position: relative; display: inline-block; }
