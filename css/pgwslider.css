@@ -138,7 +138,7 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .заттар { margin: -119px 151px; }
 .құрлыс { margin: -139px 197px; }
 .тазарту { margin: -52px 237px; }
-.жиһаз { margin: -138px 265px; } 
+.жиһаз { margin: -141px 291px; } 
 .білім { margin: -138px 260px; }
 .жануар { margin: -73px 256px; }
 .қызмет { margin: -75px 251px; }
@@ -151,7 +151,7 @@ div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.з�
   display: none;
   position: absolute;
   background-color: rgba(227, 217, 186, 0.8196078431372549);
-  min-width: 160px;
+  min-width: 150px;
   z-index: 1; }
 div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.заттар a,div.құрлыс a,div.тазарту a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
   color: #917c5a;
