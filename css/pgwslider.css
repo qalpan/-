@@ -16,17 +16,17 @@ img.білім { width:18px; left:-105px;}
 img.жануар {width:28px; left:-117px;}
 img.қызмет { width:32px; bottom:-50px; left:-84px;}
 .dropdown div.көрме {font-size:10px;min-width:127px;margin:-220px -4px;}
-.dropdown div.мүлік {font-size:10px;min-width:64px;margin:-100px 17px;}
-.dropdown div.көлік {font-size:10px;margin:-154px 38px;min-width:68px;}
-.dropdown div.азық {font-size:10px;margin:-136px 55px;min-width:98px;}
-.dropdown div.кійім {font-size:10px;min-width:51px;margin:-136px 72px;}
-.dropdown div.заттар {font-size:10px;min-width:48px;margin:-100px 88px;}
-.dropdown div.құрлыс {font-size:10px;min-width:61px;margin:-117px 117px;}
-.dropdown div.тазарту {font-size:10px;min-width:63px;margin:-44px 137px;}
-.dropdown div.жиһаз {font-size:10px;min-width:48px;margin:-116px 167px;}
-.dropdown div.білім {font-size:10px;text-align:left;min-width:56px;margin:-116px 186px;}
-.dropdown div.жануар {font-size:10px;text-align:left; min-width:64px;margin:-62px 202px;}
-.dropdown div.қызмет {font-size:10px;text-align:left; min-width:72px;margin:-121px 225px;} }
+.dropdown div.мүлік {font-size:10px;min-width:69px;margin:-106px 19px;}
+.dropdown div.көлік {font-size:10px;margin:-165px 43px;min-width:68px;}
+.dropdown div.азық {font-size:10px;margin:-145px 62px;min-width:107px;}
+.dropdown div.кійім {font-size:10px;min-width:55px;margin:-144px 82px;}
+.dropdown div.заттар {font-size:10px;min-width:48px;margin:-106px 103px;}
+.dropdown div.құрлыс {font-size:10px;min-width:66px;margin:-124px 137px;}
+.dropdown div.тазарту {font-size:10px;min-width:68px;margin:-46px 164px;}
+.dropdown div.жиһаз {font-size:10px;min-width:48px;margin:-122px 198px;}
+.dropdown div.білім {font-size:10px;text-align:left;min-width:61px;margin:-123px 222px;}
+.dropdown div.жануар {font-size:10px;text-align:left; min-width:69px;margin:-65px 240px;}
+.dropdown div.қызмет {font-size:10px;text-align:right; min-width:117px;margin:-105px 194px;} }
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
