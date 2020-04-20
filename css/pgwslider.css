@@ -42,7 +42,7 @@ span.ps-prevIcon {
     content: url(../suretter/atau-belgi.svg);
     position: absolute;
     z-index:4;
-    bottom: 2px;
+    bottom: 4px;
     left: 5px; }
 
 span.ps-prevIcon:hover { content: url(../suretter/atau-belgi-janu.svg); }
