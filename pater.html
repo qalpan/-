@@ -9,6 +9,40 @@
 <script src="js/jquery.min.js"></script>
 <script src="js/pgwslider.js"></script>
 <link rel="stylesheet" href="css/pgwslider.css">
+	
+	
+	
+<style>
+		* { border:0; margin:0; padding:0; }
+		p { position:absolute; top:3px; right:28px; color:#555; font:bold 13px/1 sans-serif;}
+
+		.zoom{display:inline-block;position: relative;}
+		.zoom:after {
+			content:'';
+			display:block;
+			width:33px;
+			height:33px;
+			position:absolute;
+			top:0;
+			right:0;
+			background:url(icon.png);}
+		.zoom img{display: block;}
+		.zoom img::selection { background-color: transparent; }
+		#ex2 img:hover { cursor: url(grab.cur), default; }
+		#ex2 img:active { cursor: url(grabbed.cur), default; }
+	</style>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="jquery.zoom.js"></script>
+	<script>
+		$(document).ready(function(){
+			$('#ex1').zoom();
+		});
+	</script>	
+	
+	
+	
+	
+	
 </head>
 
 <script type="text/javascript">
