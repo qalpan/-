@@ -114,8 +114,8 @@ img.құрлыс { margin: -9px 205px; position: absolute; }
 img.тазарту { margin: -8px 244px; position: absolute; }
 img.жихаз { margin: -8px 298px; position: absolute; }
 img.білім { margin: -8px 333px; position: absolute; }
-img.жануар { margin: -8px 363px; position: absolute; }
-img.қызмет{bottom:-62px;left:-46pxposition:absolute;}
+img.жануар{margin:-8px 363px;position:absolute;}
+img.қызмет{bottom:-62px;left:-46px;position:absolute;}
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 img.мүлік:hover { content: url(../suretter/mylik-janu.svg); }
