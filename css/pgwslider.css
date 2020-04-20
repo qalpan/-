@@ -42,7 +42,7 @@ span.ps-prevIcon {
     content: url(../suretter/atau-belgi.svg);
     position: absolute;
     z-index:4;
-    bottom: 5px;
+    bottom: 2px;
     left: 5px; }
 
 span.ps-prevIcon:hover { content: url(../suretter/atau-belgi-janu.svg); }
@@ -114,7 +114,7 @@ img.тазарту { margin: -8px 244px; position: absolute; }
 img.жихаз { margin: -8px 298px; position: absolute; }
 img.білім { margin: -8px 333px; position: absolute; }
 img.жануар { margin: -8px 363px; position: absolute; }
-img.қызмет { margin: 34px 358px; position: absolute; }
+img.қызмет { margin: 34px -48px; position: absolute; }
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 img.мүлік:hover { content: url(../suretter/mylik-janu.svg); }
@@ -142,7 +142,7 @@ img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
 .жиһаз { margin:-137px 189px;text-align: right; } 
 .білім { margin:-137px 218px;text-align:right; }
 .жануар { margin:-72px 260px;text-align:right; }
-.қызмет { margin:-74px 258px;text-align:right; }
+.қызмет { margin:-74px -47px;text-align:right; }
 
 .dropdown { position: relative; display: inline-block; }
 
