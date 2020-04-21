@@ -54,7 +54,7 @@ span.ps-prevIcon:hover { content: url(../suretter/atau-belgi-janu.svg); }
     float: left;
     width: 69.6%;
     overflow: hidden;
-    max-height: 752px;
+    height: inherit;
     position: relative;
     font-size: 1rem; }
 
