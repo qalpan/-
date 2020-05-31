@@ -128,7 +128,7 @@ img.химиа:hover { content: url(../suretter/ximia-janu.svg); }
 img.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
 img.білім:hover { content: url(../suretter/bilim-janu.svg); }
 img.жануар:hover { content: url(../suretter/januar-janu.svg); }
-img.қызмет hover { content: url(../suretter/kyzmet-janu.svg); }
+img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
 .dropdown img:hover {background-color:rgb(255, 255, 240); }
 
