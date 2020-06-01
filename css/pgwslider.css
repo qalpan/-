@@ -112,6 +112,7 @@ span {
     position: absolute; }
 
 img.көрме { margin: 29px 2px; position: absolute; }
+img.көрме адамдар { margin: 29px 2px; position: absolute; }
 img.мүлік { margin: -10px 37px; position: absolute; }
 img.көлік { margin: -10px 71px; position: absolute; }
 img.азық { margin: -10px 101px; position: absolute; }
@@ -125,6 +126,7 @@ img.жануар{margin:-8px 363px;position:absolute;}
 img.қызмет{bottom:-24px;left:-47px;position:absolute;}
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
+img.көрме адамдар:hover{content: url(../suretter/korme-adamdar-janyu.svg);}
 img.мүлік:hover { content: url(../suretter/mylik-janu.svg); }
 img.көлік:hover { content: url(../suretter/kolik-janu.svg); }
 img.азық:hover { content: url(../suretter/azyk-janu.svg); }
