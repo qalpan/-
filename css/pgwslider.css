@@ -104,19 +104,19 @@ ul.pgwSlider.narrow > li,
     font-size: 0.7rem;
     margin-bottom: 0; }
 
-img.көрме { margin: -8px 2px; position: absolute; }
+img.көрме { margin: -8px -2px; position: absolute; }
 img.көрме-адамдар { margin: -8px 2px; position: absolute; }
-img.мүлік { margin: -9px 38px; position: absolute; }
-img.көлік { margin: -8px 70px; position: absolute; }
-img.азық { margin: -8px 99px; position: absolute; }
-img.кійім { margin: -8px 130px; position: absolute; }
-img.зат { margin: -8px 160px; position: absolute; }
-img.құрлыс { margin: -8px 194px; position: absolute; }
-img.химиа { margin: -9px 231px; position: absolute; }
-img.жихаз { margin: -9px 270px; position: absolute; }
-img.білім { margin: -8px 302px; position: absolute; }
-img.жануар{margin:-8px 337px;position:absolute;}
-img.қызмет{bottom:-30px;left:380px;position:absolute;}
+img.мүлік { margin: -9px 31px; position: absolute; }
+img.көлік { margin: -8px 61px; position: absolute; }
+img.азық { margin: -8px 89px; position: absolute; }
+img.кійім { margin: -8px 116px; position: absolute; }
+img.зат { margin: -8px 147px; position: absolute; }
+img.құрлыс { margin: -8px 179px; position: absolute; }
+img.химиа { margin: -9px 216px; position: absolute; }
+img.жихаз { margin: -9px 252px; position: absolute; }
+img.білім { margin: -8px 284px; position: absolute; }
+img.жануар{margin:-8px 321px;position:absolute;}
+img.қызмет{bottom:-30px;left:364px;position:absolute;}
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 img.көрме-адамдар:hover{content: url(../suretter/korme-adamdar-janyu.svg);}
