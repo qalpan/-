@@ -164,5 +164,8 @@ div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азы�
 .dropdown:hover div.көрме,.dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кійім,.dropdown:hover div.зат,.dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,.dropdown:hover div.қызмет {display: block;}
 
 img.ел-пошта{bottom:18px;right:7px;position:absolute;}
-
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
+
+img.ағылшын {margin: 64px 0px;position: absolute;}
+img.жапон {margin: 65px 45px;position: absolute;}
+img.араб {margin: 66px 84px;position: absolute;}
