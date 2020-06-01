@@ -151,7 +151,7 @@ img.араб:hover { content: url(../suretter/arab-janu.svg); }
 .қызмет{bottom:8px;left:264px;text-align:right;}
 .dropdown { position: relative; display: inline-block; }
 
-div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
+div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
   font-size: 12px;
   display: none;
   position: absolute;
