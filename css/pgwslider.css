@@ -115,8 +115,8 @@ img.құрлыс { margin: -8px 178px; position: absolute; }
 img.химиа { margin: -8px 214px; position: absolute; }
 img.жихаз { margin: -8px 250px; position: absolute; }
 img.білім { margin: -8px 282px; position: absolute; }
-img.жануар{margin:-8px 319px;position:absolute;}
-img.қызмет{bottom:-30px;left:362px;position:absolute;}
+img.жануар{margin:-8px 318px;position:absolute;}
+img.қызмет{bottom:-30px;left:361px;position:absolute;}
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 img.көрме-адамдар:hover{content: url(../suretter/korme-adamdar-janyu.svg);}
@@ -145,7 +145,7 @@ img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 .жиһаз { margin:-137px 147px;text-align: right; }  
 .білім { margin:-137px 177px;text-align:right; }
 .жануар { margin:-72px 221px;text-align:right; }
-.қызмет{bottom:9px;left:283px;text-align:right;}
+.қызмет{bottom:9px;left:264px;text-align:right;}
 .dropdown { position: relative; display: inline-block; }
 
 div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
