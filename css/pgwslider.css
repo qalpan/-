@@ -137,15 +137,15 @@ img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 .көрме { margin:-245px -3px; }
 .мүлік { margin:-116px 30px; }
 .көлік { margin:-180px 61px; }
-.азық { margin:-159px 90px; }
-.кійім { margin:-159px 117px; }
+.азық { margin:-159px 89px; }
+.кійім { margin:-159px 116px; }
 .зат { margin:-116px 147px; }
-.құрлыс { margin:-137px 177px; }
-.химиа { margin:-51px 216px; }
-.жиһаз { margin:-137px 147px;text-align: right; }  
-.білім { margin:-137px 177px;text-align:right; }
-.жануар { margin:-72px 221px;text-align:right; }
-.қызмет{bottom:9px;left:264px;text-align:right;}
+.құрлыс { margin:-137px 176px; }
+.химиа { margin:-51px 213px; }
+.жиһаз { margin:-137px 146px;text-align: right; }  
+.білім { margin:-137px 175px;text-align:right; }
+.жануар { margin:-72px 219px;text-align:right; }
+.қызмет{bottom:8px;left:264px;text-align:right;}
 .dropdown { position: relative; display: inline-block; }
 
 div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
