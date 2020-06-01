@@ -131,6 +131,7 @@ img.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
 img.білім:hover { content: url(../suretter/bilim-janu.svg); }
 img.жануар:hover { content: url(../suretter/januar-janu.svg); }
 img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
+img.қазақ:hover { content: url(../suretter/agylhyn-janu.svg); }
 img.ағылшын:hover { content: url(../suretter/agylhyn-janu.svg); }
 img.жапон:hover { content: url(../suretter/japon-janu.svg); }
 img.араб:hover { content: url(../suretter/arab-janu.svg); }
@@ -167,7 +168,7 @@ div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азы�
 
 img.ел-пошта{bottom:18px;right:7px;position:absolute;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
-
+img.қазақ {margin:64px 0px;position:absolute;}
 img.ағылшын {margin:64px 0px;position:absolute;}
 img.жапон {margin:65px 45px;position:absolute;}
 img.араб {margin:66px 84px;position:absolute;}
