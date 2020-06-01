@@ -134,18 +134,18 @@ img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
 .dropdown img:hover {background-color:rgb(255, 255, 240); }
 
-.көрме { margin:-248px -6px; }
-.мүлік { margin:-118px 43px; }
-.көлік { margin:-183px 77px; }
-.азық { margin:-161px 106px; }
-.кійім { margin:-161px 135px; }
-.зат { margin:-118px 166px; }
-.құрлыс { margin:-139px 192px; }
-.химиа { margin:-51px 237px; }
-.жиһаз { margin:-137px 189px;text-align: right; }  
-.білім { margin:-137px 218px;text-align:right; }
-.жануар { margin:-72px 260px;text-align:right; }
-.қызмет{bottom:9px;left:-51px;}
+.көрме { margin:-248px -1px; }
+.мүлік { margin:-118px 37px; }
+.көлік { margin:-183px 70px; }
+.азық { margin:-161px 99px; }
+.кійім { margin:-161px 130px; }
+.зат { margin:-118px 163px; }
+.құрлыс { margin:-139px 190px; }
+.химиа { margin:-51px 229px; }
+.жиһаз { margin:-137px 164px;text-align: right; }  
+.білім { margin:-137px 193px;text-align:right; }
+.жануар { margin:-72px 238px;text-align:right; }
+.қызмет{bottom:9px;left:283px;text-align:right;}
 .dropdown { position: relative; display: inline-block; }
 
 div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
