@@ -106,17 +106,17 @@ ul.pgwSlider.narrow > li,
 
 img.көрме { margin: -8px -2px; position: absolute; }
 img.көрме-адамдар { margin: -8px 2px; position: absolute; }
-img.мүлік { margin: -8px 31px; position: absolute; }
-img.көлік { margin: -8px 61px; position: absolute; }
-img.азық { margin: -8px 89px; position: absolute; }
-img.кійім { margin: -8px 116px; position: absolute; }
-img.зат { margin: -8px 147px; position: absolute; }
-img.құрлыс { margin: -8px 179px; position: absolute; }
-img.химиа { margin: -8px 216px; position: absolute; }
-img.жихаз { margin: -8px 252px; position: absolute; }
-img.білім { margin: -8px 284px; position: absolute; }
-img.жануар{margin:-8px 321px;position:absolute;}
-img.қызмет{bottom:-30px;left:364px;position:absolute;}
+img.мүлік { margin: -8px 30px; position: absolute; }
+img.көлік { margin: -8px 60px; position: absolute; }
+img.азық { margin: -8px 88px; position: absolute; }
+img.кійім { margin: -8px 115px; position: absolute; }
+img.зат { margin: -8px 146px; position: absolute; }
+img.құрлыс { margin: -8px 178px; position: absolute; }
+img.химиа { margin: -8px 214px; position: absolute; }
+img.жихаз { margin: -8px 250px; position: absolute; }
+img.білім { margin: -8px 282px; position: absolute; }
+img.жануар{margin:-8px 319px;position:absolute;}
+img.қызмет{bottom:-30px;left:362px;position:absolute;}
 
 img.көрме:hover { content: url(../suretter/korme-janu.svg); }
 img.көрме-адамдар:hover{content: url(../suretter/korme-adamdar-janyu.svg);}
@@ -134,17 +134,17 @@ img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 
 .dropdown img:hover {background-color:rgb(255, 255, 240); }
 
-.көрме { margin:-248px -1px; }
-.мүлік { margin:-118px 37px; }
-.көлік { margin:-183px 70px; }
-.азық { margin:-161px 99px; }
-.кійім { margin:-161px 130px; }
-.зат { margin:-118px 163px; }
-.құрлыс { margin:-139px 190px; }
-.химиа { margin:-51px 229px; }
-.жиһаз { margin:-137px 164px;text-align: right; }  
-.білім { margin:-137px 193px;text-align:right; }
-.жануар { margin:-72px 238px;text-align:right; }
+.көрме { margin:-245px -3px; }
+.мүлік { margin:-116px 30px; }
+.көлік { margin:-180px 61px; }
+.азық { margin:-159px 90px; }
+.кійім { margin:-159px 117px; }
+.зат { margin:-116px 147px; }
+.құрлыс { margin:-137px 177px; }
+.химиа { margin:-51px 216px; }
+.жиһаз { margin:-137px 147px;text-align: right; }  
+.білім { margin:-137px 177px;text-align:right; }
+.жануар { margin:-72px 221px;text-align:right; }
 .қызмет{bottom:9px;left:283px;text-align:right;}
 .dropdown { position: relative; display: inline-block; }
 
