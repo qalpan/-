@@ -27,7 +27,10 @@ img.қызмет{width:27px;position:absolute;margin-bottom:16px;margin-left:-13
 .dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
 .dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-64px 195px;}
 .dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-1px -123px;}
-img.ел-пошта{right:-257px;bottom:79px;width:89px;} }
+img.ел-пошта{right:-257px;bottom:79px;width:89px;}
+img.ағылшын{width:16px;margin:36px 6px;}
+img.жапон{width:9px;margin:37px 26px;}
+img.араб{width:12px;margin:37px 39px;}}
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
