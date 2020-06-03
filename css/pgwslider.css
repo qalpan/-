@@ -30,7 +30,8 @@ img.қызмет{width:27px;position:absolute;margin-bottom:16px;margin-left:-13
 img.ел-пошта{right:-257px;bottom:79px;width:89px;}
 img.ағылшын{width:16px;margin:36px 6px;}
 img.жапон{width:9px;margin:37px 26px;}
-img.араб{width:12px;margin:37px 39px;}}
+img.араб{width:12px;margin:37px 39px;}
+img.қазақ{width:13px;margin:65px 63px;}}
 
 @media only screen and (max-width: 1200px) {
 ul.ps-list { max-width: 29%; max-height: 300px; }
