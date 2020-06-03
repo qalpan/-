@@ -15,18 +15,18 @@ img.жихаз{width:22px;bottom:-6px;left:-95px;}
 img.білім{width:22px;bottom:-6px;left:-105px;}
 img.жануар{width:24px;bottom:-6px;left:-117px;}
 img.қызмет{width:27px;position:absolute;margin-bottom:16px;margin-left:-135px;}
-.dropdown div.көрме{font-size:10px;min-width:127px;margin:-220px -4px;}
-.dropdown div.мүлік{font-size:10px;min-width:69px;margin:-106px 19px;}
-.dropdown div.көлік{font-size:10px;margin:-165px 43px;min-width:68px;}
-.dropdown div.азық{font-size:10px;margin:-145px 62px;min-width:107px;}
-.dropdown div.кійім{font-size:10px;min-width:55px;margin:-144px 82px;}
-.dropdown div.зат{font-size:10px;min-width:48px;margin:-106px 103px;}
-.dropdown div.құрлыс{font-size:10px;min-width:66px;margin:-124px 137px;}
-.dropdown div.химиа{font-size:10px;min-width:68px;margin:-46px 164px;}
-.dropdown div.жиһаз{font-size:10px;text-align:left;min-width:48px;margin:-122px 199px;}
-.dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-123px 222px;}
-.dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-65px 240px;}
-.dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-105px 194px;}
+.dropdown div.көрме{font-size:10px;min-width:127px;margin:-219px -5px;}
+.dropdown div.мүлік{font-size:10px;min-width:69px;margin:-102px 15px;}
+.dropdown div.көлік{font-size:10px;margin:-157px 34px;min-width:68px;}
+.dropdown div.азық{font-size:10px;margin:-137px 53px;min-width:107px;}
+.dropdown div.кійім{font-size:10px;min-width:55px;margin:-137px 68px;}
+.dropdown div.зат{font-size:10px;min-width:48px;margin:-102px 84px;}
+.dropdown div.құрлыс{font-size:10px;min-width:66px;margin:-121px 100px;}
+.dropdown div.химиа{font-size:10px;min-width:68px;margin:-46px 126px;}
+.dropdown div.жиһаз{font-size:10px;text-align:left;min-width:48px;margin:-121px 150px;}
+.dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
+.dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-64px 195px;}
+.dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-1px -123px;}
 img.ел-пошта{right:-257px;bottom:79px;width:89px;} }
 
 @media only screen and (max-width: 1200px) {
