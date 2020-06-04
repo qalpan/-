@@ -46,9 +46,9 @@ ul.pgwSlider.wide > li, .pgwSlider.wide > ul > li { max-width: 24% !important;} 
 body {  margin: 2px; }
  
 span.ps-prevIcon{content:url(../suretter/atau-belgi.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
-span.ps-prevIcon{content:url(../suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
+span.ps-prevIcon-agylhyn{content:url(../suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
 span.ps-prevIcon:hover{content:url(../suretter/atau-belgi-janu.svg);}
-span.ps-prevIcon:hover{content:url(../suretter/atau-belgi-agylhyn-janyu.svg);}
+span.ps-prevIcon-agylhyn:hover{content:url(../suretter/atau-belgi-agylhyn-janyu.svg);}
 
 .pgwSlider{width:100%;color:rgba(0, 0, 0, 0);}
 
