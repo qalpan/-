@@ -4,6 +4,9 @@
 ul.ps-list{max-width:100%; max-height:200px;}	
 span.ps-prevIcon{width:41px; margin-bottom:-3px; }
 img.көрме{width:24px;}
+img.көрме-ағылшын{width:24px;}
+img.көрме-жапон{width:24px;}
+img.көрме-араб{width:24px;}  
 img.мүлік{width:22px;bottom:-6px;left:-11px;}
 img.көлік{width:20px;bottom:-6px;left:-22px;}
 img.азық{width:19px;bottom:-6px;left:-32px;}
@@ -16,6 +19,9 @@ img.білім{width:22px;bottom:-6px;left:-105px;}
 img.жануар{width:24px;bottom:-6px;left:-117px;}
 img.қызмет{width:27px;position:absolute;margin-bottom:16px;margin-left:-135px;}
 .dropdown div.көрме{font-size:10px;min-width:127px;margin:-219px -5px;}
+.dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-219px -5px;}
+.dropdown div.көрме-жапон{font-size:10px;min-width:127px;margin:-219px -5px;}
+.dropdown div.көрме-араб{font-size:10px;min-width:127px;margin:-219px -5px;}  
 .dropdown div.мүлік{font-size:10px;min-width:69px;margin:-102px 15px;}
 .dropdown div.көлік{font-size:10px;margin:-157px 34px;min-width:68px;}
 .dropdown div.азық{font-size:10px;margin:-137px 53px;min-width:107px;}
