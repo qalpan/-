@@ -126,6 +126,8 @@ img.қызмет{bottom:-30px;left:361px;position:absolute;}
 
 img.көрме:hover{content:url(../suretter/korme-janu.svg);}
 img.көрме-ағылшын:hover{content:url(../suretter/korme-agylhyn-janyu.svg);}
+img.көрме-жапон:hover{content:url(../suretter/korme-japon-janyu.svg);}
+img.көрме-араб:hover{content:url(../suretter/korme-arab-janyu.svg);}
 img.мүлік:hover{content:url(../suretter/mylik-janu.svg);}
 img.көлік:hover{content:url(../suretter/kolik-janu.svg);}
 img.азық:hover { content: url(../suretter/azyk-janu.svg); }
@@ -182,7 +184,7 @@ img.ағылшын {bottom:19px;right:429px;position:absolute;}
 img.ағылшын3 {margin:67px 81px;position:absolute;}
 img.ағылшын2 {margin:67px 43px;position:absolute;}
 img.жапон{right:395px;bottom:21px;position:absolute;}
-img.араб{right:359px;bottom: 21px;position:absolute;}
+img.араб{right:359px;bottom:21px;position:absolute;}
 
-div.көрме-ағылшын{margin:-242px -5px;width: 173px;}
+div.көрме-ағылшын{margin:-242px -5px;width:173px;}
 div.көрме-жапон{margin:-271px -3px;width:194px;}
