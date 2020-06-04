@@ -159,20 +159,20 @@ img.араб:hover { content: url(../suretter/arab-janu.svg); }
 .қызмет{bottom:8px;left:264px;text-align:right;}
 .dropdown { position: relative; display: inline-block; }
 
-div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
+div.көрме,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,div.жиһаз,div.білім,div.жануар,div.қызмет {
   font-size: 12px;
   display: none;
   position: absolute;
   background-color:rgba(255, 255, 240, 0.89);
   min-width: 150px;
   z-index: 1; }
-div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.зат a,div.құрлыс a,div.химиа a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
+div.көрме a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.зат a,div.құрлыс a,div.химиа a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a {
   color: #917c5a;
   padding: 4px 7px;
   text-decoration: none;
   display: block; }
-div.көрме a:hover,div.көрме-ағылшын a:hover,div.көрме-жапон a:hover,div.мүлік a:hover,div.көлік a:hover,div.азық a:hover,div.кійім a:hover,div.зат a:hover,div.құрлыс a:hover,div.химиа a:hover,div.жиһаз a:hover,div.білім a:hover,div.жануар a:hover,div.қызмет a:hover {background-color: rgba(186, 169, 13, 0.43137254901960786);}
-.dropdown:hover div.көрме,.dropdown:hover div.көрме-ағылшын,.dropdown:hover div.көрме-жапон,.dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кійім,.dropdown:hover div.зат,.dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,.dropdown:hover div.қызмет {display: block;}
+div.көрме a:hover,div.мүлік a:hover,div.көлік a:hover,div.азық a:hover,div.кійім a:hover,div.зат a:hover,div.құрлыс a:hover,div.химиа a:hover,div.жиһаз a:hover,div.білім a:hover,div.жануар a:hover,div.қызмет a:hover {background-color: rgba(186, 169, 13, 0.43137254901960786);}
+.dropdown:hover div.көрме,.dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кійім,.dropdown:hover div.зат,.dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,.dropdown:hover div.қызмет {display: block;}
 
 img.ел-пошта{bottom:18px;right:7px;position:absolute;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
@@ -182,6 +182,3 @@ img.ағылшын3 {margin:67px 81px;position:absolute;}
 img.ағылшын2 {margin:67px 43px;position:absolute;}
 img.жапон{right:395px;bottom:21px;position:absolute;}
 img.араб{right:359px;bottom: 21px;position:absolute;}
-
-.көрме-ағылшын {margin:-245px -3px;width:173px;}
-.көрме-жапон {margin:-276px -3px;width:194px;}
