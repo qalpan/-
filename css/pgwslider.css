@@ -111,7 +111,7 @@ ul.pgwSlider.narrow > li,
     margin-bottom: 0; }
 
 img.көрме { margin: -8px -2px; position: absolute; }
-img.көрме-адамдар { margin: -8px 2px; position: absolute; }
+img.көрме-ағылшын { margin: -8px 2px; position: absolute; }
 img.мүлік { margin: -8px 30px; position: absolute; }
 img.көлік { margin: -8px 60px; position: absolute; }
 img.азық { margin: -8px 88px; position: absolute; }
@@ -124,10 +124,10 @@ img.білім { margin: -8px 282px; position: absolute; }
 img.жануар{margin:-8px 318px;position:absolute;}
 img.қызмет{bottom:-30px;left:361px;position:absolute;}
 
-img.көрме:hover { content: url(../suretter/korme-janu.svg); }
-img.көрме-адамдар:hover{content: url(../suretter/korme-adamdar-janyu.svg);}
-img.мүлік:hover { content: url(../suretter/mylik-janu.svg); }
-img.көлік:hover { content: url(../suretter/kolik-janu.svg); }
+img.көрме:hover{content:url(../suretter/korme-janu.svg);}
+img.көрме-ағылшын:hover{content:url(../suretter/korme-agylhyn-janyu.svg);}
+img.мүлік:hover{content:url(../suretter/mylik-janu.svg);}
+img.көлік:hover{content:url(../suretter/kolik-janu.svg);}
 img.азық:hover { content: url(../suretter/azyk-janu.svg); }
 img.кійім:hover { content: url(../suretter/kiim-janu.svg); }
 img.зат:hover { content: url(../suretter/zat-janu.svg); }
