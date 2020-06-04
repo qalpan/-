@@ -176,12 +176,12 @@ div.көрме a:hover,div.көрме-ағылшын a:hover,div.көрме-жа
 
 img.ел-пошта{bottom:18px;right:7px;position:absolute;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
-img.қазақ {margin:67px 8px;position:absolute;}
+img.қазақ {bottom:-43px;position:absolute;}
 img.ағылшын {margin:64px -44px;position:absolute;}
 img.ағылшын3 {margin:65px 81px;position:absolute;}
 img.ағылшын2 {margin:65px 43px;position:absolute;}
-img.жапон {margin:65px -7px;position:absolute;}
-img.араб {margin:66px 27px;position:absolute;}
+img.жапон {right:395px;bottom:23px;position:absolute;}
+img.араб {right:359px;bottom:23px;position:absolute;}
 
 .көрме-ағылшын {margin:-245px -3px;width:173px;}
 .көрме-жапон {margin:-276px -3px;width:194px;}
