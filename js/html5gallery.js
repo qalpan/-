@@ -1,8 +1,3 @@
-/** HTML5 Gallery - jQuery Image and Video Gallery Plugin
- * Copyright 2014 Magic Hills Pty Ltd All Rights Reserved
- * Website: http://html5box.com
- * Version 9.7
- */
 var html5GalleryObjects = new function() {
     this.objects = [];
     this.addObject = function(v) {
