@@ -496,7 +496,7 @@ function loadHtml5Gallery(v) {
             "padding-right": 426,
             "padding-bottom": 257,
             "background-image": "url('" + (l && "playbutton"in l && 0 < l.playbutton.length ? l.playbutton : b + "html5boxplayer_playvideo.png") + "')",
-            "background-position": "center center",
+            "background-position": "right bottom",
             "background-repeat": "no-repeat"
         }).on("click", function() {
             m.get(0).play()
