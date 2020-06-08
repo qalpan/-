@@ -3830,7 +3830,7 @@ function loadHtml5Gallery(v) {
                     thumbtitleheight: 18
                 }
                   , q = {
-                    skinfolder: "skins/darkness/",
+                    skinfolder: "suretter/baspa/",
                     padding: 12,
                     bgcolor: "#444444",
                     bgimage: "background.jpg",
