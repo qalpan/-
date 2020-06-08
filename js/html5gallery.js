@@ -559,7 +559,7 @@ function loadHtml5Gallery(v) {
             width: "32px",
             height: "32px",
             margin: Math.floor((s - 32) / 2),
-            "float": "left"
+            "float": "right"
         });
         var F = p(".html5boxPlay", n)
           , G = p(".html5boxPause", n);
