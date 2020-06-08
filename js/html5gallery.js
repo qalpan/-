@@ -2085,53 +2085,53 @@ function loadHtml5Gallery(v) {
                         a += " .html5gallery-toolbox-buttons-" + this.id + " {display:block;}";
                         a += " .html5gallery-play-" + this.id + " { position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer; top:" + d + "px; left:" + f + "px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_play.png') no-repeat top left;} ";
                         a += " .html5gallery-pause-" + this.id + " { position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer; top:" + d + "px; left:" + f + "px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_pause.png') no-repeat top left;} ";
-                        a += " .html5gallery-left-" + this.id + " { position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer;  bottom: 35px;  right: 67px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_prev.png') no-repeat center center;} ";
-                        a += " .html5gallery-right-" + this.id + " { position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer;  bottom: -5px; left:" + e + "px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_next.png')  no-repeat center center;} ";
+                        a += " .html5gallery-left-" + this.id + " { position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer;  bottom: 35px;  right: 67px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_prev.png') no-repeat right bottom;} ";
+                        a += " .html5gallery-right-" + this.id + " { position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer;  bottom: -5px; left:" + e + "px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_next.png')  no-repeat right bottom;} ";
                         a += " .html5gallery-lightbox-" + this.id + " {position:absolute; display:" + ("show" == this.options.imagetoolboxmode ? "block" : "none") + "; cursor:pointer; top:" + d + "px; left:" + e + "px; width:48px; height:48px; background:url('" + this.options.skinfolder + "side_lightbox.png') no-repeat top left;} "
                     }
                     b(".html5gallery-play-" + this.id, this.$gallery).hover(function() {
                         b(this).css({
-                            "background-position": "right top"
+                            "background-position": "right bottom"
                         })
                     }, function() {
                         b(this).css({
-                            "background-position": "left top"
+                            "background-position": "right bottom"
                         })
                     });
                     b(".html5gallery-pause-" + this.id, this.$gallery).hover(function() {
                         b(this).css({
-                            "background-position": "right top"
+                            "background-position": "right bottom"
                         })
                     }, function() {
                         b(this).css({
-                            "background-position": "left top"
+                            "background-position": "right bottom"
                         })
                     });
                     b(".html5gallery-left-" + this.id, this.$gallery).hover(function() {
                         b(this).css({
-                            "background-position": "right top"
+                            "background-position": "right bottom"
                         })
                     }, function() {
                         b(this).css({
-                            "background-position": "left top"
+                            "background-position": "right bottom"
                         })
                     });
                     b(".html5gallery-right-" + this.id, this.$gallery).hover(function() {
                         b(this).css({
-                            "background-position": "right top"
+                            "background-position": "right bottom"
                         })
                     }, function() {
                         b(this).css({
-                            "background-position": "left top"
+                            "background-position": "right bottom"
                         })
                     });
                     b(".html5gallery-lightbox-" + this.id, this.$gallery).hover(function() {
                         b(this).css({
-                            "background-position": "right top"
+                            "background-position": "right bottom"
                         })
                     }, function() {
                         b(this).css({
-                            "background-position": "left top"
+                            "background-position": "right bottom"
                         })
                     });
                     b("head").append("<style type='text/css' data-creator='html5gallery'>" + a + "</style>")
