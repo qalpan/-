@@ -3166,7 +3166,7 @@ function loadHtml5Gallery(v) {
                         slide: d.options.slide
                     }, function() {})) : c.html(g);
                     if (!b(".html5gallery-video-play-" + d.id, a).length)
-                        b("<div class='html5gallery-video-play-" + d.id + "' style='position:absolute;display:block;cursor:pointer;top:50%;left:50%;width:64px;height:64px;margin-left:-32px;margin-top:-32px;background:url(\"" + d.options.playvideoimage + "\") no-repeat center center;'></div>").appendTo(c).off(d.eClick).on(d.eClick, function() {
+                        b("<div class='html5gallery-video-play-" + d.id + "' style='position:absolute;display:block;cursor:pointer;top:89%;left:86%;width:64px;height:64px;margin-left:-32px;margin-top:-32px;background:url(\"" + d.options.playvideoimage + "\") no-repeat right bottom;'></div>").appendTo(c).off(d.eClick).on(d.eClick, function() {
                             d.options.hidetitlewhenvideoisplaying && b(".html5gallery-title-" + d.id, d.$gallery).hide();
                             b(this).remove();
                             d.slideshowTimeout.stop();
