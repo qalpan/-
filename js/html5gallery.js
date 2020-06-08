@@ -1085,7 +1085,6 @@ function loadHtml5Gallery(v) {
                 a.initYoutubeApi();
                 a.options.showcarousel = (1 < a.elemArray.length || a.options.showcarouselforsingle) && a.options.showcarousel;
                 a.options.watermarkcode = "";
-                a.options.frve ? a.options.watermarkcode = "<a style='text-decoration:none;' target='_blank' href='" + a.options.freelink + "' >" : 0 < a.options.watermarklink.length && (a.options.watermarkcode = "<a style='text-decoration:none;' target='_blank' href='" + a.options.watermarklink + "' >");
                 a.options.watermarkcode += "<div " + (a.options.frve ? "" : "class='" + a.id + "' ") + "style='" + (a.options.frve ? "" : 0 < a.options.watermark.length ? "display:block;position:absolute;top:0px;left:0px;" : "display:none;") + "' >";
                 a.options.frve ? a.options.watermarkcode += a.options.frvem : 0 < a.options.watermark.length && (a.options.watermarkcode += "<img src='" + a.options.watermark + "' alt='' />");
                 a.options.watermarkcode += "</div>";
