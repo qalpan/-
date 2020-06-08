@@ -493,8 +493,8 @@ function loadHtml5Gallery(v) {
             cursor: "pointer",
             width: 64,
             height: 64,
-            "margin-left": -32,
-            "margin-top": -32,
+            "padding-right": 426,
+            "padding-bottom": 257,
             "background-image": "url('" + (l && "playbutton"in l && 0 < l.playbutton.length ? l.playbutton : b + "html5boxplayer_playvideo.png") + "')",
             "background-position": "center center",
             "background-repeat": "no-repeat"
