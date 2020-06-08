@@ -4001,7 +4001,7 @@ function loadHtml5Gallery(v) {
                     thumbdescriptioncss: "{font-size:10px;}"
                 }
                   , y = {
-                    freelink: "http://html5box.com/html5gallery/watermark.php",
+                    freelink: "",
                     watermark: "",
                     watermarklink: "",
                     enabletabindex: !1,
