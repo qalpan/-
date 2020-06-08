@@ -134,21 +134,21 @@ img.ағылшын2:hover { content: url(../suretter/agylhyn-janu.svg); }
 img.ағылшын3:hover { content: url(../suretter/agylhyn-janu.svg); }
 img.жапон:hover { content: url(../suretter/japon-janu.svg); }
 img.араб:hover { content: url(../suretter/arab-janu.svg); }
-.dropdown img:hover {background-color:rgb(255, 255, 240); }
+.dropdown img:hover{background-color:rgb(255, 255, 240);}
 
-.көрме { margin:-263px -3px; }
-.мүлік { margin:-116px 30px; }
-.көлік { margin:-180px 61px; }
-.азық { margin:-159px 89px; }
-.кійім { margin:-159px 116px; }
-.зат { margin:-116px 147px; }
-.құрлыс { margin:-137px 175px; }
-.химиа { margin:-51px 213px; }
-.жиһаз { margin:-137px 146px;text-align: right; }  
-.білім { margin:-137px 175px;text-align:right; }
-.жануар { margin:-72px 219px;text-align:right; }
-.қызмет{bottom:8px;left:264px;text-align:right;}
-.dropdown { position: relative; display: inline-block; }
+.көрме{margin:-263px -3px;}
+.мүлік{margin:-116px 30px;}
+.көлік{margin:-180px 61px;}
+.азық{margin:-159px 89px;}
+.кійім{margin:-159px 116px;}
+.зат{margin:-116px 147px;}
+.құрлыс{margin:-137px 175px;}
+.химиа{margin:-51px 213px;}
+.жиһаз{margin:-137px 146px;text-align:right;}  
+.білім{margin:-137px 175px;text-align:right;}
+.жануар{margin:-72px 219px;text-align:right;}
+.қызмет{margin:-116px 263px;text-align:right;}
+.dropdown{position:relative;display:inline-block;}
 
 div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.көрме-араб,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,
 div.жиһаз,div.білім,div.жануар,div.қызмет{
