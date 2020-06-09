@@ -4004,7 +4004,7 @@ function loadHtml5Gallery(v) {
                     watermark: "",
                     watermarklink: "",
                     enabletabindex: !1,
-                    playvideoimage: "oinatu.svg",
+                    playvideoimage: "",
                     playvideothumbimage: "playvideo.png",
                     loadinggif: "loading.gif",
                     centerloadinggif: "loading_center.gif",
