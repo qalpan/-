@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2020 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="22.2mm" height="22.2mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 353.39 353.39"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="17.8mm" height="17.8mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 234.59 234.59"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str4 {stroke:#EF7F1A;stroke-width:3.18;stroke-miterlimit:22.9256;stroke-opacity:0.000000}
-    .str0 {stroke:#6B470F;stroke-width:15.92;stroke-miterlimit:22.9256;stroke-opacity:0.811765}
-    .str1 {stroke:#C6B93A;stroke-width:15.92;stroke-miterlimit:22.9256;stroke-opacity:0.811765}
-    .str2 {stroke:#6B470F;stroke-width:13.74;stroke-miterlimit:22.9256}
-    .str3 {stroke:#C6B93A;stroke-width:13.74;stroke-miterlimit:22.9256}
+    .str4 {stroke:#EF7F1A;stroke-width:2.64;stroke-miterlimit:22.9256;stroke-opacity:0.000000}
+    .str0 {stroke:#6B470F;stroke-width:13.18;stroke-miterlimit:22.9256;stroke-opacity:0.811765}
+    .str1 {stroke:#C6B93A;stroke-width:13.18;stroke-miterlimit:22.9256;stroke-opacity:0.811765}
+    .str2 {stroke:#6B470F;stroke-width:11.37;stroke-miterlimit:22.9256}
+    .str3 {stroke:#C6B93A;stroke-width:11.37;stroke-miterlimit:22.9256}
     .fil1 {fill:none}
     .fil0 {fill:none}
     .fil2 {fill:#EF7F1A;fill-opacity:0.000000}
@@ -21,18 +21,18 @@ viewBox="0 0 353.39 353.39"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_984465944">
-   <path class="fil0 str0" d="M59.43 129.76c-4.97,-3.77 -3.78,-21.66 -3.78,-39.15 0,-17.48 -1.39,-34.77 3.78,-38.15 4.97,-3.58 16.49,6.56 28.02,15.3 11.52,8.74 23.05,16.1 23.05,23.45 0,7.35 -11.52,14.7 -23.05,23.45 -11.53,8.74 -23.05,18.88 -28.02,15.1z"/>
-   <path class="fil0 str1" d="M59.43 309.29c-4.97,-3.77 -3.78,-21.66 -3.78,-39.15 0,-17.48 -1.39,-34.77 3.78,-38.15 4.97,-3.58 16.49,6.56 28.02,15.3 11.52,8.74 23.05,16.1 23.05,23.45 0,7.35 -11.52,14.7 -23.05,23.45 -11.53,8.74 -23.05,18.88 -28.02,15.1z"/>
+  <g id="_1077783696">
+   <path class="fil0 str0" d="M39.63 86.21c-3.29,-2.5 -2.5,-14.34 -2.5,-25.93 0,-11.58 -0.92,-23.03 2.5,-25.27 3.29,-2.37 10.92,4.34 18.56,10.13 7.63,5.79 15.27,10.66 15.27,15.53 0,4.87 -7.63,9.74 -15.27,15.53 -7.63,5.79 -15.27,12.5 -18.56,10z"/>
+   <path class="fil0 str1" d="M39.63 205.12c-3.29,-2.5 -2.5,-14.35 -2.5,-25.93 0,-11.58 -0.92,-23.03 2.5,-25.27 3.29,-2.37 10.92,4.34 18.56,10.13 7.63,5.79 15.27,10.66 15.27,15.53 0,4.87 -7.63,9.74 -15.27,15.53 -7.63,5.79 -15.27,12.5 -18.56,10z"/>
    <g id="тоқтату.svg">
-    <line class="fil1 str2" x1="263.23" y1="55.48" x2="263.23" y2= "126.8" />
-    <line class="fil1 str2" x1="240.05" y1="55.48" x2="240.05" y2= "126.8" />
+    <line class="fil1 str2" x1="174.61" y1="37.01" x2="174.61" y2= "84.25" />
+    <line class="fil1 str2" x1="159.26" y1="37.01" x2="159.26" y2= "84.25" />
    </g>
    <g id="тоқтату.svg_0">
-    <line class="fil1 str3" x1="263.23" y1="235.01" x2="263.23" y2= "306.34" />
-    <line class="fil1 str3" x1="240.05" y1="235.01" x2="240.05" y2= "306.34" />
+    <line class="fil1 str3" x1="174.61" y1="155.92" x2="174.61" y2= "203.17" />
+    <line class="fil1 str3" x1="159.26" y1="155.92" x2="159.26" y2= "203.17" />
    </g>
-   <polygon class="fil2 str4" points="1.59,1.59 351.8,1.59 351.8,351.8 1.59,351.8 "/>
+   <polygon class="fil2 str4" points="1.32,1.32 233.27,1.32 233.27,233.27 1.32,233.27 "/>
   </g>
  </g>
 </svg>
