@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="22.2mm" height="22.2mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 353.39 353.39"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str4 {stroke:#EF7F1A;stroke-width:3.18;stroke-miterlimit:22.9256;stroke-opacity:0.000000}
+    .str0 {stroke:#6B470F;stroke-width:15.92;stroke-miterlimit:22.9256;stroke-opacity:0.811765}
+    .str1 {stroke:#C6B93A;stroke-width:15.92;stroke-miterlimit:22.9256;stroke-opacity:0.811765}
+    .str2 {stroke:#6B470F;stroke-width:13.74;stroke-miterlimit:22.9256}
+    .str3 {stroke:#C6B93A;stroke-width:13.74;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:none}
+    .fil2 {fill:#EF7F1A;fill-opacity:0.000000}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_984465944">
+   <path class="fil0 str0" d="M59.43 129.76c-4.97,-3.77 -3.78,-21.66 -3.78,-39.15 0,-17.48 -1.39,-34.77 3.78,-38.15 4.97,-3.58 16.49,6.56 28.02,15.3 11.52,8.74 23.05,16.1 23.05,23.45 0,7.35 -11.52,14.7 -23.05,23.45 -11.53,8.74 -23.05,18.88 -28.02,15.1z"/>
+   <path class="fil0 str1" d="M59.43 309.29c-4.97,-3.77 -3.78,-21.66 -3.78,-39.15 0,-17.48 -1.39,-34.77 3.78,-38.15 4.97,-3.58 16.49,6.56 28.02,15.3 11.52,8.74 23.05,16.1 23.05,23.45 0,7.35 -11.52,14.7 -23.05,23.45 -11.53,8.74 -23.05,18.88 -28.02,15.1z"/>
+   <g id="тоқтату.svg">
+    <line class="fil1 str2" x1="263.23" y1="55.48" x2="263.23" y2= "126.8" />
+    <line class="fil1 str2" x1="240.05" y1="55.48" x2="240.05" y2= "126.8" />
+   </g>
+   <g id="тоқтату.svg_0">
+    <line class="fil1 str3" x1="263.23" y1="235.01" x2="263.23" y2= "306.34" />
+    <line class="fil1 str3" x1="240.05" y1="235.01" x2="240.05" y2= "306.34" />
+   </g>
+   <polygon class="fil2 str4" points="1.59,1.59 351.8,1.59 351.8,351.8 1.59,351.8 "/>
+  </g>
+ </g>
+</svg>
