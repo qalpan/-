@@ -566,7 +566,7 @@ function loadHtml5Gallery(v) {
             width: "32px",
             height: "32px",
             cursor: "pointer",
-            "background-image": "url('" + b + "html5boxplayer_playpause.png')",
+            "background-image": "url('" + b + "html5boxplayer_playpause.svg')",
             "background-position": "top left"
         }).hover(function() {
             p(this).css({
@@ -587,7 +587,7 @@ function loadHtml5Gallery(v) {
             width: "32px",
             height: "32px",
             cursor: "pointer",
-            "background-image": "url('" + b + "html5boxplayer_playpause.png')",
+            "background-image": "url('" + b + "html5boxplayer_playpause.svg')",
             "background-position": "top right"
         }).hover(function() {
             p(this).css({
