@@ -487,7 +487,7 @@ function loadHtml5Gallery(v) {
         m.after(t);
         t.css({
             position: "absolute",
-            top: "89%",
+            top: "90%",
             left: "86%",
             display: "block",
             cursor: "pointer",
