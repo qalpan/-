@@ -4093,7 +4093,7 @@ function loadHtml5Gallery(v) {
                     showtimer: !0,
                     resizemode: "fit",
                     showtitle: !0,
-                    titleheight: 45,
+                    titleheight: 24,
                     errorcss: " {text-align:center; color:#ff0000; font-size:14px; font-family:Arial, sans-serif;}",
                     shownumbering: !1,
                     numberingformat: "%NUM / %TOTAL",
