@@ -3834,7 +3834,7 @@ function loadHtml5Gallery(v) {
                     showdescription: !1,
                     titleoverlay: !1,
                     titleautohide: !1,
-                    titlecss: " {color:#ffffff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; white-space:normal; text-align:left; padding:10px 0px;}",
+                    titlecss: " {color:#ffffff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; white-space:normal; text-align:left; padding:5px;}",
                     titlecsslink: " a {color:#ffffff;}",
                     descriptioncss: " {color:#ffffff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; white-space:normal; text-align:left; padding:0px 0px 10px 0px;}",
                     descriptioncsslink: " a {color:#ffffff;}",
