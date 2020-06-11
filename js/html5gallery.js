@@ -2145,7 +2145,7 @@ function loadHtml5Gallery(v) {
                         if ("center" == this.options.imagetoolboxstyle) {
                             var e = Math.round(("bottom" == this.options.headerpos ? 0 : this.options.headerHeight) + this.options.height / 2);
                             if (6 == a || 7 == a || 8 == a || 9 == a || 10 == a || 11 == a)
-                                e += 45;
+                                e += 24;
                             b(".html5gallery-toolbox-" + this.id, this.$gallery).css({
                                 top: e
                             });
