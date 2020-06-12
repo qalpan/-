@@ -1105,7 +1105,7 @@ function loadHtml5Gallery(u) {
                     if ("center" == this.options.imagetoolboxstyle) {
                         var e = Math.round(("bottom" == this.options.headerpos ? 0 : this.options.headerHeight) + this.options.height / 2);
                         if (6 == a || 7 == a || 8 == a || 9 == a || 10 == a || 11 == a)
-                            e += 45;
+                            e += 24;
                         b(".html5gallery-toolbox-" + this.id, this.$gallery).css({ top: e });
                         e = 0;
                         this.options.showplaybutton && (1 == a || this.options.showplaypausefullscreenforall && (!this.options.hideplaypausefullscreenwhenvideoisplaying || !this.isVideoPlaying)) ? (e += 36, this.isPaused ? (b(".html5gallery-play-" + this.id, this.$gallery).show(), b(".html5gallery-pause-" + this.id, this.$gallery).hide()) : (b(".html5gallery-play-" + this.id, this.$gallery).hide(), b(".html5gallery-pause-" + this.id, this.$gallery).show())) : (b(".html5gallery-play-" + this.id, this.$gallery).hide(), b(".html5gallery-pause-" + this.id, this.$gallery).hide());
