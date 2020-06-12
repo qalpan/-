@@ -81,7 +81,13 @@ ul.pgwSlider > li span,
     bottom: 0;
     display: none;
     z-index: 3;}
- 
+ .pgwSlider .ps-current{
+    float: left;
+    width: 74%;
+    overflow: hidden;
+    height: inherit;
+    position: relative;
+    font-size: 1rem;}
 span.ps-prevIcon{content:url(../suretter/atau-belgi.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
 span.ps-prevIcon-beine{content:url(../suretter/atau-belgi-janu.svg);z-index:4;bottom:104px;left:6px;position:absolute;}
 span.ps-prevIcon-agylhyn{content:url(../suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
