@@ -68,7 +68,7 @@ ul.pgwSlider > li span,
     position:absolute;
     margin:-17px 0px;
     padding:2px;
-    background:80% black;
+    background:rgba(91, 90, 80, 0.81);
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);
     overflow:hidden;
     text-overflow:ellipsis;
