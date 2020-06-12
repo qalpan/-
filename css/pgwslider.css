@@ -88,6 +88,15 @@ ul.pgwSlider > li span,
     height: inherit;
     position: relative;
     font-size: 1rem;}
+ul.pgwSlider > li, .pgwSlider > .ps-list > li {
+    height: 50px;
+    margin-bottom: 6px;
+    overflow: hidden;
+    position: relative;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    font-size: 0.8rem;
+    transition: opacity 200ms linear;}
 span.ps-prevIcon{content:url(../suretter/atau-belgi.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
 span.ps-prevIcon-beine{content:url(../suretter/atau-belgi-janu.svg);z-index:4;bottom:104px;left:6px;position:absolute;}
 span.ps-prevIcon-agylhyn{content:url(../suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
