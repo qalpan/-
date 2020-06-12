@@ -117,7 +117,8 @@ ul.pgwSlider.wide > li,
     width: 24.3% !important;
     height: auto !important;
     float: left;
-    margin-right: 3px; }
+    margin-bottom:2px;
+    margin-right:3px;}
 
 .pgwSlider.narrow .ps-current,
 ul.pgwSlider.narrow,.pgwSlider.narrow > ul {min-width:100%;height:200px;}
