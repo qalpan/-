@@ -89,7 +89,7 @@ ul.pgwSlider > li, .pgwSlider > .ps-list > li {
     font-size: 0.7rem;
     transition: opacity 200ms linear;}
 span.ps-prevIcon{content:url(../suretter/atau-belgi.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
-span.ps-prevIcon-beine{content:url(../suretter/atau-belgi-beine.svg);z-index:4;bottom:2px;left:2px;position:absolute;}
+span.ps-prevIcon-beine{content:url(../suretter/atau-belgi-beine.svg);z-index:4;bottom:0px;left:2px;position:absolute;}
 span.ps-prevIcon-agylhyn{content:url(../suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
 span.ps-prevIcon-japon{content:url(../suretter/atau-belgi-japon.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
 span.ps-prevIcon-arab{content:url(../suretter/atau-belgi-arab.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
