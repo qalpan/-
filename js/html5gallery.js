@@ -325,7 +325,7 @@ function loadHtml5Gallery(u) {
             }, 5E3));
         }, 250);
         n(".html5boxVideoControlsBg", v).css({ display: "block", position: "absolute", width: "100%", height: "100%", left: 0, top: 0, "background-color": "#000000", opacity: 0.7, filter: "alpha(opacity=70)" });
-        n(".html5boxPlayPause", v).css({ display: "block", position: "relative", width: "32px", height: "32px", margin: Math.floor((m - 32) / 2), "float": "left" });
+        n(".html5boxPlayPause", v).css({ display: "block", position: "relative", width: "32px", height: "32px", margin: Math.floor((m - 32) / 2), "float": "right" });
         var L = n(".html5boxPlay", v), p = n(".html5boxPause", v);
         L.css({ display: "block", position: "absolute", top: 0, left: 0, width: "32px", height: "32px", cursor: "pointer", "background-image": "url('" + b + "html5boxplayer_playpause.png')", "background-position": "top left" }).hover(function () {
             n(this).css({ "background-position": "bottom left" });
