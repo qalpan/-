@@ -71,17 +71,7 @@ ul.pgwSlider > li span,
     overflow:hidden;
     text-overflow:ellipsis;
     white-space:nowrap;}
-.pgwSlider .ps-caption {
-    position:absolute;
-    width:100%;
-    padding:12px;
-    background:rgba(0, 0, 0, 0.7);
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);
-    left: 0;
-    bottom: 0;
-    display: none;
-    z-index: 3;}
- .pgwSlider .ps-current{
+.pgwSlider .ps-current{
     float: left;
     width: 74%;
     overflow: hidden;
