@@ -107,8 +107,6 @@ span.ps-prevIcon-agylhyn:hover{content:url(../suretter/atau-belgi-agylhyn-janyu.
 span.ps-prevIcon-japon:hover{content:url(../suretter/atau-belgi-japon-janyu.svg);}
 span.ps-prevIcon-arab:hover{content:url(../suretter/atau-belgi-arab-janyu.svg);}
 
-.pgwSlider{width:100%;color:rgba(0, 0, 0, 0);}
-
 .pgwSlider .ps-current{float:left;width:69.6%;overflow:hidden;height:inherit;position:relative;font-size:1rem;}
 
 .pgwSlider .ps-current li{width:100%;z-index:1;opacity:0;display:none;}
