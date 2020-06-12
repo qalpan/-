@@ -58,7 +58,7 @@ ul.ps-list {max-width:29%;max-height:500px;}
 ul.pgwSlider.wide > li, .pgwSlider.wide > ul > li {max-width:24%!important;}}   
   
 body{margin:2px;}
-
+.pgwSlider{width:100%;color:#fff;}
 ul.pgwSlider > li span,
 .pgwSlider > .ps-list > li span {
     display: block;
