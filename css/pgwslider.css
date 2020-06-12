@@ -62,7 +62,7 @@ body{margin:2px;}
 ul.pgwSlider > li span,
 .pgwSlider > .ps-list > li span {
     display:block;
-    width:6%;
+    width:92%;
     position:absolute;
     margin:-32px 0px;
     padding:5px;
@@ -90,7 +90,6 @@ ul.pgwSlider > li span,
     font-size: 1rem;}
 ul.pgwSlider > li, .pgwSlider > .ps-list > li {
     height: 50px;
-    margin-bottom: 6px;
     overflow: hidden;
     position: relative;
     opacity: 0.6;
