@@ -1332,7 +1332,7 @@ function loadHtml5Gallery(u) {
             this.slideshowTimeout.stop();
             b(".html5gallery-fullscreen-timer-" + this.id, this.$fullscreen).css({ width: 0 });
             this.isFullscreen = !0;
-            this.fullscreenInitial = 20;
+            this.fullscreenInitial = 0;
             this.fullscreenMargin = this.options.lightboxborder;
             this.fullscreenBarH = this.options.lightboxtextheight;
             this.fullscreenOutsideMargin = this.options.lightboxmargin;
