@@ -8,9 +8,9 @@ viewBox="0 0 285.88 285.88"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#6B470F;stroke-width:12.64;stroke-miterlimit:22.9256}
+    .str0 {stroke:#B2AD81;stroke-width:12.64;stroke-miterlimit:22.9256}
     .str2 {stroke:#C6B93A;stroke-width:12.64;stroke-miterlimit:22.9256}
-    .str1 {stroke:#6B470F;stroke-width:3.37;stroke-miterlimit:22.9256}
+    .str1 {stroke:#B2AD81;stroke-width:3.37;stroke-miterlimit:22.9256}
     .str3 {stroke:#C6B93A;stroke-width:3.37;stroke-miterlimit:22.9256}
     .fil0 {fill:none}
    ]]>
@@ -18,7 +18,7 @@ viewBox="0 0 285.88 285.88"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1112150712">
+  <g id="_1074194992">
    <path class="fil0 str0" d="M87.55 71.47c0,-8.88 -7.2,-16.08 -16.08,-16.08 -8.88,0 -16.08,7.2 -16.08,16.08 0,8.88 7.2,16.08 16.08,16.08 8.88,0 16.08,-7.2 16.08,-16.08z"/>
    <path class="fil0 str1" d="M118.99 63.09l-32 5.64m-31.04 5.47l-31.99 5.64"/>
    <path class="fil0 str1" d="M113.26 47.35l-28.14 16.24m-27.3 15.76l-28.14 16.24"/>
@@ -41,7 +41,7 @@ viewBox="0 0 285.88 285.88"
    <path class="fil0 str3" d="M29.69 190.29l28.14 16.24m27.3 15.76l28.14 16.24"/>
    <path class="fil0 str3" d="M118.99 222.79l-32 -5.64m-31.04 -5.47l-31.99 -5.64"/>
    <path class="fil0 str2" d="M230.49 214.41c0,-8.88 -7.2,-16.08 -16.08,-16.08 -8.88,0 -16.08,7.2 -16.08,16.08 0,8.88 7.2,16.08 16.08,16.08 8.88,0 16.08,-7.2 16.08,-16.08z"/>
-   <polygon class="fil0" points="-0,0 285.88,0 285.88,285.88 -0,285.88 "/>
   </g>
+  <polygon class="fil0" points="-0,0 285.88,0 285.88,285.88 -0,285.88 "/>
  </g>
 </svg>
