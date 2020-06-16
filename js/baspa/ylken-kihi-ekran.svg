@@ -8,9 +8,9 @@ viewBox="0 0 285.88 285.88"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#6B470F;stroke-width:8.43;stroke-miterlimit:22.9256}
+    .str0 {stroke:#B2AD81;stroke-width:8.43;stroke-miterlimit:22.9256}
     .str2 {stroke:#C6B93A;stroke-width:8.43;stroke-miterlimit:22.9256}
-    .str1 {stroke:#6B470F;stroke-width:3.37;stroke-miterlimit:22.9256}
+    .str1 {stroke:#B2AD81;stroke-width:3.37;stroke-miterlimit:22.9256}
     .str3 {stroke:#C6B93A;stroke-width:3.37;stroke-miterlimit:22.9256}
     .fil0 {fill:none}
    ]]>
@@ -22,7 +22,7 @@ viewBox="0 0 285.88 285.88"
  </g>
  <g id="Layer_x0020_1_0">
   <metadata id="CorelCorpID_1Corel-Layer"/>
-  <g id="_1048643104">
+  <g id="_1049763328">
    <polygon class="fil0 str0" points="218.63,99.43 253.55,99.43 253.55,74.48 218.63,74.48 "/>
    <polygon class="fil0 str0" points="32.33,99.43 110.61,99.43 110.61,43.51 32.33,43.51 "/>
    <polygon class="fil0 str1" points="175.27,99.43 253.55,99.43 253.55,43.51 175.27,43.51 "/>
