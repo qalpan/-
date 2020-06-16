@@ -442,10 +442,10 @@ function loadHtml5Gallery(u) {
                 Q.css({ height: Math.round(100 * a) + "%" });
             });
             Z.css({ display: "none", position: "absolute", left: 4, bottom: "100%", width: 24, height: 80, "margin-bottom": Math.floor((m - 32) / 2), "background-color": "rgb(107, 71, 15)", opacity: 0.7, filter: "alpha(opacity=70)" });
-            K.css({ display: "block", position: "relative", width: 10, height: 68, margin: 7, cursor: "pointer", "background-color": "#222" });
-            Q.css({ display: "block", position: "absolute", bottom: 0, left: 0, width: "100%", height: "100%", "background-color": "#fcc500" });
+            K.css({ display: "block",position:"relative",width:10,height:68,margin:7,cursor:"pointer","background-color":"rgba(255, 193, 7, 0.49)"});
+            Q.css({ display: "block",position:"absolute",bottom:0,left:0,width:"100%",height:"100%","background-color":"#fcc500"});
             K.on(w, function (a) {
-                a = 1 - ((g ? a.originalEvent.touches[0] : a).pageY - K.offset().top) / K.height();
+                a = 1 - ((g ? a.originalEvent.touches[0]:a).pageY - K.offset().top) / K.height();
                 a = 1 < a ? 1 : 0 > a ? 0 : a;
                 Q.css({ height: Math.round(100 * a) + "%" });
                 V.css({ "background-position": "left " + (0 < a ? "top" : "bottom") });
