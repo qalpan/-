@@ -388,7 +388,7 @@ function loadHtml5Gallery(u) {
                 H(s);
             }, !1);
             f || n("head").append("<style type='text/css'>video" + a + "::-webkit-media-controls { display:none !important; }</style>");
-            n(".html5boxFullscreen", v).css({ display: "block", position: "relative", "float": "right", width: "32px", height: "32px", margin: Math.floor((m - 32) / 2), cursor: "pointer", "background-image": "url('" + b + "html5boxplayer_fullscreen.png')", "background-position": "left top" }).hover(function () {
+            n(".html5boxFullscreen", v).css({ display: "block", position: "relative", "float": "right", width: "32px", height: "32px", margin: Math.floor((m - 32) / 2), cursor: "pointer", "background-image": "url('" + b + "ylken-kihi-ekran.svg')", "background-position": "left top" }).hover(function () {
                 var a = n(this).css("background-position") ? n(this).css("background-position").split(" ")[0] : n(this).css("background-position-x");
                 n(this).css({ "background-position": a + " bottom" });
             }, function () {
