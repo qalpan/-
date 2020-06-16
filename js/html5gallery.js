@@ -356,7 +356,7 @@ function loadHtml5Gallery(u) {
         }).on(k, function () {
             C.off(q);
         });
-        P.css({ display: "block", position: "absolute", left: 0, top: 0, height: "100%", "background-color": "#444" });
+        P.css({ display: "block", position: "absolute", left: 0, top: 0, height: "100%", "background-color": "" });
         O.css({ display: "block", position: "absolute", left: 0, top: 0, height: "100%", "background-color": "#fcc500" });
         var y = f ? r : r.parent();
         if (y.get(0).requestFullscreen || y.get(0).webkitRequestFullScreen || y.get(0).mozRequestFullScreen || y.get(0).webkitEnterFullScreen || y.get(0).msRequestFullscreen) {
