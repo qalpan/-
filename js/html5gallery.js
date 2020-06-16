@@ -426,7 +426,7 @@ function loadHtml5Gallery(u) {
                     Z.hide();
                 }, 1E3);
             });
-            V.css({ display: "block", position: "absolute", top: 0, left: 0, width: "32px", height: "32px", cursor: "pointer", "background-image": "url('" + b + "html5boxplayer_volume.png')", "background-position": "top " + (0 < a ? "left" : "right") }).hover(function () {
+            V.css({ display: "block", position: "absolute", top: 0, left: 0, width: "32px", height: "32px", cursor: "pointer", "background-image": "url('" + b + "dauys.svg')", "background-position": "top " + (0 < a ? "left" : "right") }).hover(function () {
                 var a = n(this).css("background-position") ? n(this).css("background-position").split(" ")[0] : n(this).css("background-position-x");
                 n(this).css({ "background-position": a + " bottom" });
             }, function () {
