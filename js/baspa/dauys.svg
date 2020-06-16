@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2020 -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="15.68mm" height="15.68mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 241.29 241.29"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.64mm" height="16.64mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 274.32 274.32"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .str0 {stroke:#6B470F;stroke-width:11.54;stroke-miterlimit:22.9256}
-    .str2 {stroke:#C6B93A;stroke-width:11.54;stroke-miterlimit:22.9256}
-    .str1 {stroke:#6B470F;stroke-width:3.08;stroke-miterlimit:22.9256}
-    .str3 {stroke:#C6B93A;stroke-width:3.08;stroke-miterlimit:22.9256}
+    .str0 {stroke:#6B470F;stroke-width:12.36;stroke-miterlimit:22.9256}
+    .str2 {stroke:#C6B93A;stroke-width:12.36;stroke-miterlimit:22.9256}
+    .str1 {stroke:#6B470F;stroke-width:3.3;stroke-miterlimit:22.9256}
+    .str3 {stroke:#C6B93A;stroke-width:3.3;stroke-miterlimit:22.9256}
     .fil0 {fill:none}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1076301136">
-   <path class="fil0 str0" d="M73.9 60.32c0,-7.49 -6.08,-13.57 -13.57,-13.57 -7.49,0 -13.57,6.08 -13.57,13.57 0,7.49 6.08,13.57 13.57,13.57 7.49,0 13.57,-6.08 13.57,-13.57z"/>
-   <path class="fil0 str1" d="M100.43 53.25l-27 4.76m-26.2 4.62l-27 4.76"/>
-   <path class="fil0 str1" d="M95.59 39.96l-23.75 13.71m-23.04 13.3l-23.75 13.71"/>
-   <path class="fil0 str1" d="M86.5 29.13l-17.62 21m-17.1 20.38l-17.62 21"/>
-   <path class="fil0 str1" d="M74.25 22.05l-9.38 25.77m-9.1 25l-9.38 25.77"/>
-   <path class="fil0 str1" d="M60.32 19.6l0 27.42m0 26.6l0 27.42"/>
-   <path class="fil0 str1" d="M46.39 22.05l9.38 25.77m9.1 25l9.38 25.77"/>
-   <path class="fil0 str1" d="M34.15 29.13l17.62 21m17.1 20.38l17.62 21"/>
-   <path class="fil0 str1" d="M25.06 39.96l23.75 13.71m23.04 13.3l23.75 13.71"/>
-   <path class="fil0 str1" d="M100.43 67.39l-27 -4.76m-26.2 -4.62l-27 -4.76"/>
-   <path class="fil0 str0" d="M194.54 60.32c0,-7.49 -6.08,-13.57 -13.57,-13.57 -7.49,0 -13.57,6.08 -13.57,13.57 0,7.49 6.08,13.57 13.57,13.57 7.49,0 13.57,-6.08 13.57,-13.57z"/>
-   <path class="fil0 str2" d="M73.9 180.97c0,-7.49 -6.08,-13.57 -13.57,-13.57 -7.49,0 -13.57,6.08 -13.57,13.57 0,7.49 6.08,13.57 13.57,13.57 7.49,0 13.57,-6.08 13.57,-13.57z"/>
-   <path class="fil0 str3" d="M100.43 173.9l-27 4.76m-26.2 4.62l-27 4.76"/>
-   <path class="fil0 str3" d="M95.59 160.6l-23.75 13.71m-23.04 13.3l-23.75 13.71"/>
-   <path class="fil0 str3" d="M86.5 149.78l-17.62 21m-17.1 20.38l-17.62 21"/>
-   <path class="fil0 str3" d="M74.25 142.69l-9.38 25.77m-9.1 25l-9.38 25.77"/>
-   <path class="fil0 str3" d="M60.32 140.25l0 27.42m0 26.6l0 27.42"/>
-   <path class="fil0 str3" d="M46.39 142.69l9.38 25.77m9.1 25l9.38 25.77"/>
-   <path class="fil0 str3" d="M34.15 149.78l17.62 21m17.1 20.38l17.62 21"/>
-   <path class="fil0 str3" d="M25.06 160.61l23.75 13.71m23.04 13.3l23.75 13.71"/>
-   <path class="fil0 str3" d="M100.43 188.04l-27 -4.76m-26.2 -4.62l-27 -4.76"/>
-   <path class="fil0 str2" d="M194.54 180.97c0,-7.49 -6.08,-13.57 -13.57,-13.57 -7.49,0 -13.57,6.08 -13.57,13.57 0,7.49 6.08,13.57 13.57,13.57 7.49,0 13.57,-6.08 13.57,-13.57z"/>
-   <polygon class="fil0" points="-0,0 241.29,0 241.29,241.29 -0,241.29 "/>
+  <g id="_987520400">
+   <path class="fil0 str0" d="M84.01 68.58c0,-8.52 -6.91,-15.43 -15.43,-15.43 -8.52,0 -15.43,6.91 -15.43,15.43 0,8.52 6.91,15.43 15.43,15.43 8.52,0 15.43,-6.91 15.43,-15.43z"/>
+   <path class="fil0 str1" d="M114.18 60.54l-30.7 5.41m-29.79 5.25l-30.7 5.41"/>
+   <path class="fil0 str1" d="M108.68 45.43l-27 15.59m-26.2 15.12l-27 15.59"/>
+   <path class="fil0 str1" d="M98.34 33.12l-20.04 23.88m-19.44 23.17l-20.04 23.88"/>
+   <path class="fil0 str1" d="M84.42 25.07l-10.66 29.3m-10.35 28.43l-10.66 29.3"/>
+   <path class="fil0 str1" d="M68.58 22.29l0 31.17m0 30.24l0 31.17"/>
+   <path class="fil0 str1" d="M52.75 25.07l10.66 29.3m10.35 28.43l10.66 29.3"/>
+   <path class="fil0 str1" d="M38.83 33.12l20.04 23.88m19.44 23.17l20.04 23.88"/>
+   <path class="fil0 str1" d="M28.49 45.43l27 15.59m26.2 15.12l27 15.59"/>
+   <path class="fil0 str1" d="M114.18 76.62l-30.7 -5.41m-29.79 -5.25l-30.7 -5.41"/>
+   <path class="fil0 str0" d="M221.17 68.58c0,-8.52 -6.91,-15.43 -15.43,-15.43 -8.52,0 -15.43,6.91 -15.43,15.43 0,8.52 6.91,15.43 15.43,15.43 8.52,0 15.43,-6.91 15.43,-15.43z"/>
+   <path class="fil0 str2" d="M84.01 205.74c0,-8.52 -6.91,-15.43 -15.43,-15.43 -8.52,0 -15.43,6.91 -15.43,15.43 0,8.52 6.91,15.43 15.43,15.43 8.52,0 15.43,-6.91 15.43,-15.43z"/>
+   <path class="fil0 str3" d="M114.18 197.7l-30.7 5.41m-29.79 5.25l-30.7 5.41"/>
+   <path class="fil0 str3" d="M108.68 182.59l-27 15.59m-26.2 15.12l-27 15.59"/>
+   <path class="fil0 str3" d="M98.34 170.28l-20.04 23.88m-19.44 23.17l-20.04 23.88"/>
+   <path class="fil0 str3" d="M84.42 162.23l-10.66 29.3m-10.35 28.43l-10.66 29.3"/>
+   <path class="fil0 str3" d="M68.58 159.45l0 31.17m0 30.24l0 31.17"/>
+   <path class="fil0 str3" d="M52.75 162.23l10.66 29.3m10.35 28.43l10.66 29.3"/>
+   <path class="fil0 str3" d="M38.83 170.28l20.04 23.88m19.44 23.17l20.04 23.88"/>
+   <path class="fil0 str3" d="M28.49 182.59l27 15.59m26.2 15.12l27 15.59"/>
+   <path class="fil0 str3" d="M114.18 213.78l-30.7 -5.41m-29.79 -5.25l-30.7 -5.41"/>
+   <path class="fil0 str2" d="M221.17 205.74c0,-8.52 -6.91,-15.43 -15.43,-15.43 -8.52,0 -15.43,6.91 -15.43,15.43 0,8.52 6.91,15.43 15.43,15.43 8.52,0 15.43,-6.91 15.43,-15.43z"/>
+   <polygon class="fil0" points="-0,0 274.32,0 274.32,274.32 -0,274.32 "/>
   </g>
  </g>
 </svg>
