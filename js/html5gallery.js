@@ -344,7 +344,7 @@ function loadHtml5Gallery(u) {
         var U = n(".html5boxTimeCurrent", v), G = n(".html5boxTimeTotal", v), C = n(".html5boxSeeker", v), O = n(".html5boxSeekerPlay", v),P=n(".html5boxSeekerBuffer",v),M=n(".html5boxSeekerHandler",v);
         U.css({ display: "block", position: "relative", "float": "left", "line-height": m + "px", "font-weight": "normal", "font-size": "12px",margin:"0 8px","font-family":"Arial, Helvetica,sans-serif",color:"#B2B09C"});
         G.css({ display: "block", position: "relative", "float": "right", "line-height": m + "px", "font-weight": "normal", "font-size": "12px",margin:"0 8px","font-family":"Arial, Helvetica,sans-serif",color:"#B2B09C"});
-        C.css({ display: "block", cursor: "pointer", overflow: "hidden", position: "relative", height: "2px", "background-color": "rgba(255,193,7,0.42)",margin:Math.floor((m-4)/2) +"px 4px"}).on(w,function(a){
+        C.css({ display: "block", cursor: "pointer", overflow: "hidden", position: "relative", height: "2px", "background-color": "rgba(255,193,7,0.42)",margin:Math.floor((m-3)/2) +"px 4px"}).on(w,function(a){
             a = (g ? a.originalEvent.touches[0] : a).pageX - C.offset().left;
             O.css({ width: a });
             r.get(0).currentTime = a * r.get(0).duration / C.width();
