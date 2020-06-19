@@ -61,7 +61,7 @@ ul.ps-list{max-width:29%;max-height:300px;}
 ul.ps-list {max-width:29%;max-height:500px;}  
 ul.pgwSlider.wide > li, .pgwSlider.wide > ul > li {max-width:24%!important;}
 img.көрме{width:30px;bottom:-10px;left:2px;}
-img.көрме-ағылшын{width:30px;}
+img.көрме-ағылшын{width:36px;}
 img.көрме-жапон{width:35px;}
 img.көрме-араб{width:22px;}  
 img.мүлік{width:30px;bottom:-10px;left:-7px;}
@@ -94,9 +94,9 @@ img.ел-пошта{width:82px;}
 img.ағылшын{width:13px;margin-bottom:2px;}
 img.ағылшын2{width:13px;margin-bottom:2px;}
 img.ағылшын3{width:14px;margin-bottom:2px;}  
-img.жапон{width:11px;margin-bottom:2px;left:58px;}
-img.араб{width:12px;margin-bottom:2px;left:31px;}
-img.қазақ{width:13px;left:6px;margin-bottom:2px;}}   
+img.жапон{width:17px;margin-bottom:2px;left:58px;}
+img.араб{width:19px;margin-bottom:2px;left:31px;}
+img.қазақ{width:20px;left:6px;margin-bottom:2px;}}   
   
 body{margin:2px;}
 .pgwSlider{width:100%;color:#fff;}
