@@ -236,14 +236,14 @@ div.жануар a:hover,div.қызмет a:hover{background-color:rgba(186, 169
 .dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,
 .dropdown:hover div.қызмет {display: block;}
 
-img.ел-пошта{bottom:18px;right:7px;position:absolute;}
+img.ел-пошта{padding-left:17px;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
-img.қазақ{bottom:20px;right:428px;position:absolute;}
-img.ағылшын{bottom:20px;right:427px;position:absolute;}
-img.ағылшын3{bottom: 20px;right:356px;position:absolute;}
-img.ағылшын2{bottom:20px;right:394px;position:absolute;}
-img.жапон{right:392px;bottom:19px;position:absolute;}
-img.араб{right:359px;bottom:19px;position:absolute;}
+img.қазақ{}
+img.ағылшын{}
+img.ағылшын3{}
+img.ағылшын2{}
+img.жапон{}
+img.араб{}
 
 div.көрме-ағылшын{margin:-265px -5px;width:173px;}
 div.көрме-жапон{margin:-339px -3px;width:194px;}
