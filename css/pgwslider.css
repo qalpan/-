@@ -39,13 +39,13 @@ img.қызмет{width:27px;position:absolute;bottom:-7px;left:-132px;}
 .dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
 .dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-64px 195px;}
 .dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-101px 144px;}
-img.ел-пошта{right:-257px;bottom:79px;width:64px;}
-img.ағылшын{width:13px;margin-bottom:0px;left:4px;}
-img.ағылшын2{width:13px;left:52px;bottom:75px;}
-img.ағылшын3{width:14px;left:31px;bottom:-81px;position:absolute;}  
-img.жапон{width:11px;margin-bottom:2px;left:58px;}
-img.араб{width:12px;margin-bottom:1px;left:31px;}
-img.қазақ{width:13px;left:6px;margin-bottom:0px;}
+img.ел-пошта{width:64px;}
+img.ағылшын{width:13px;}
+img.ағылшын2{width:13px;}
+img.ағылшын3{width:14px;}  
+img.жапон{width:11px;margin-bottom:2px;}
+img.араб{width:12px;margin-bottom:2px;}
+img.қазақ{width:13px;margin-bottom:2px;}
 .html5gallery-elem-img-0,img.html5gallery-elem-image.html5gallery-elem-image-0{max-height:auto;}
 .html5gallery-elem-0{min-height:0;}  
 .html5gallery-video-play-0{left:50%;top:87%;}
@@ -90,8 +90,8 @@ img.қызмет{width:27px;position:absolute;bottom:-7px;left:-132px;}
 .dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
 .dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-64px 195px;}
 .dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-101px 144px;}
-img.ел-пошта{right:-257px;bottom:79px;width:64px;}
-img.ағылшын{width:13px;margin-bottom:1px;}
+img.ел-пошта{width:64px;}
+img.ағылшын{width:13px;margin-bottom:2px;}
 img.ағылшын2{width:13px;margin-bottom:2px;}
 img.ағылшын3{width:14px;margin-bottom:2px;}  
 img.жапон{width:11px;margin-bottom:2px;left:58px;}
