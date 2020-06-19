@@ -236,7 +236,7 @@ div.жануар a:hover,div.қызмет a:hover{background-color:rgba(186, 169
 .dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жиһаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,
 .dropdown:hover div.қызмет {display: block;}
 
-img.ел-пошта{padding-left:17px;}
+img.ел-пошта{padding-left:17px;padding-bottom: 2px;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
 img.қазақ{}
 img.ағылшын{}
