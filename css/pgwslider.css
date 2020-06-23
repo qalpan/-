@@ -61,9 +61,9 @@ ul.ps-list{max-width:29%;max-height:300px;}
 ul.ps-list {max-width:29%;max-height:500px;}  
 ul.pgwSlider.wide > li, .pgwSlider.wide > ul > li {max-width:24%!important;}
 img.көрме{width:30px;bottom:-10px;left:2px;}
-img.көрме-ағылшын{width:36px;}
-img.көрме-жапон{width:42px;}
-img.көрме-араб{width:25px;}  
+img.көрме-ағылшын{width:39px;}
+img.көрме-жапон{width:44px;}
+img.көрме-араб{width:27px;}  
 img.мүлік{width:30px;bottom:-10px;left:-7px;}
 img.көлік{width:30px;bottom:-10px;left:-17px;}
 img.азық{width:30px;bottom:-10px;left:-26px;}
@@ -76,7 +76,7 @@ img.білім{width:30px;bottom:-10px;left:-93px;}
 img.жануар{width:33px;bottom:-10px;left:-106px;}
 img.қызмет{width:35px;bottom:-10px;left:-121px;}
 .dropdown div.көрме{font-size:10px;min-width:127px;margin:-239px -4px;}
-.dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-235px -5px;}
+.dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-235px -4px;}
 .dropdown div.көрме-жапон{font-size:9px;min-width:127px;margin:-273px -7px;}
 .dropdown div.көрме-араб{font-size:10px;min-width:127px;margin:-255px -5px;}  
 .dropdown div.мүлік{font-size:10px;min-width:69px;margin:-105px 20px;}
