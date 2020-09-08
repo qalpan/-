@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.73mm" height="22.5165mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 29.34 115.3"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#ACA77B;stroke-width:3.84;stroke-miterlimit:22.9256}
+    .str1 {stroke:#C6B951;stroke-width:3.84;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#ACA77B}
+    .fil2 {fill:#C6B951}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1000266024">
+   <g>
+    <g>
+     <polygon class="fil0" points="0.33,0 11.81,0 6.25,5.43 6,5.67 5.56,5.23 6,5.67 0.33,11.21 "/>
+     <line class="fil1 str0" x1="5.56" y1="5.23" x2="10.78" y2= "10.45" />
+    </g>
+    <g>
+     <polygon class="fil0" points="0.33,28.68 11.81,28.68 6.25,23.25 6,23 5.56,23.45 6,23 0.33,17.46 "/>
+     <line class="fil1 str0" x1="5.56" y1="23.45" x2="10.78" y2= "18.23" />
+    </g>
+    <g>
+     <polygon class="fil0" points="29.01,0 17.53,0 23.09,5.43 23.34,5.67 23.78,5.23 23.34,5.67 29.01,11.21 "/>
+     <line class="fil1 str0" x1="23.78" y1="5.23" x2="18.56" y2= "10.45" />
+    </g>
+    <g>
+     <polygon class="fil0" points="29.01,28.68 17.53,28.68 23.09,23.25 23.34,23 23.78,23.45 23.34,23 29.01,17.46 "/>
+     <line class="fil1 str0" x1="23.78" y1="23.45" x2="18.56" y2= "18.23" />
+    </g>
+   </g>
+   <g>
+    <g>
+     <polygon class="fil2" points="0.33,28.68 11.81,28.68 6.25,34.1 6,34.35 5.56,33.9 6,34.35 0.33,39.89 "/>
+     <line class="fil1 str1" x1="5.56" y1="33.9" x2="10.78" y2= "39.13" />
+    </g>
+    <g>
+     <polygon class="fil2" points="0.33,57.35 11.81,57.35 6.25,51.92 6,51.68 5.56,52.13 6,51.68 0.33,46.14 "/>
+     <line class="fil1 str1" x1="5.56" y1="52.13" x2="10.78" y2= "46.9" />
+    </g>
+    <g>
+     <polygon class="fil2" points="29.01,28.68 17.53,28.68 23.09,34.1 23.34,34.35 23.78,33.9 23.34,34.35 29.01,39.89 "/>
+     <line class="fil1 str1" x1="23.78" y1="33.9" x2="18.56" y2= "39.13" />
+    </g>
+    <g>
+     <polygon class="fil2" points="29.01,57.35 17.53,57.35 23.09,51.92 23.34,51.68 23.78,52.13 23.34,51.68 29.01,46.14 "/>
+     <line class="fil1 str1" x1="23.78" y1="52.13" x2="18.56" y2= "46.9" />
+    </g>
+   </g>
+   <g>
+    <g>
+     <polygon class="fil0" points="11.81,68.56 0.33,68.56 5.89,63.14 6.14,62.89 6.58,63.34 6.14,62.89 11.81,57.35 "/>
+     <line class="fil1 str0" x1="6.58" y1="63.34" x2="1.36" y2= "58.11" />
+    </g>
+    <g>
+     <polygon class="fil0" points="11.81,74.82 0.33,74.82 5.89,80.24 6.14,80.49 6.58,80.04 6.14,80.49 11.81,86.03 "/>
+     <line class="fil1 str0" x1="6.58" y1="80.04" x2="1.36" y2= "85.27" />
+    </g>
+    <g>
+     <polygon class="fil0" points="17.53,68.56 29.01,68.56 23.45,63.14 23.2,62.89 22.76,63.34 23.2,62.89 17.53,57.35 "/>
+     <line class="fil1 str0" x1="22.76" y1="63.34" x2="27.98" y2= "58.11" />
+    </g>
+    <g>
+     <polygon class="fil0" points="17.53,74.82 29.01,74.82 23.45,80.24 23.2,80.49 22.76,80.04 23.2,80.49 17.53,86.03 "/>
+     <line class="fil1 str0" x1="22.76" y1="80.04" x2="27.98" y2= "85.27" />
+    </g>
+   </g>
+   <g>
+    <g>
+     <polygon class="fil2" points="11.81,97.24 0.33,97.24 5.89,91.81 6.14,91.57 6.58,92.01 6.14,91.57 11.81,86.03 "/>
+     <line class="fil1 str1" x1="6.58" y1="92.01" x2="1.36" y2= "86.79" />
+    </g>
+    <g>
+     <polygon class="fil2" points="11.81,103.49 0.33,103.49 5.89,108.92 6.14,109.16 6.58,108.72 6.14,109.16 11.81,114.7 "/>
+     <line class="fil1 str1" x1="6.58" y1="108.72" x2="1.36" y2= "113.94" />
+    </g>
+    <g>
+     <polygon class="fil2" points="17.53,97.24 29.01,97.24 23.45,91.81 23.2,91.57 22.76,92.01 23.2,91.57 17.53,86.03 "/>
+     <line class="fil1 str1" x1="22.76" y1="92.01" x2="27.98" y2= "86.79" />
+    </g>
+    <g>
+     <polygon class="fil2" points="17.53,103.49 29.01,103.49 23.45,108.92 23.2,109.16 22.76,108.72 23.2,109.16 17.53,114.7 "/>
+     <line class="fil1 str1" x1="22.76" y1="108.72" x2="27.98" y2= "113.94" />
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
