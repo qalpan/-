@@ -4046,32 +4046,20 @@ function UGGridPanel(){
 		else{
 			var numPanes = g_objGrid.getNumPanes();
 			if(numPanes > 1)
-				showArrows = true;
-		}
-
+				showArrows = true;}
 		if(showArrows == true){		//show arrows
-
 			g_objArrowNext.show().fadeTo(0,1);
 			g_objArrowPrev.show().fadeTo(0,1);
 			g_temp.arrowsVisible = true;
-
 		}else{		//hide arrows
-
 			g_objArrowNext.hide();
 			g_objArrowPrev.hide();
-			g_temp.arrowsVisible = false;
-
-		}
-
-	}
-
-
+			g_temp.arrowsVisible = false;}}
 	/**
 	 * set panel size by the given height and grid width
 	 */
 	function setPanelSize(){
 		var gridSize = g_objGrid.getSize();
-
 		//set panel size
 		if(g_temp.isHorType == true)
 			g_temp.panelHeight = gridSize.height + g_options.gridpanel_padding_border_top + g_options.gridpanel_padding_border_bottom;
@@ -4113,38 +4101,23 @@ function UGGridPanel(){
 	 * destroy the events
 	 */
 	this.destroy = function(){
-
 		if(g_objArrowPrev)
 			g_functions.destroyButton(g_objArrowPrev);
-
 		if(g_objArrowNext)
 			g_functions.destroyButton(g_objArrowNext);
-
 		g_panelBase.destroy();
-
-		g_objGrid.destroy();
-	}
-
-
+		g_objGrid.destroy();}
 	function ______PLACE_ELEMENTS___________(){};
-
-
 	/**
 	 * get padding left of the grid
 	 */
 	function getGridPaddingLeft(){
-
 		var gridPanelLeft = g_options.gridpanel_padding_border_left;
-
-		return(gridPanelLeft);
-	}
-
-
+		return(gridPanelLeft);}
 	/**
 	 * place elements vertical - grid only
 	 */
 	function placeElements_noarrows(){
-
 		//place grid
 		var gridY = g_options.gridpanel_grid_align, gridPaddingY = 0;
 
@@ -4458,85 +4431,45 @@ function UGGridPanel(){
 			break;
 			default:
 				throw new Error("Wrong grid panel orientation: " + orientation);
-			break;
-		}
-
-	}
-
+			break;}}
 	/**
 	 * set panel height
 	 */
 	this.setHeight = function(height){
-
 		if(g_temp.isHorType == true)
 			throw new Error("setHeight is not appliable to this orientatio ("+g_temp.orientation+"). Please use setWidth");
-
 		g_temp.panelHeight = height;
 		var gridMaxHeight = getGridMaxHeight();
-
-		g_objGrid.setMaxHeight(gridMaxHeight);
-	}
-
-
+		g_objGrid.setMaxHeight(gridMaxHeight);}
 	/**
 	 * set panel width
 	 */
 	this.setWidth = function(width){
-
 		if(g_temp.isHorType == false)
 			throw new Error("setWidth is not appliable to this orientatio ("+g_temp.orientation+"). Please use setHeight");
-
 		g_temp.panelWidth = width;
-
 		var gridMaxWidth = getGridMaxWidth();
-
-		g_objGrid.setMaxWidth(gridMaxWidth);
-	}
-
-
+		g_objGrid.setMaxWidth(gridMaxWidth);}
 	/**
 	 * init the panel
 	 */
-	this.init = function(gallery, customOptions){
-
-		initGridPanel(gallery, customOptions);
-	}
-
+	this.init = function(gallery, customOptions){initGridPanel(gallery, customOptions);}
 	/**
 	 * place panel html
 	 */
-	this.setHtml = function(){
-		setHtmlPanel();
-	}
-
-
+	this.setHtml = function(){setHtmlPanel();}
 	/**
 	 * run the panel
 	 */
-	this.run = function(){
-
-		runPanel();
-	}
-
-
+	this.run = function(){runPanel();}
 	/**
 	 * get the panel element
 	 */
-	this.getElement = function(){
-		return(g_objPanel);
-	}
-
-
+	this.getElement = function(){return(g_objPanel);}
 	/**
 	 * get panel size object
 	 */
-	this.getSize = function(){
-
-		var objSize = g_functions.getElementSize(g_objPanel);
-
-		return(objSize);
-	}
-
+	this.getSize = function(){var objSize = g_functions.getElementSize(g_objPanel);return(objSize);}
 	this.__________Functions_From_Base_____ = function() {}
 	/**
 	 * tells if the panel is closed
@@ -4678,11 +4611,7 @@ function UGThumbsGrid(){
 		if(g_temp.isTilesMode == true)
 			g_tilesDesign.setHtml(g_objInner);
 		else
-			g_thumbs.setHtmlThumbs(g_objInner);
-
-	}
-
-
+			g_thumbs.setHtmlThumbs(g_objInner);}
 	/**
 	 * validate before running the grid
 	 */
@@ -4693,37 +4622,22 @@ function UGThumbsGrid(){
 				throw new Error("You must set height before run.");
 		}else{
 			if(g_temp.gridWidth == 0)
-				throw new Error("You must set width before run.");
-		}
-
-	}
-
-
+				throw new Error("You must set width before run.");}}
 	/**
 	 * run the gallery after init and set html
 	 */
 	function run(){
-
 		var selectedItem = g_gallery.getSelectedItem();
-
 		validateBeforeRun();
-
-		if(g_temp.isFirstTimeRun == true){
-
-			initEvents();
-
+		if(g_temp.isFirstTimeRun == true){initEvents();
 			if(g_temp.isTilesMode == true){
-
 				initGridDynamicSize();
 				initSizeParams();
 				g_tilesDesign.run();
-
 			}else{
 				g_thumbs.setHtmlProperties();
 				initSizeParams();
-				g_thumbs.loadThumbsImages();
-			}
-
+				g_thumbs.loadThumbsImages();}
 		}else{
 
 			if(g_temp.isTilesMode == true){
@@ -4733,36 +4647,19 @@ function UGThumbsGrid(){
 
 				if(isChanged == true){
 					initSizeParams();
-					g_tilesDesign.run();
-				}
-			}
-
-		}
-
+					g_tilesDesign.run();}}}
 		positionThumbs();
-
 		if(g_temp.isFirstTimeRun == true && g_temp.isTilesMode){
-
 			var objTiles = g_thumbs.getThumbs();
-
 			//fire size change event
 			objTiles.each(function(index, tile){
-
-				g_objWrapper.trigger(g_temp.eventSizeChange, jQuery(tile));
-			});
-
-			objTiles.fadeTo(0,1);
-		}
-
+				g_objWrapper.trigger(g_temp.eventSizeChange, jQuery(tile));});
+			objTiles.fadeTo(0,1);}
 		if(selectedItem != null)
 			scrollToThumb(selectedItem.index);
-
 		//trigger pane change event on the start
 		g_objThis.trigger(t.events.PANE_CHANGE, g_temp.currentPane);
-
-		g_temp.isFirstTimeRun = false;
-	}
-
+		g_temp.isFirstTimeRun = false;}
 	/**
 	 * get thumb size object
 	 */
@@ -4771,11 +4668,7 @@ function UGThumbsGrid(){
 			var objThumbSize = g_tilesDesign.getGlobalTileSize();
 		else
 			var objThumbSize = g_thumbs.getGlobalThumbSize();
-
-		return(objThumbSize);
-	}
-
-
+		return(objThumbSize);}
 	/**
 	 * init grid dynamic size (tiles mode)
 	 */
@@ -13105,50 +12998,31 @@ function UGZoomSliderControl(){
 
 		g_temp.lastMouseX = g_temp.startMouseX;
 		g_temp.lastMouseY = g_temp.startMouseY;
-
 		g_temp.startImageX = g_temp.objImageSize.left;
 		g_temp.startImageY = g_temp.objImageSize.top;
-
 		g_temp.panXActive = (g_temp.objImageSize.width > g_temp.objParentSize.width);
-		g_temp.panYActive = (g_temp.objImageSize.height > g_temp.objParentSize.height);
-
-	}
-
+		g_temp.panYActive = (g_temp.objImageSize.height > g_temp.objParentSize.height);}
 
 	/**
 	 * check pan start, and start if posible
 	 */
-	function startPan(event){
-
-		g_temp.isPanActive = true;
-		storePanInitValues(event);
-
-	}
-
-
+	function startPan(event){g_temp.isPanActive = true;storePanInitValues(event);}
 	/**
 	 * pan the image
 	 */
 	function panImage(event){
-
 		if(g_temp.objImage == undefined || g_temp.objImage.length == 0)
 			return(true);
-
 		var mousePos = g_functions.getMousePosition(event);
-
 		var diffX = mousePos.pageX - g_temp.startMouseX;
 		var diffY = mousePos.pageY - g_temp.startMouseY;
-
 		//get active direction
 		var diffLastX = mousePos.pageX - g_temp.lastMouseX;
 		var diffLastY = mousePos.pageY - g_temp.lastMouseY;
-
 		var directionX = (diffLastX < 0) ? "left":"right";
 		var directionY = (diffLastY < 0) ? "up":"down";
-
 		g_temp.lastMouseX = mousePos.pageX;
 		g_temp.lastMouseY = mousePos.pageY;
-
 		var posImage = g_functions.getElementSize(g_temp.objImage);
 
 		//var imageX = g_temp.startImageX + diffX;
@@ -13159,47 +13033,23 @@ function UGZoomSliderControl(){
 		//slow down y
 
 		if(g_temp.panYActive == false){
-
 			diffLastY = 0;
-
 		}else{		//zoom enabled
-
 			if(directionY == "down" && posImage.top > 0){
-
 				diffLastY = diffLastY / 3;
-
 			}else if(directionY == "up" && posImage.bottom < g_temp.objParentSize.height){
-
-				diffLastY = diffLastY / 3;
-
-			}
-		}
-
+				diffLastY = diffLastY / 3;}}
 		//slow down x (only if the pan enabled)
 		if(g_temp.panXActive == false || g_parent.isInnerInPlace() == false){
-
 			diffLastX = 0;
-
 		}else{	//zoom enabled
-
 			if(directionX == "right" && posImage.left > 0){
-				diffLastX = diffLastX / 3;
-			}
+				diffLastX = diffLastX / 3;}
 			else if(directionX == "left" && posImage.right < g_temp.objParentSize.width){
-				diffLastX = diffLastX / 3;
-			}
-	    }
-
+				diffLastX = diffLastX / 3;}}
 		var imageX = posImage.left + diffLastX;
 		var imageY = posImage.top + diffLastY;
-
-
-		g_functions.placeElement(g_temp.objImage, imageX, imageY);
-
-	}
-
-
-
+		g_functions.placeElement(g_temp.objImage, imageX, imageY);}
 
 	/**
 	 * return the image to place if it's out of borders
@@ -15052,8 +14902,8 @@ function UniteGalleryMain(){
 			CLOSE_LIGHTBOX:"close_lightbox"};
 	//set the default gallery options
 	var g_options = {
-			gallery_width:"100%",						//gallery width
-			gallery_height:789,							//gallery height
+			gallery_height:"100%",						//gallery width
+			gallery_height:,							//gallery height
 			gallery_min_width:150,						//gallery minimal width when resizing
 			gallery_min_height:100,					    //gallery minimal height when resizing
 			gallery_theme:"default",					//default,compact,grid,slider - select your desired theme from the list of themes.
