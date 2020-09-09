@@ -6,21 +6,22 @@ span.ps-prevIcon {width:41px;margin-bottom:-3px;}
 span.ps-prevIcon-agylhyn {width:36px;}
 span.ps-prevIcon-japon {width:38px;}
 span.ps-prevIcon-arab {width:24px;}
-img.көрме{width:24px;}
+img.көрме{width:24px;top: 200px;left: 32px;}
 img.көрме-ағылшын{width:30px;}
 img.көрме-жапон{width:35px;}
 img.көрме-араб{width:22px;}
-img.мүлік{width:22px;bottom:-6px;left:-11px;}
-img.көлік{width:20px;bottom:-6px;left:-22px;}
-img.азық{width:19px;bottom:-6px;left:-32px;}
-img.кійім{width:19px;bottom:-6px;left:-43px;}
-img.зат{width:22px;left:-59px;bottom:-6px;}
-img.құрлыс{width:22px;bottom:-6px;left:-72px;}
-img.химиа{width:25px;left:-85px;}
-img.жихаз{width:22px;bottom:-6px;left:-95px;}
-img.білім{width:22px;bottom:-6px;left:-105px;}
-img.жануар{width:24px;bottom:-6px;left:-117px;}
-img.қызмет{width:27px;position:absolute;bottom:-6px;left:-240px;}
+img.мүлік{width:24px;top: 200px;left:20px;}
+img.көлік{width:24px;top: 200px;left:8px;}
+img.азық{width:24px;top: 200px;left:-4px;}
+img.кійім{width:24px;top: 200px;left:-17px;}
+img.зат{width:24px;top: 200px;left:-33px;}
+img.құрлыс{width:24px;top: 200px;left:-48px;}
+img.химиа{width:24px;top: 200px;left:-66px;}
+img.жихаз{width:24px;top: 200px;left:-81px;}
+img.білім{width:24px;top: 200px;left:-94px;}
+img.жануар{width:24px;top: 202px;left:-110px;}
+img.қызмет{width:24px;position:absolute;top: 204px;left:-129px;}
+.dropdown {margin-bottom: 46px;}
 .dropdown div.көрме{font-size:10px;min-width:127px;margin:-219px -5px;}
 .dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-219px -5px;}
 .dropdown div.көрме-жапон{font-size:10px;min-width:127px;margin:-259px -5px;}
@@ -32,7 +33,7 @@ img.қызмет{width:27px;position:absolute;bottom:-6px;left:-240px;}
 .dropdown div.зат{font-size:10px;min-width:48px;margin:-102px 84px;}
 .dropdown div.құрлыс{font-size:10px;min-width:66px;margin:-121px 100px;}
 .dropdown div.химиа{font-size:10px;min-width:68px;margin:-46px 126px;}
-.dropdown div.жиһаз{font-size:10px;text-align:left;min-width:48px;margin:-121px 150px;}
+.dropdown div.жихаз{font-size:10px;text-align:left;min-width:48px;margin:-121px 150px;}
 .dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
 .dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-64px 195px;}
 .dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-1px -123px;}
@@ -46,6 +47,36 @@ img.қазақ{width:13px;left:9px;bottom:74px;}}
 
 @media only screen and (max-width: 1200px){
 ul.ps-list{max-width:29%;max-height:300px;}
+img.көрме{bottom:10px;}
+img.көрме-ағылшын{bottom:10px;}
+img.көрме-жапон{bottom:10px;}
+img.көрме-араб{bottom:10px;}
+img.мүлік{bottom:10px;}
+img.көлік{bottom:10px;}
+img.азық{bottom:10px;}
+img.кійім{bottom:10px;}
+img.зат{bottom:10px;}
+img.құрлыс{bottom:10px;}
+img.химиа{bottom:10px;}
+img.жихаз{bottom:10px;}
+img.білім{bottom:10px;}
+img.жануар{bottom:10px;}
+img.қызмет{bottom:10px;}
+.көрме{bottom:304px;}
+.көрме-ағылшын{bottom:310px;}
+.көрме-жапон{bottom:310px;}
+.көрме-араб{bottom:310px;}
+.мүлік{bottom: 159px;}
+.көлік{bottom: 223px;}
+.азық{bottom: 201px;}
+.кійім{bottom: 201px;}
+.зат{bottom: 156px;}
+.құрлыс{bottom: 177px;}
+.химиа{bottom: 93px;}
+.жихаз{bottom:310px;}
+.білім{bottom: 181px;}
+.жануар{bottom: 113px;}
+.қызмет{bottom: 158px;}
 .pgwSlider.wide > ul > li {max-width:22%!important;}}
 
 @media only screen and (max-width: 1500px) {
@@ -110,9 +141,9 @@ img.зат{margin:-8px 136px;position:absolute;}
 img.құрлыс{margin:-8px 171px;position:absolute;}
 img.химиа{margin:-8px 210px;position:absolute;}
 img.жихаз { margin: -8px 248px; position: absolute; }
-img.білім { margin: -8px 282px; position: absolute; }
-img.жануар{margin:-8px 319px;position:absolute;}
-img.қызмет{margin:-8px 364px;position:absolute;}
+img.білім { margin: 10px 282px; position: absolute; }
+img.жануар{margin:11px 319px;position:absolute;}
+img.қызмет{margin:11px 364px;position:absolute;}
 
 img.көрме:hover{content:url(../suretter/korme-janu.svg);}
 img.көрме-ағылшын:hover{content:url(../suretter/korme-agylhyn-janyu.svg);}
