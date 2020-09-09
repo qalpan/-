@@ -785,10 +785,11 @@ img.ug-sepia-effect{
 .ug-button-play.ug-skin-default{
 	position:absolute;
 	background-image:url('../suretter/baspa/bastau-toktatyu.svg');
-    width:15px;
-    height:20px;
-    cursor:pointer;
-	background-position:0px 0px;}
+        width:15px;
+        height:20px;
+        cursor:pointer;
+        z-index: 9;
+        background-position:0px 0px;}
 
 .ug-button-play.ug-skin-default.ug-button-hover{background-position:0px -24px;}
 
