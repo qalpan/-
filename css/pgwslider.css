@@ -141,9 +141,9 @@ img.зат{margin:-8px 136px;position:absolute;}
 img.құрлыс{margin:-8px 171px;position:absolute;}
 img.химиа{margin:-8px 210px;position:absolute;}
 img.жихаз { margin: -8px 248px; position: absolute; }
-img.білім { margin: 10px 282px; position: absolute; }
-img.жануар{margin:11px 319px;position:absolute;}
-img.қызмет{margin:11px 364px;position:absolute;}
+img.білім { margin: -8px 282px; position: absolute; }
+img.жануар{margin:-8px 319px;position:absolute;}
+img.қызмет{margin:-8px 364px;position:absolute;}
 
 img.көрме:hover{content:url(../suretter/korme-janu.svg);}
 img.көрме-ағылшын:hover{content:url(../suretter/korme-agylhyn-janyu.svg);}
