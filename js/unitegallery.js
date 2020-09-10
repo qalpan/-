@@ -15053,7 +15053,7 @@ function UniteGalleryMain(){
 	//set the default gallery options
 	var g_options = {
 			gallery_width:1600,						//gallery width
-			gallery_height:1100,							//gallery height
+			gallery_height:1200,							//gallery height
 			gallery_min_width:150,						//gallery minimal width when resizing
 			gallery_min_height:100,					    //gallery minimal height when resizing
 			gallery_theme:"default",					//default,compact,grid,slider - select your desired theme from the list of themes.
