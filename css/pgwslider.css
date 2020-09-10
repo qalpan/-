@@ -22,15 +22,15 @@ img.білім{width:24px;top: 200px;left:-94px;}
 img.жануар{width:24px;top: 202px;left:-110px;}
 img.қызмет{width:24px;position:absolute;top: 204px;left:-129px;}
 .dropdown {margin-bottom: 46px;}
-.dropdown div.көрме{font-size:10px;min-width:127px;margin:-219px -5px;}
+.dropdown div.көрме{font-size:10px;min-width:127px;margin:-107px -128px;}
 .dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-219px -5px;}
 .dropdown div.көрме-жапон{font-size:10px;min-width:127px;margin:-259px -5px;}
 .dropdown div.көрме-араб{font-size:10px;min-width:127px;margin:-233px -5px;}
-.dropdown div.мүлік{font-size:10px;min-width:69px;margin:-102px 15px;}
-.dropdown div.көлік{font-size:10px;margin:-157px 34px;min-width:68px;}
-.dropdown div.азық{font-size:10px;margin:-137px 53px;min-width:107px;}
-.dropdown div.кійім{font-size:10px;min-width:55px;margin:-137px 68px;}
-.dropdown div.зат{font-size:10px;min-width:48px;margin:-102px 84px;}
+.dropdown div.мүлік{font-size:10px;min-width:69px;margin:172px -103px;}
+.dropdown div.көлік{font-size:10px;margin:51px -82px;min-width:68px;}
+.dropdown div.азық{font-size:10px;margin:92px -61px;min-width:107px;}
+.dropdown div.кійім{font-size:10px;min-width:55px;margin:92px -45px;}
+.dropdown div.зат{font-size:10px;min-width:48px;margin:175px -26px;}
 .dropdown div.құрлыс{font-size:10px;min-width:66px;margin:-121px 100px;}
 .dropdown div.химиа{font-size:10px;min-width:68px;margin:-46px 126px;}
 .dropdown div.жихаз{font-size:10px;text-align:left;min-width:48px;margin:-121px 150px;}
