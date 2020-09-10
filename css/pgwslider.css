@@ -18,9 +18,9 @@ img.зат{width:24px;top: 200px;left:-33px;}
 img.құрлыс{width:24px;top: 200px;left:-48px;}
 img.химиа{width:24px;top: 200px;left:-66px;}
 img.жихаз{width:24px;top: 200px;left:-81px;}
-img.білім{width:24px;top: 200px;left:-94px;}
-img.жануар{width:24px;top: 202px;left:-110px;}
-img.қызмет{width:24px;position:absolute;top: 204px;left:-129px;}
+img.білім{width:24px;top:182px;left:-94px;}
+img.жануар{width:24px;top: 183px;left:-110px;}
+img.қызмет{width:24px;position:absolute;top:185px;left:-129px;}
 .dropdown {margin-bottom: 46px;}
 .dropdown div.көрме{font-size:10px;min-width:127px;margin:-107px -128px;}
 .dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-219px -5px;}
@@ -32,11 +32,11 @@ img.қызмет{width:24px;position:absolute;top: 204px;left:-129px;}
 .dropdown div.кійім{font-size:10px;min-width:55px;margin:92px -45px;}
 .dropdown div.зат{font-size:10px;min-width:48px;margin:175px -26px;}
 .dropdown div.құрлыс{font-size:10px;min-width:66px;margin:135px -11px;}
-.dropdown div.химиа{font-size:10px;min-width:68px;margin:-46px 126px;}
-.dropdown div.жихаз{font-size:10px;text-align:left;min-width:48px;margin:-121px 150px;}
-.dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
-.dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:-64px 195px;}
-.dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:-1px -123px;}
+.dropdown div.химиа{font-size:10px;min-width:68px;margin:295px 11px;}
+.dropdown div.жихаз{font-size:10px;text-align:left;min-width:48px;margin:2px 34px;}
+.dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:131px 57px;}
+.dropdown div.жануар{font-size:10px;text-align:left;min-width:69px;margin:256px 75px;}
+.dropdown div.қызмет{font-size:10px;text-align:right;min-width:117px;margin:172px 19px;}
 img.ел-пошта{right:-257px;bottom:79px;width:64px;}
 img.ағылшын{width:16px;bottom:76px;left:3px;}
 img.ағылшын2{width:16px;left:52px;bottom:75px;}
