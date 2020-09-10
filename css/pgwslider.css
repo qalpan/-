@@ -31,7 +31,7 @@ img.қызмет{width:24px;position:absolute;top: 204px;left:-129px;}
 .dropdown div.азық{font-size:10px;margin:92px -61px;min-width:107px;}
 .dropdown div.кійім{font-size:10px;min-width:55px;margin:92px -45px;}
 .dropdown div.зат{font-size:10px;min-width:48px;margin:175px -26px;}
-.dropdown div.құрлыс{font-size:10px;min-width:66px;margin:-121px 100px;}
+.dropdown div.құрлыс{font-size:10px;min-width:66px;margin:135px -11px;}
 .dropdown div.химиа{font-size:10px;min-width:68px;margin:-46px 126px;}
 .dropdown div.жихаз{font-size:10px;text-align:left;min-width:48px;margin:-121px 150px;}
 .dropdown div.білім{font-size:10px;text-align:left;min-width:61px;margin:-121px 174px;}
@@ -183,7 +183,7 @@ img.араб:hover { content: url(../suretter/arab-janu.svg); }
 .dropdown{margin:-36px 128px;}
 
 div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.көрме-араб,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,
-div.жиһаз,div.білім,div.жануар,div.қызмет{
+div.жихаз,div.білім,div.жануар,div.қызмет{
   font-size:12px;display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:150px;z-index:1;}
 div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.көрме-араб a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.зат a,
 div.құрлыс a,div.химиа a,div.жиһаз a,div.білім a,div.жануар a,div.қызмет a{
