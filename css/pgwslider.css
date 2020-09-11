@@ -210,6 +210,6 @@ div.көрме-ағылшын{margin:-265px -5px;width:173px;}
 div.көрме-жапон{margin:-339px -3px;width:194px;}
 div.көрме-араб{margin:-299px -3px;}
 
-body, html {  height: 100%;  margin: 0;  padding: 0;}
+body,html{height:100%;margin:0;padding:0;list-style-type:none;}
 
 video{height:100%;}
