@@ -62,7 +62,7 @@ img.жихаз{bottom:10px;}
 img.білім{bottom:10px;}
 img.жануар{bottom:10px;}
 img.қызмет{bottom:10px;}
-.көрме{bottom:304px;}
+.көрме{bottom:312px;}
 .көрме-ағылшын{bottom:310px;}
 .көрме-жапон{bottom:310px;}
 .көрме-араб{bottom:310px;}
@@ -77,6 +77,7 @@ img.қызмет{bottom:10px;}
 .білім{bottom: 181px;}
 .жануар{bottom: 113px;}
 .қызмет{bottom: 158px;}
+.dropdown{margin:12px 22%;}    
 .pgwSlider.wide > ul > li {max-width:22%!important;}}
 
 @media only screen and (max-width: 1500px) {
