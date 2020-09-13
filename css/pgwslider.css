@@ -7,7 +7,7 @@ span.ps-prevIcon-agylhyn {width:36px;}
 span.ps-prevIcon-japon {width:38px;}
 span.ps-prevIcon-arab {width:24px;}
 img.көрме{width:24px;top: 200px;left: 32px;}
-img.көрме-ағылшын{width:30px;bottom: 465px;}
+img.көрме-ағылшын{width:30px;padding-bottom:456px;}
 img.көрме-жапон{width:35px;}
 img.көрме-араб{width:22px;}
 img.мүлік{width:24px;top: 200px;left:20px;}
@@ -23,7 +23,7 @@ img.жануар{width:24px;top: 202px;left:-110px;}
 img.қызмет{width:24px;position:absolute;top:204px;left:-129px;}
 .dropdown {margin-bottom: 46px;}
 .dropdown div.көрме{font-size:10px;min-width:127px;margin:-107px -117px;}
-.dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-81px 6px;}
+.dropdown div.көрме-ағылшын{font-size:10px;min-width:127px;margin:-82px 6px;}
 .dropdown div.көрме-жапон{font-size:10px;min-width:127px;margin:-259px -5px;}
 .dropdown div.көрме-араб{font-size:10px;min-width:127px;margin:-233px -5px;}
 .dropdown div.мүлік{font-size:10px;min-width:69px;margin:172px -92px;}
