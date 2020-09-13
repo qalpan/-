@@ -229,7 +229,7 @@ body{margin:0;}
 .ug-gallery-wrapper .ug-videoplayer{
 	position:absolute;
 	z-index:100;
-	background-color:#000000;
+	background-color:;
 	background-image:url('../suretter/baspa/loader-black1.gif');
 	background-repeat:no-repeat;
 	background-position:center center;
