@@ -63,18 +63,18 @@ img.білім{bottom:10px;}
 img.жануар{bottom:10px;}
 img.қызмет{bottom:10px;}
 
-.мүлік{bottom: 159px;}
-.көлік{bottom: 223px;}
-.азық{bottom: 201px;}
-.кійім{bottom: 201px;}
-.зат{bottom: 156px;}
-.құрлыс{bottom: 177px;}
-.химиа{bottom: 93px;}
+.мүлік{bottom:159px;}
+.көлік{bottom:223px;}
+.азық{bottom:201px;}
+.кійім{bottom:201px;}
+.зат{bottom:156px;}
+.құрлыс{bottom:177px;}
+.химиа{bottom:93px;}
 .жихаз{bottom:179px;}
-.білім{bottom: 181px;}
-.жануар{bottom: 113px;}
-.қызмет{bottom: 158px;}
-.dropdown{margin:12px 22%;}    
+.білім{bottom:181px;}
+.жануар{bottom:113px;}
+.қызмет{bottom:158px;}
+.dropdown{padding-left:17px;}    
 .pgwSlider.wide > ul > li {max-width:22%!important;}}
 
 @media only screen and (max-width: 1500px) {
