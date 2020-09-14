@@ -1,11 +1,5 @@
 body{margin:0;}
 
-.ug-textpanel::before{
-    content:url(../suretter/atau-belgi.svg);
-    margin:14px 12px;
-    float:left;
-    z-index:6;}
-
 .ug-gallery-wrapper,
 .ug-gallery-wrapper *{
 	transition: all !important;
