@@ -133,7 +133,10 @@ ul.pgwSlider.narrow > li,
     margin-bottom: 0;}
 
 img.көрме{margin:-8px -28px;position:absolute;}
-img.көрме-ағылшын{margin:-8px 12px;position:absolute;}
+img.көрме-ағылшын{margin:-8px -28px;position:absolute;}
+img.көрме-жапон{margin:-8px -28px;position:absolute;}
+img.көрме-араб{margin:-8px -28px;position:absolute;}
+
 img.мүлік{margin:-8px 8px;position:absolute;}
 img.көлік{margin:-8px 42px;position:absolute;}
 img.азық{margin:-8px 73px;position:absolute;}
@@ -206,8 +209,7 @@ img.қазақ2{bottom:26px;position:absolute;left:104px;}
 img.жапон{left:73px;bottom:25px;position:absolute;}
 img.араб{left:105px;bottom:25px;position:absolute;}
 
-img.көрме-жапон{bottom:9px;position:absolute;}
-img.көрме-араб{bottom:8px;position:absolute;}
+
 
 div.көрме-ағылшын{margin:-266px 8px;width:173px;}
 div.көрме-жапон{margin:-313px -3px;width:194px;}
