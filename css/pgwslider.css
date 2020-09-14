@@ -81,8 +81,6 @@ img.қызмет{bottom:10px;}
 ul.ps-list {max-width:29%;max-height:500px;}
 ul.pgwSlider.wide > li, .pgwSlider.wide > ul > li {max-width:24%!important;}}
 
-body{margin:2px;}
-
 span.ps-prevIcon{content:url(suretter/atau-belgi.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
 span.ps-prevIcon-beine{content:url(suretter/atau-belgi-beine.svg);z-index:4;bottom:17px;left:12px;position:absolute;}
 span.ps-prevIcon-agylhyn{content:url(suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
@@ -95,13 +93,9 @@ span.ps-prevIcon-japon:hover{content:url(suretter/atau-belgi-japon-janyu.svg);}
 span.ps-prevIcon-arab:hover{content:url(suretter/atau-belgi-arab-janyu.svg);}
 
 .pgwSlider{width:100%;color:rgba(0, 0, 0, 0);}
-
 .pgwSlider .ps-current{float:left;width:69.6%;overflow:hidden;height:inherit;position:relative;font-size:1rem;}
-
 .pgwSlider .ps-current li{width:100%;z-index:1;opacity:0;display:none;}
-
 .pgwSlider .ps-current img{max-width:69.6%;min-width:100%;height:auto;transition:margin-top 250ms linear;}
-
 ul.ps-list {overflow-y:auto;width:29.99%;padding:3px;margin:0px;height:650px;background-color:rgba(186, 169, 13, 0.79)}
 
 .pgwSlider .ps-current ul { width: 100%;}
@@ -206,12 +200,9 @@ img.қазақ2{bottom:26px;position:absolute;left:104px;}
 img.жапон{left:73px;bottom:25px;position:absolute;}
 img.араб{left:105px;bottom:25px;position:absolute;}
 
-
-
 div.көрме-ағылшын{margin:-266px 8px;width:173px;}
 div.көрме-жапон{margin:-313px -3px;width:194px;}
 div.көрме-араб{margin:-272px -3px;}
 
 body,html{height:100%;margin:0;padding:0;list-style-type:none;}
-
 video{height:100%;}
