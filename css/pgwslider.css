@@ -81,17 +81,6 @@ img.қызмет{bottom:10px;}
 ul.ps-list {max-width:29%;max-height:500px;}
 ul.pgwSlider.wide > li, .pgwSlider.wide > ul > li {max-width:24%!important;}}
 
-span.ps-prevIcon{content:url(suretter/atau-belgi.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
-span.ps-prevIcon-beine{content:url(suretter/atau-belgi-beine.svg);z-index:4;bottom:17px;left:12px;position:absolute;}
-span.ps-prevIcon-agylhyn{content:url(suretter/atau-belgi-agylhyn.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
-span.ps-prevIcon-japon{content:url(suretter/atau-belgi-japon.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
-span.ps-prevIcon-arab{content:url(suretter/atau-belgi-arab.svg);position:absolute;z-index:4;bottom:4px;left:5px;}
-span.ps-prevIcon:hover{content:url(suretter/atau-belgi-janu.svg);}
-span.ps-prevIcon-beine:hover{content:url(suretter/atau-belgi-janu-beine.svg);}
-span.ps-prevIcon-agylhyn:hover{content:url(suretter/atau-belgi-agylhyn-janyu.svg);}
-span.ps-prevIcon-japon:hover{content:url(suretter/atau-belgi-japon-janyu.svg);}
-span.ps-prevIcon-arab:hover{content:url(suretter/atau-belgi-arab-janyu.svg);}
-
 .pgwSlider{width:100%;color:rgba(0, 0, 0, 0);}
 .pgwSlider .ps-current{float:left;width:69.6%;overflow:hidden;height:inherit;position:relative;font-size:1rem;}
 .pgwSlider .ps-current li{width:100%;z-index:1;opacity:0;display:none;}
@@ -141,9 +130,9 @@ img.жануар{margin:-8px 319px;position:absolute;}
 img.қызмет{margin:-8px 364px;position:absolute;}
 
 img.көрме:hover{content:url(../suretter/atau-belgi-janu.svg);}
-img.көрме-ағылшын:hover{content:url(../suretter/korme-agylhyn-janyu.svg);}
-img.көрме-жапон:hover{content:url(../suretter/korme-japon-janyu.svg);}
-img.көрме-араб:hover{content:url(../suretter/korme-arab-janyu.svg);}
+img.көрме-ағылшын:hover{content:url(../suretter/atau-belgi-agylhyn-janyu.svg);}
+img.көрме-жапон:hover{content:url(../suretter/atau-belgi-japon-janyu.svg);}
+img.көрме-араб:hover{content:url(../suretter/atau-belgi-arab-janyu.svg);}
 img.мүлік:hover{content:url(../suretter/mylik-janu.svg);}
 img.көлік:hover{content:url(../suretter/kolik-janu.svg);}
 img.азық:hover { content: url(../suretter/azyk-janu.svg); }
@@ -157,8 +146,6 @@ img.жануар:hover { content: url(../suretter/januar-janu.svg); }
 img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
 img.қазақ:hover { content: url(../suretter/kazak-janu.svg); }
 img.ағылшын:hover { content: url(../suretter/agylhyn-janu.svg); }
-img.ағылшын2:hover { content: url(../suretter/agylhyn-janu.svg); }
-img.ағылшын3:hover { content: url(../suretter/agylhyn-janu.svg); }
 img.жапон:hover { content: url(../suretter/japon-janu.svg); }
 img.араб:hover { content: url(../suretter/arab-janu.svg); }
 .dropdown img:hover{background-color:rgb(255, 255, 240);}
