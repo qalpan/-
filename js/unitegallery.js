@@ -10312,7 +10312,7 @@ function UGSlider(){
 		var objImage = t.getSlideImage(objSlide);
 		var objButtonVideoPlay = getSlideVideoPlayButton(objSlide);
 		var objSize = g_functions.getElementSize(objImage);
-		g_functions.placeElement(objButtonVideoPlay, "right", "bottom", objSize.left, objSize.top, objImage);}
+		g_functions.placeElement(objButtonVideoPlay, "bottom", "bottom", objSize.left, objSize.top, objImage);}
 	/**
 	 * init event of current slide
 	 */
@@ -10434,7 +10434,7 @@ function UGSlider(){
 		g_objSlider.off("mouseleave");
 
 		g_objSlider.off("touchend");
-		g_objSlider.off("click");
+		g_objSlider.off("auto");
 		g_objThis.off(t.events.CLICK);
 
 		if(g_objZoomSlider)
