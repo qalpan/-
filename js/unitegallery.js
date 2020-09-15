@@ -9221,7 +9221,7 @@ function UGSlider(){
 		  slider_controls_appear_ontap: true,			//true,false - appear controls on tap event on touch devices
 		  slider_controls_appear_duration: 300,			//the duration of appearing controls
 
-		  slider_enable_text_panel:true,				//true,false - enable the text panel
+		  slider_enable_text_panel:false,				//true,false - enable the text panel
 		  slider_textpanel_always_on:true,				//true,false - text panel are always on, false - show only on mouseover
 
 		  slider_videoplay_button_type:"square"		//square, round - the videoplay button type, square or round
