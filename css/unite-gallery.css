@@ -242,7 +242,7 @@ body{margin:0;}
 	position:absolute;
 	height:64px;
 	width:64px;
-	background-image:url('../suretter/baspa/button-close.png');
+	background-image:url('');
 	cursor:pointer;
 	z-index:1000;}
 
