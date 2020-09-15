@@ -62,7 +62,7 @@ img.қызмет{bottom:10px;}
 .жануар{bottom:113px;}
 .қызмет{bottom:158px;}
     
-.dropdown{padding-left:17px;}    
+.dropdown{position:absolute;left:-150px;bottom:-9px;}    
 .pgwSlider.wide > ul > li {max-width:22%!important;}}
 
 @media only screen and (max-width: 1500px) {
@@ -150,7 +150,7 @@ img.араб:hover { content: url(../suretter/arab-janu.svg); }
 .білім{margin:-140px 174px;text-align:right;}
 .жануар{margin:-74px 214px;text-align:right;}
 .қызмет{margin:-118px 263px;text-align:right;}
-.dropdown{margin:10px 32%;}
+.dropdown{margin:10px 34%;}
 
 div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.көрме-араб,div.мүлік,div.көлік,div.азық,div.кійім,div.зат,div.құрлыс,div.химиа,
 div.жихаз,div.білім,div.жануар,div.қызмет{
