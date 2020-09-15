@@ -2,7 +2,7 @@
 
 @media only screen and (max-width:490px) {
 ul.ps-list{max-width:100%;max-height:200px;}
-    
+div#gallery{min-height:254px;}    
 img.білім{top:7px;left:-105px;}
 img.жануар{top:7px;left:-104px;}
 img.қызмет{top:7px;left:-105px;}
