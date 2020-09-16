@@ -9411,7 +9411,7 @@ function UGSlider(){
 		//----------------
 
 		//add arrows
-		if(g_options.slider_enable_arrows == true){
+		if(g_options.slider_enable_arrows == false){
 			html += "<div class='ug-slider-control ug-arrow-left ug-skin-"+g_options.slider_arrows_skin+"'></div>";
 			html += "<div class='ug-slider-control ug-arrow-right ug-skin-"+g_options.slider_arrows_skin+"'></div>";}
 		//add play button
