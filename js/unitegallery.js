@@ -3682,7 +3682,7 @@ function UGStripPanel() {
 	/**
 	 * check buttons if they need to be disabled or not
 	 */
-	function checkSideButtons() {if (!g_objButtonNext)return (true);
+	function checkSideButtons() {if (!g_objButtonNext)return (false);
 		// if the strip not movable - disable both buttons
 		if (g_objStrip.isMoveEnabled() == false) {
 			g_functions.disableButton(g_objButtonPrev);
