@@ -3945,7 +3945,7 @@ function UGGridPanel(){
 			g_objPanel.append("<div class='grid-arrow grid-arrow-right-hortype ug-skin-" + g_options.gridpanel_arrows_skin + "'></div>");
 			g_objArrowPrev = g_objPanel.children(".grid-arrow-left-hortype");
 			g_objArrowNext = g_objPanel.children(".grid-arrow-right-hortype");}
-		else if(g_options.gridpanel_vertical_scroll == true){		//horizonatl arrows
+		else if(g_options.gridpanel_vertical_scroll == false){		//horizonatl arrows
 			g_objPanel.append("<div class='grid-arrow grid-arrow-left ug-skin-" + g_options.gridpanel_arrows_skin + "'></div>");
 			g_objPanel.append("<div class='grid-arrow grid-arrow-right ug-skin-" + g_options.gridpanel_arrows_skin + "'></div>");
 			g_objArrowPrev = g_objPanel.children(".grid-arrow-left");
