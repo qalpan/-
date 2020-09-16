@@ -9186,7 +9186,7 @@ function UGSlider(){
 		  slider_arrow_right_offset_hor:20,	   			//right arrow horizontal offset
 		  slider_arrow_right_offset_vert:0,	   			//right arrow vertical offset
 
-		  slider_enable_progress_indicator:true,		 //enable progress indicator element
+		  slider_enable_progress_indicator:false,		 //enable progress indicator element
 		  slider_progress_indicator_type:"bar",		     //pie, pie2, bar (if pie not supported, it will switch to bar automatically)
 		  slider_progress_indicator_align_hor:"right",    //left, center, right - progress indicator horizontal align
 		  slider_progress_indicator_align_vert:"top",    //top, middle, bottom - progress indicator vertical align
