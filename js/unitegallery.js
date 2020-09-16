@@ -3893,7 +3893,7 @@ function UGGridPanel(){
 			g_options.gridpanel_vertical_scroll = customOptions.vertical_scroll;}
 		g_options = jQuery.extend(g_options, customOptions);
 		//set defautls for horizontal panel type
-		if(g_temp.isHorType == true){
+		if(g_temp.isHorType == false){
 			g_options = jQuery.extend(g_options, g_defaultsHorType);
 			g_options = jQuery.extend(g_options, customOptions);
 		}else if(g_options.gridpanel_vertical_scroll == true){
