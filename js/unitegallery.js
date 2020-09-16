@@ -3525,7 +3525,7 @@ function UGStripPanel() {
 		parentContainer.append("<div class='ug-strip-panel'></div>");
 		g_objPanel = parentContainer.children('.ug-strip-panel');
 		// add arrows:
-		if (g_options.strippanel_enable_buttons == true) {
+		if (g_options.strippanel_enable_buttons == false) {
 			var arrowPrevClass = "ug-strip-arrow-left";
 			var arrowNextClass = "ug-strip-arrow-right";
 			if (g_options.strippanel_vertical_type == true) {
