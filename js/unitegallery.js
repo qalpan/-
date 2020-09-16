@@ -9411,7 +9411,7 @@ function UGSlider(){
 		//----------------
 
 		//add arrows
-		if(g_options.slider_enable_arrows == false){
+		if(g_options.slider_enable_arrows == true){
 			html += "<div class='ug-slider-control ug-arrow-left ug-skin-"+g_options.slider_arrows_skin+"'></div>";
 			html += "<div class='ug-slider-control ug-arrow-right ug-skin-"+g_options.slider_arrows_skin+"'></div>";}
 		//add play button
@@ -9443,7 +9443,7 @@ function UGSlider(){
 		//----------------
 
 		//get arrows object
-		if(g_options.slider_enable_arrows == true){
+		if(g_options.slider_enable_arrows == false){
 			g_objArrowLeft = g_objSlider.children(".ug-arrow-left");
 			g_objArrowRight = g_objSlider.children(".ug-arrow-right");}
 
