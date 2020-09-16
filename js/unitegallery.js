@@ -7741,8 +7741,8 @@ function UGTileDesign(){
 
 			tile_enable_icons: true,				//enable icons in mouseover mode
 			tile_show_link_icon: false,				//show link icon (if the tile has a link). In case of tile_as_link this option not enabled
-			tile_videoplay_icon_always_on:'always',	//'always', 'never', 'mobile_only', 'desktop_only' always show video play icon
-			tile_space_between_icons: 46,			//initial space between icons, (on small tiles it may change)
+			tile_videoplay_icon_always_on:'never',	//'always', 'never', 'mobile_only', 'desktop_only' always show video play icon
+			tile_space_between_icons: 26,			//initial space between icons, (on small tiles it may change)
 
 			tile_enable_image_effect:false,			//enable tile image effect
 			tile_image_effect_type:"bw",			//bw, blur, sepia - tile effect type
@@ -9199,7 +9199,7 @@ function UGSlider(){
 		  slider_play_button_align_vert:"bottom",     	 //top, middle, bottom - play button vertical align
 		  slider_play_button_offset_hor:20,	       		 //play button horizontal offset
 		  slider_play_button_offset_vert:40,             //play button vertical offset
-		  slider_play_button_mobilehide:true,		 	 //hide the play button on mobile
+		  slider_play_button_mobilehide:false,		 	 //hide the play button on mobile
 
 		  slider_enable_fullscreen_button:false,		     //true,false - enable fullscreen button onslider element
 		  slider_fullscreen_button_skin:"",			     //skin of the slider fullscreen button, if empty inherit from gallery skin
