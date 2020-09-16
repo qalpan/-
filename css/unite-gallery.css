@@ -784,6 +784,7 @@ img.ug-sepia-effect{
         height:20px;
         cursor:pointer;
         z-index: 9;
+	right: 34px;
         background-position:0px 0px;}
 
 .ug-button-play.ug-skin-default.ug-button-hover{background-position:0px -24px;}
