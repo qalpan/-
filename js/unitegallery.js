@@ -4314,7 +4314,7 @@ function UGGridPanel(){
 	 */
 	function placeElementsHor(){
 
-		if(g_temp.arrowsVisible == true)
+		if(g_temp.arrowsVisible == false)
 			placeElementsHor_arrows();
 		else
 			placeElements_noarrows();
