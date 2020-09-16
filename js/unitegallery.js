@@ -9197,8 +9197,8 @@ function UGSlider(){
 		  slider_play_button_skin:"",					 //skin of the slider play button, if empty inherit from gallery skin
 		  slider_play_button_align_hor:"right",    		 //left, center, right - play button horizontal align
 		  slider_play_button_align_vert:"bottom",     	 //top, middle, bottom - play button vertical align
-		  slider_play_button_offset_hor:20,	       		 //play button horizontal offset
-		  slider_play_button_offset_vert:40,             //play button vertical offset
+		  slider_play_button_offset_hor:-20,	       		 //play button horizontal offset
+		  slider_play_button_offset_vert:-40,             //play button vertical offset
 		  slider_play_button_mobilehide:false,		 	 //hide the play button on mobile
 
 		  slider_enable_fullscreen_button:false,		     //true,false - enable fullscreen button onslider element
