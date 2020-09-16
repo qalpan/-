@@ -9418,9 +9418,7 @@ function UGSlider(){
 		if(g_options.slider_enable_play_button == true){
 			html += "<div class='ug-slider-control ug-button-play ug-skin-"+g_options.slider_play_button_skin+"'></div>";}
 		//add fullscreen button
-		if(g_options.slider_enable_fullscreen_button == true){
-			html += "<div class='ug-slider-control ug-button-fullscreen ug-skin-"+g_options.slider_fullscreen_button_skin+"'></div>";}
-		html +=	"</div>";	//end slider
+	//end slider
 		g_objWrapper.append(html);
 
 		//----------------
