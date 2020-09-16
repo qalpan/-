@@ -9173,7 +9173,7 @@ function UGSlider(){
 		  slider_bullets_offset_hor:0,					//bullets horizontal offset
 		  slider_bullets_offset_vert:10,				//bullets vertical offset
 
-		  slider_enable_arrows: true,					//enable arrows onslider element
+		  slider_enable_arrows: false,					//enable arrows onslider element
 		  slider_arrows_skin: "",						//skin of the slider arrows, if empty inherit from gallery skin
 
 		  slider_arrow_left_align_hor:"left",	  		//left, center, right - left arrow horizonal align
@@ -9443,7 +9443,7 @@ function UGSlider(){
 		//----------------
 
 		//get arrows object
-		if(g_options.slider_enable_arrows == false){
+		if(g_options.slider_enable_arrows == true){
 			g_objArrowLeft = g_objSlider.children(".ug-arrow-left");
 			g_objArrowRight = g_objSlider.children(".ug-arrow-right");}
 
