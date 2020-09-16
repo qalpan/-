@@ -100,7 +100,7 @@ ul.pgwSlider.narrow > li,
     font-size: 0.7rem;
     margin-bottom: 0;}
 
-img.көрме{margin:4px -65px;position:absolute;}
+img.көрме{margin:-7px -29px;position:absolute;}
 img.көрме-ағылшын{margin:-8px -28px;position:absolute;}
 img.көрме-жапон{margin:-8px -28px;position:absolute;}
 img.көрме-араб{margin:-8px -28px;position:absolute;}
@@ -117,7 +117,7 @@ img.білім { margin: -8px 282px; position: absolute; }
 img.жануар{margin:-8px 319px;position:absolute;}
 img.қызмет{margin:-8px 364px;position:absolute;}
 
-img.көрме:hover{content:url(../suretter/atau-belgi-janu.svg);}
+img.көрме:hover{content:url(../suretter/korme-janyu.svg);}
 img.көрме-ағылшын:hover{content:url(../suretter/atau-belgi-agylhyn-janyu.svg);}
 img.көрме-жапон:hover{content:url(../suretter/atau-belgi-japon-janyu.svg);}
 img.көрме-араб:hover{content:url(../suretter/atau-belgi-arab-janyu.svg);}
