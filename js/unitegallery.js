@@ -3525,7 +3525,7 @@ function UGStripPanel() {
 		parentContainer.append("<div class='ug-strip-panel'></div>");
 		g_objPanel = parentContainer.children('.ug-strip-panel');
 		// add arrows:
-		if (g_options.strippanel_enable_buttons == false) {
+		if (g_options.strippanel_enable_buttons == true) {
 			var arrowPrevClass = "ug-strip-arrow-left";
 			var arrowNextClass = "ug-strip-arrow-right";
 			if (g_options.strippanel_vertical_type == true) {
@@ -3945,7 +3945,7 @@ function UGGridPanel(){
 			g_objPanel.append("<div class='grid-arrow grid-arrow-right-hortype ug-skin-" + g_options.gridpanel_arrows_skin + "'></div>");
 			g_objArrowPrev = g_objPanel.children(".grid-arrow-left-hortype");
 			g_objArrowNext = g_objPanel.children(".grid-arrow-right-hortype");}
-		else if(g_options.gridpanel_vertical_scroll == false){		//horizonatl arrows
+		else if(g_options.gridpanel_vertical_scroll == true){		//horizonatl arrows
 			g_objPanel.append("<div class='grid-arrow grid-arrow-left ug-skin-" + g_options.gridpanel_arrows_skin + "'></div>");
 			g_objPanel.append("<div class='grid-arrow grid-arrow-right ug-skin-" + g_options.gridpanel_arrows_skin + "'></div>");
 			g_objArrowPrev = g_objPanel.children(".grid-arrow-left");
