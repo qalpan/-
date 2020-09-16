@@ -7741,8 +7741,8 @@ function UGTileDesign(){
 
 			tile_enable_icons: true,				//enable icons in mouseover mode
 			tile_show_link_icon: false,				//show link icon (if the tile has a link). In case of tile_as_link this option not enabled
-			tile_videoplay_icon_always_on:'never',	//'always', 'never', 'mobile_only', 'desktop_only' always show video play icon
-			tile_space_between_icons: 26,			//initial space between icons, (on small tiles it may change)
+			tile_videoplay_icon_always_on:'always',	//'always', 'never', 'mobile_only', 'desktop_only' always show video play icon
+			tile_space_between_icons: 46,			//initial space between icons, (on small tiles it may change)
 
 			tile_enable_image_effect:false,			//enable tile image effect
 			tile_image_effect_type:"bw",			//bw, blur, sepia - tile effect type
