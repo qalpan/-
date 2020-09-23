@@ -53,7 +53,7 @@ img.қызмет{bottom:10px;}
 .мүлік{bottom:159px;}
 .көлік{bottom:223px;}
 .азық{bottom:201px;}
-.кійім{bottom:201px;}
+.кіиім{bottom:201px;}
 .зат{bottom:156px;}
 .құрлыс{bottom:177px;}
 .химиа{bottom:93px;}
@@ -155,7 +155,7 @@ img.араб:hover { content: url(../suretter/arab-janu.svg); }
 div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.көрме-араб,div.мүлік,div.көлік,div.азық,div.кіиім,div.зат,div.құрлыс,div.химиа,
 div.жихаз,div.білім,div.жануар,div.қызмет{
   font-size:12px;display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:150px;z-index:1;}
-div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.көрме-араб a,div.мүлік a,div.көлік a,div.азық a,div.кійім a,div.зат a,
+div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.көрме-араб a,div.мүлік a,div.көлік a,div.азық a,div.кіиім a,div.зат a,
 div.құрлыс a,div.химиа a,div.жихаз a,div.білім a,div.жануар a,div.қызмет a{
   color:#858474;padding:4px 7px;text-decoration:none;display:block;}
 div.көрме a:hover,div.көрме-ағылшын a:hover,div.көрме-жапон a:hover,div.көрме-араб a:hover,div.мүлік a:hover,div.көлік a:hover,
