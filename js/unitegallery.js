@@ -9197,8 +9197,8 @@ function UGSlider(){
 		  slider_play_button_skin:"",					 //skin of the slider play button, if empty inherit from gallery skin
 		  slider_play_button_align_hor:"right",    		 //left, center, right - play button horizontal align
 		  slider_play_button_align_vert:"middle",     	 //top, middle, bottom - play button vertical align
-		  slider_play_button_offset_hor:90,	       		 //play button horizontal offset
-		  slider_play_button_offset_vert:90,             //play button vertical offset
+		  slider_play_button_offset_hor:0,	       		 //play button horizontal offset
+		  slider_play_button_offset_vert:0,             //play button vertical offset
 		  slider_play_button_mobilehide:false,		 	 //hide the play button on mobile
 
 		  slider_enable_fullscreen_button:false,		     //true,false - enable fullscreen button onslider element
@@ -10310,7 +10310,7 @@ function UGSlider(){
 		var objImage = t.getSlideImage(objSlide);
 		var objButtonVideoPlay = getSlideVideoPlayButton(objSlide);
 		var objSize = g_functions.getElementSize(objImage);
-		g_functions.placeElement(objButtonVideoPlay, "bottom", "bottom", objSize.left, objSize.top, objImage);}
+		g_functions.placeElement(objButtonVideoPlay, "center", "bottom", objSize.left, objSize.top, objImage);}
 	/**
 	 * init event of current slide
 	 */
