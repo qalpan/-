@@ -10310,7 +10310,7 @@ function UGSlider(){
 		var objImage = t.getSlideImage(objSlide);
 		var objButtonVideoPlay = getSlideVideoPlayButton(objSlide);
 		var objSize = g_functions.getElementSize(objImage);
-		g_functions.placeElement(objButtonVideoPlay, "center", "bottom", objSize.left, objSize.top, objImage);}
+		g_functions.placeElement(objButtonVideoPlay, "center", "middle", objSize.left, objSize.top, objImage);}
 	/**
 	 * init event of current slide
 	 */
