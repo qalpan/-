@@ -29,7 +29,7 @@ img.араб{width:14px;bottom:25px;left:60px;}
 img.қазақ{width:13px;left:9px;bottom:74px;}}
 
 @media only screen and (max-width: 1200px){
-img.ел-пошта{margin:46px -8px;}
+img.ел-пошта{margin:46px 10px;}
 img.көрме{bottom:8px;}
 img.көрме-ағылшын{bottom:10px;}
 img.көрме-жапон{bottom:10px;}
