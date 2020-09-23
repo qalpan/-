@@ -9195,8 +9195,8 @@ function UGSlider(){
 
 		  slider_enable_play_button:true,				 //true,false - enable play / pause button onslider element
 		  slider_play_button_skin:"",					 //skin of the slider play button, if empty inherit from gallery skin
-		  slider_play_button_align_hor:"right",    		 //left, center, right - play button horizontal align
-		  slider_play_button_align_vert:"middle",     	 //top, middle, bottom - play button vertical align
+		  slider_play_button_align_hor:"left",    		 //left, center, right - play button horizontal align
+		  slider_play_button_align_vert:"bottom",     	 //top, middle, bottom - play button vertical align
 		  slider_play_button_offset_hor:0,	       		 //play button horizontal offset
 		  slider_play_button_offset_vert:0,             //play button vertical offset
 		  slider_play_button_mobilehide:true,		 	 //hide the play button on mobile
