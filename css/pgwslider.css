@@ -29,7 +29,7 @@ img.араб{width:14px;bottom:25px;left:60px;}
 img.қазақ{width:13px;left:9px;bottom:74px;}}
 
 @media only screen and (max-width: 1200px){
-img.ел-пошта{margin:-5px -8px;}
+img.ел-пошта{margin:46px -8px;}
 img.көрме{bottom:8px;}
 img.көрме-ағылшын{bottom:10px;}
 img.көрме-жапон{bottom:10px;}
@@ -62,7 +62,7 @@ img.қызмет{bottom:10px;}
 .жануар{bottom:113px;}
 .қызмет{bottom:158px;}
     
-.dropdown{position:absolute;left:-55px;bottom:5px;}    
+.dropdown{position:absolute;left:-80px;bottom:-10px;}    
 .pgwSlider.wide > ul > li {max-width:22%!important;}}
 
 @media only screen and (max-width: 1500px) {
