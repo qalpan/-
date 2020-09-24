@@ -4577,9 +4577,9 @@ function UGThumbsGrid(){
 	var g_thumbs = new UGThumbsGeneral(), g_tilesDesign = new UGTileDesign();
 	var g_options = {
 		grid_panes_direction:"left",				//where panes will move -> left, bottom
-		grid_num_cols: 2,							//number of grid columns
-		grid_min_cols: 2,							//minimum number of columns (for horizontal type) - the tile size is dynamic
-		grid_num_rows: 2,							//number of grid rows (for horizontal type)
+		grid_num_cols: 4,							//number of grid columns
+		grid_min_cols: 4,							//minimum number of columns (for horizontal type) - the tile size is dynamic
+		grid_num_rows: 4,							//number of grid rows (for horizontal type)
 		grid_space_between_cols: 10,				//space between columns
 		grid_space_between_rows: 10,				//space between rows
 		grid_space_between_mobile: 10,				//space between rows and cols mobile
