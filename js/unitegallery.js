@@ -18,7 +18,7 @@ function debugLine(html,addRandom, addHtml){
 		output += " " + Math.random();
 	if(addHtml == true){
 		var objLine = jQuery("#debug_line");
-		objLine.width(200);
+		objLine.width(400);
 		if(objLine.height() >= 500)
 			objLine.html("");
 		var currentHtml = objLine.html();
