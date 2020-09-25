@@ -8,22 +8,23 @@ img.жануар{top:-69px;left:-126px;}
 img.қызмет{top:-69px;left:-125px;}
     
 div.dropdown{bottom:290px;left:-70px;position:absolute;}
-.dropdown div.көрме{margin:-336px -33px;line-height:0.8em;}
-.dropdown div.мүлік{margin:-121px 7px;}
-.dropdown div.көлік{margin:-186px 42px;}
-.dropdown div.азық{margin:-163px 75px;}
-.dropdown div.кіиім{margin:-164px 103px;}
-.dropdown div.зат{margin:-120px 138px;}
-.dropdown div.құрлыс{margin:-142px 166px;}
-.dropdown div.химиа{margin:-57px 105px;text-align:right;}
-.dropdown div.жихаз{text-align:right;margin:-142px 143px;}
-.dropdown div.білім{text-align:right;margin:-106px 45px;}
-.dropdown div.жануар{text-align:right;margin:-39px 92px;}
-.dropdown div.қызмет{text-align:right;margin:-84px 143px;}
+div.көрме-ағылшын{margin:-264px -32px;line-height:0.8em;}
+div.көрме-жапон{margin:-308px -31px;line-height:0.8em;}
+div.көрме-араб{margin:-264px -31px;line-height:0.8em;} 
+div.көрме{margin:-336px -33px;line-height:0.8em;}   
+div.мүлік{margin:-121px 7px;}
+div.көлік{margin:-186px 42px;}
+div.азық{margin:-163px 75px;}
+div.кіиім{margin:-164px 103px;}
+div.зат{margin:-120px 138px;}
+div.құрлыс{margin:-142px 166px;}
+div.химиа{margin:-57px 105px;text-align:right;}
+div.жихаз{text-align:right;margin:-142px 143px;}
+div.білім{text-align:right;margin:-106px 45px;}
+div.жануар{text-align:right;margin:-39px 92px;}
+div.қызмет{text-align:right;margin:-84px 143px;}
 
 img.ағылшын{width:16px;bottom:25px;left:28px;}
-img.қазақ1{width:14px;}
-img.қазақ2{width:13px;}
 img.жапон{width:11px;bottom:26px;left:47px;}
 img.араб{width:14px;bottom:25px;left:60px;}
 img.қазақ{width:13px;left:9px;bottom:74px;}}
@@ -47,8 +48,8 @@ img.жануар{bottom:10px;}
 img.қызмет{bottom:10px;}
     
 .көрме{bottom:367px;line-height:1em;}
-.көрме-ағылшын{bottom:298px;} 
-.көрме-жапон{bottom:347px;}
+.көрме-ағылшын{bottom:298px;line-height:1em;} 
+.көрме-жапон{bottom:347px;line-height:1em;}
 .көрме-араб{bottom:300px;line-height:1em;}   
 .мүлік{bottom:159px;}
 .көлік{bottom:223px;}
@@ -175,9 +176,7 @@ img.қазақ2{bottom:26px;position:absolute;left:104px;}
 img.жапон{left:73px;bottom:25px;position:absolute;}
 img.араб{left:105px;bottom:25px;position:absolute;}
 
-div.көрме-ағылшын{margin:-264px -32px;}
-div.көрме-жапон{margin:-308px -31px;}
-div.көрме-араб{margin:-264px -31px;}
+
 
 body,html{height:100%;margin:0;padding:0;list-style-type:none;}
 video{height:100%;}
