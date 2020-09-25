@@ -62,7 +62,7 @@ div.қызмет{bottom:158px;}
 img.көрме{margin:-7px -29px;position:absolute;}
 img.көрме-ағылшын{margin:-8px -28px;position:absolute;}
 img.көрме-жапон{margin:-8px -28px;position:absolute;}
-img.көрме-араб{margin:-8px -28px;position:absolute;}
+img.көрме-араб{margin:-15px -28px;position:absolute;}
 img.мүлік{margin:-8px 8px;position:absolute;}
 img.көлік{margin:-8px 42px;position:absolute;}
 img.азық{margin:-8px 73px;position:absolute;}
@@ -97,7 +97,7 @@ img.араб:hover{content:url(../suretter/arab-janu.svg);}
 div.көрме{margin:-335px -32px;}
 .көрме-ағылшын{margin:-259px -33px;}
 .көрме-жапон{margin:-308px -32px;}
-.көрме-араб{margin:-259px -32px;}
+.көрме-араб{margin:-266px -32px;}
 div.мүлік{margin:-116px 8px;}
 div.көлік{margin:-181px 42px;}
 div.азық{margin:-159px 73px;}
