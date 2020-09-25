@@ -40,21 +40,20 @@ img.жихаз{bottom:10px;}
 img.білім{bottom:10px;}
 img.жануар{bottom:10px;}
 img.қызмет{bottom:10px;}    
-.көрме{bottom:367px;line-height:1em;}
-.көрме-ағылшын{bottom:298px;line-height:1em;} 
-.көрме-жапон{bottom:347px;line-height:1em;}
-.көрме-араб{bottom:300px;line-height:1em;}   
-.мүлік{bottom:159px;}
-.көлік{bottom:223px;}
-.азық{bottom:201px;}
-.кіиім{bottom:201px;}
-.зат{bottom:156px;}
-.құрлыс{bottom:177px;}
-.химиа{bottom:93px;}
-.жихаз{bottom:179px;}
-.білім{bottom:181px;}
-.жануар{bottom:113px;}
-.қызмет{bottom:158px;}    
+div.көрме-ағылшын{bottom:31px;left:-31px;line-height:1em;}
+div.көрме-жапон{bottom:347px;line-height:1em;}
+div.көрме-араб{bottom:300px;line-height:1em;}   
+div.мүлік{bottom:159px;}
+div.көлік{bottom:223px;}
+div.азық{bottom:201px;}
+div.кіиім{bottom:201px;}
+div.зат{bottom:156px;}
+div.құрлыс{bottom:177px;}
+div.химиа{bottom:93px;}
+div.жихаз{bottom:179px;}
+div.білім{bottom:181px;}
+div.жануар{bottom:113px;}
+div.қызмет{bottom:158px;}    
 .dropdown{position:absolute;left:-161px;bottom:-12px;}}
 
 @media only screen and (max-width: 1500px){}
