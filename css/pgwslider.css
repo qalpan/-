@@ -69,8 +69,8 @@ img.кіиім{margin:-8px 103px;position:absolute;}
 img.зат{margin:-8px 136px;position:absolute;}
 img.құрлыс{margin:-8px 171px;position:absolute;}
 img.химиа{margin:-8px 210px;position:absolute;}
-img.жихаз { margin: -8px 248px; position: absolute;}
-img.білім { margin: -8px 282px; position: absolute;}
+img.жихаз{margin:-8px 248px;position:absolute;}
+img.білім{ margin:-8px 282px;position:absolute;}
 img.жануар{margin:-8px 319px;position:absolute;}
 img.қызмет{margin:-8px 364px;position:absolute;}
 img.көрме:hover{content:url(../suretter/korme-janyu.svg);}
@@ -79,20 +79,20 @@ img.көрме-жапон:hover{content:url(../suretter/korme-japon-janyu.svg);}
 img.көрме-араб:hover{content:url(../suretter/korme-arab-janyu.svg);}
 img.мүлік:hover{content:url(../suretter/mylik-janu.svg);}
 img.көлік:hover{content:url(../suretter/kolik-janu.svg);}
-img.азық:hover { content: url(../suretter/azyk-janu.svg); }
-img.кіиім:hover { content: url(../suretter/kiim-janu.svg); }
-img.зат:hover { content: url(../suretter/zat-janu.svg); }
-img.құрлыс:hover { content: url(../suretter/kyrlys-janu.svg); }
-img.химиа:hover { content: url(../suretter/ximia-janu.svg); }
-img.жихаз:hover { content: url(../suretter/jihaz-janu.svg); }
-img.білім:hover { content: url(../suretter/bilim-janu.svg); }
-img.жануар:hover { content: url(../suretter/januar-janu.svg); }
-img.қызмет:hover { content: url(../suretter/kyzmet-janu.svg); }
-img.қазақ:hover { content: url(../suretter/kazak-janu.svg); }
-img.ағылшын:hover { content: url(../suretter/agylhyn-janu.svg); }
-img.жапон:hover { content: url(../suretter/japon-janu.svg); }
-img.араб:hover { content: url(../suretter/arab-janu.svg); }
-.dropdown img:hover{background-color:rgb(255, 255, 240);}
+img.азық:hover{content:url(../suretter/azyk-janu.svg);}
+img.кіиім:hover{content:url(../suretter/kiim-janu.svg);}
+img.зат:hover{content:url(../suretter/zat-janu.svg);}
+img.құрлыс:hover{content:url(../suretter/kyrlys-janu.svg);}
+img.химиа:hover{content:url(../suretter/ximia-janu.svg);}
+img.жихаз:hover{content:url(../suretter/jihaz-janu.svg);}
+img.білім:hover{content:url(../suretter/bilim-janu.svg);}
+img.жануар:hover{content:url(../suretter/januar-janu.svg);}
+img.қызмет:hover{content:url(../suretter/kyzmet-janu.svg);}
+img.қазақ:hover{content:url(../suretter/kazak-janu.svg);}
+img.ағылшын:hover{content:url(../suretter/agylhyn-janu.svg);}
+img.жапон:hover{content:url(../suretter/japon-janu.svg);}
+img.араб:hover{content:url(../suretter/arab-janu.svg);}
+.dropdown img:hover{background-color:rgb(255,255,240);}
 div.көрме{margin:-335px -32px;}
 div.мүлік{margin:-116px 8px;}
 div.көлік{margin:-181px 42px;}
