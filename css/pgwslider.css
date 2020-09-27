@@ -97,9 +97,9 @@ img.жапон:hover{content:url(../suretter/japon-janu.svg);}
 img.араб:hover{content:url(../suretter/arab-janu.svg);}
 .dropdown img:hover{background-color:rgb(255,255,240);}
 div.көрме{margin:-335px -46px;}
-.көрме-ағылшын{margin:-263px -42px;}
-.көрме-жапон{margin:-308px -45px;}
-.көрме-араб{margin:-264px -32px;}
+.көрме-ағылшын{margin:-263px -54px;}
+.көрме-жапон{margin:-308px -58px;}
+.көрме-араб{margin:-264px -45px;}
 div.мүлік{margin:-116px -5px;}
 div.көлік{margin:-181px 31px;}
 div.азық{margin:-159px 68px;}
