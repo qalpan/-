@@ -28,9 +28,9 @@ div.dropdown{bottom:290px;left:-59px;position:absolute;}
 @media only screen and (max-width: 1200px){
 img.ел-пошта{margin:-6px -20px;}
 img.көрме{bottom:9px;}
-img.көрме-ағылшын{bottom:8px;}
-img.көрме-жапон{bottom:8px;left:8px;}
-img.көрме-араб{bottom:8px;}
+img.көрме-ағылшын{bottom:9px;}
+img.көрме-жапон{bottom:9px;left:8px;}
+img.көрме-араб{bottom:9px;}
 img.мүлік{bottom:10px;}
 img.көлік{bottom:10px;}
 img.азық{bottom:10px;}
@@ -43,7 +43,7 @@ img.білім{bottom:10px;}
 img.жануар{bottom:10px;}
 img.қызымет{bottom:10px;} 
 div.көрме{margin:-362px -33px;line-height:1em;}  
-div.көрме-ағылшын{bottom:293px;left:2px;line-height:1em;}
+div.көрме-ағылшын{bottom:294px;left:2px;line-height:1em;}
 div.көрме-жапон{margin:-283px -38px;line-height:1em;}
 div.көрме-араб{margin:-271px -33px;line-height:1em;}   
 div.мүлік{bottom:154px;}
