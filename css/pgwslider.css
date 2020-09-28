@@ -26,7 +26,7 @@ div.dropdown{bottom:290px;left:-60px;position:absolute;}
 .dropdown div.қызымет{text-align:right;margin:-78px 138px;}}
 
 @media only screen and (max-width: 1200px){
-img.ел-пошта{margin:-5px -20px;}
+img.ел-пошта{margin:4px -20px;}
 img.көрме{bottom:9px;}
 img.көрме-ағылшын{bottom:9px;}
 img.көрме-жапон{bottom:9px;left:8px;}
@@ -125,7 +125,7 @@ div.жануар a:hover,div.қызымет a:hover{background-color:rgba(186, 1
 .dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кіиім,.dropdown:hover div.зат,
 .dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жихаз,.dropdown:hover div.білім,.dropdown:hover div.жануар,
 .dropdown:hover div.қызымет {display: block;}
-img.ел-пошта{bottom:5px;float:right;right:29px;position:absolute;}
+img.ел-пошта{bottom:9px;float:right;right:29px;position:absolute;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janu.svg);}
 img.қазақ{bottom:26px;left:41px;position:absolute;}
 img.ағылшын{bottom:26px;left:38px;position:absolute;}
