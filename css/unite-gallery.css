@@ -198,10 +198,10 @@ body{margin:0;}
 .ug-slider-wrapper .ug-button-videoplay{position:absolute;z-index:2;cursor:pointer;}
 
 .ug-slider-wrapper .ug-button-videoplay.ug-type-square{
-    width:62px;
-    height:70px;
+    width: 77px;
+    height: 88px;
     background-image: url(../suretter/baspa/oinatyu.svg);
-    background-position:0px -67px;
+    background-position: 0px -88px;
     right: 175px;}
 
 .ug-slider-wrapper .ug-button-videoplay.ug-type-square.ug-button-hover{background-position:0px 0px;}
