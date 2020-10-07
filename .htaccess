@@ -31,6 +31,10 @@ AddType image/svg+xml svg
 AddType image/svg+xml svgz
 AddEncoding x-gzip .svgz
 
+svg     Content-Type: image/svg+xml
+svgz    Content-Type: image/svg+xml
+        Content-Encoding: gzip
+
 <system.webServer>
     <rewrite>
         <outboundRules>
