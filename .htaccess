@@ -54,3 +54,9 @@ AddType image/svgz
 AddType image/svg+xml svg
 AddType image/svg+xml svgz
 AddEncoding x-gzip .svgz
+
+  
+using(Viewer viewer=new Viewer("suretter/adamdar/мағжан жұмабаи.svgz")){HtmlViewOptions options=HtmlViewOptions.ForEmbeddedResources("output.html");viewer.View(options);}
+    
+  
+
