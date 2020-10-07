@@ -22,6 +22,29 @@ function test() {
 return false}
 </script>
   
+<configuration>
+  <system.webServer>
+    <rewrite>
+      <outboundRules>
+        <rule name="Rewrite SVGZ header" preCondition="IsSVGZ" stopProcessing="true">
+          <match serverVariable="RESPONSE_Content_Encoding" pattern=".*" />
+          <action type="Rewrite" value="gzip" />
+        </rule>
+        <preConditions>
+          <preCondition name="IsSVGZ">
+            <add input="{PATH_INFO}" pattern="\.svgz$" />
+          </preCondition>
+        </preConditions>
+      </outboundRules>
+    </rewrite>
+    <staticContent>
+      <mimeMap fileExtension=".svg" mimeType="image/svg+xml" />
+      <mimeMap fileExtension=".svgz" mimeType="image/svg+xml" />
+    </staticContent>
+  </system.webServer>
+</configuration>
+    
+  
 <body>
   <div id="gallery" style="display:none;">
    <img alt="шәкәрім құдаибердіұлы"src="suretter/adamdar/шәкәрім құдаибердіұлы.svg"data-image="suretter/adamdar/шәкәрім құдаибердіұлы.svg"data-description="қарлыға төлеуғали">    
