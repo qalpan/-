@@ -27,3 +27,7 @@ RewriteRule ^pater$ pater.html [QSA,L]
 RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
 RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^elmeken$ elmeken.html [QSA,L]
+
+AddType image/svg+xml svg
+AddType image/svg+xml svgz
+AddEncoding x-gzip .svgz
