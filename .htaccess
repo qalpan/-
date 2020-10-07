@@ -60,3 +60,6 @@ using(Viewer viewer=new Viewer("suretter/adamdar/мағжан жұмабаи.svg
     
  if uri.lower().endswith('svg') or uri.lower().endswith('svgz'): 
 
+Content-Type: image/svg+xml
+Content-Encoding: gzip
+Vary: Accept-Encoding
