@@ -27,6 +27,29 @@ RewriteRule ^pater$ pater.html [QSA,L]
 RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
 RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^elmeken$ elmeken.html [QSA,L]
+
+<configuration>
+  <system.webServer>
+    <rewrite>
+      <outboundRules>
+        <rule name="Rewrite SVGZ header" preCondition="IsSVGZ" stopProcessing="true">
+          <match serverVariable="RESPONSE_Content_Encoding" pattern=".*" />
+          <action type="Rewrite" value="gzip" />
+        </rule>
+        <preConditions>
+          <preCondition name="IsSVGZ">
+            <add input="{PATH_INFO}" pattern="\.svgz$" />
+          </preCondition>
+        </preConditions>
+      </outboundRules>
+    </rewrite>
+    <staticContent>
+      <mimeMap fileExtension=".svg" mimeType="image/svg+xml" />
+      <mimeMap fileExtension=".svgz" mimeType="image/svg+xml" />
+    </staticContent>
+  </system.webServer>
+</configuration>
+
 AddType image/svgz
 AddType image/svg+xml svg
 AddType image/svg+xml svgz
