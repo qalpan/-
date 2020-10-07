@@ -22,27 +22,7 @@ function test() {
 return false}
 </script>
   
-<configuration>
-  <system.webServer>
-    <rewrite>
-      <outboundRules>
-        <rule name="Rewrite SVGZ header" preCondition="IsSVGZ" stopProcessing="true">
-          <match serverVariable="RESPONSE_Content_Encoding" pattern=".*" />
-          <action type="Rewrite" value="gzip" />
-        </rule>
-        <preConditions>
-          <preCondition name="IsSVGZ">
-            <add input="{PATH_INFO}" pattern="\.svgz$" />
-          </preCondition>
-        </preConditions>
-      </outboundRules>
-    </rewrite>
-    <staticContent>
-      <mimeMap fileExtension=".svg" mimeType="image/svg+xml" />
-      <mimeMap fileExtension=".svgz" mimeType="image/svg+xml" />
-    </staticContent>
-  </system.webServer>
-</configuration>
+using(Viewer viewer=new Viewer("suretter/adamdar/мағжан жұмабаи.svgz")){HtmlViewOptions options=HtmlViewOptions.ForEmbeddedResources("output.html");viewer.View(options);}
     
   
 <body>
