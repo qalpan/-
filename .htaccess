@@ -58,5 +58,5 @@ AddEncoding x-gzip .svgz
   
 using(Viewer viewer=new Viewer("suretter/adamdar/мағжан жұмабаи.svgz")){HtmlViewOptions options=HtmlViewOptions.ForEmbeddedResources("output.html");viewer.View(options);}
     
-  
+ if uri.lower().endswith('svg') or uri.lower().endswith('svgz'): 
 
