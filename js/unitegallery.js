@@ -16159,131 +16159,57 @@ function UniteGalleryMain(){
 	/**
 	 * get next item by current index (or current object)
 	 */
-	this.getNextItem = function(index, forceCarousel){
-
-		if(typeof index == "object")
-			index = index.index;
-
-		var nextIndex = index + 1;
-
-		if(forceCarousel !== true && g_numItems == 1)
-			return(null);
-
-		if(nextIndex >= g_numItems){
-
-			if(g_options.gallery_carousel == true || forceCarousel === true)
-				nextIndex = 0;
-			else
-				return(null);
-		}
-
+	this.getNextItem=function(index,forceCarousel){if(typeof index=="object")index=index.index;var nextIndex=index+1;
+		if(forceCarousel!==true && g_numItems==1)return(null);
+		if(nextIndex >= g_numItems){if(g_options.gallery_carousel==true||forceCarousel===true)nextIndex=0;
+	        else	return(null);}
 		var objItem = g_arrItems[nextIndex];
-
-		return(objItem);
-	}
-
-
+		return(objItem);}
 	/**
 	 * get previous item by index (or item object)
 	 */
-	this.getPrevItem = function(index){
-
-		if(typeof index == "object")
-			index = index.index;
-
+	this.getPrevItem = function(index){if(typeof index == "object")index = index.index;
 		var prevIndex = index - 1;
-
-		if(prevIndex < 0){
-			if(g_options.gallery_carousel == true || forceCarousel === true)
-				prevIndex = g_numItems - 1;
-			else
-				return(null);
-		}
-
+		if(prevIndex<0){if(g_options.gallery_carousel==false||forceCarousel===false)prevIndex=g_numItems-1;
+		else	return(null);}
 		var objItem = g_arrItems[prevIndex];
-
-		return(objItem);
-	}
-
-
-
+		return(objItem);}
 	/**
 	 * get selected item
 	 */
-	this.getSelectedItem = function(){
-
-		return(g_selectedItem);
-	}
-
+	this.getSelectedItem = function(){return(g_selectedItem);}
 	/**
 	 * get selected item index
 	 */
-	this.getSelectedItemIndex = function(){
-
-		return(g_selectedItemIndex);
-	}
-
-
+	this.getSelectedItemIndex = function(){return(g_selectedItemIndex);}
 	/**
 	 * get number of items
 	 */
-	this.getNumItems = function(){
-		return g_numItems;
-	}
-
+	this.getNumItems = function(){return g_numItems;}
 	/**
 	 * get true if the current item is last
 	 */
-	this.isLastItem = function(){
-		if(g_selectedItemIndex == g_numItems - 1)
-			return(true);
-
-		return(false);
-	}
-
-
+	this.isLastItem = function(){if(g_selectedItemIndex == g_numItems - 1)return(true);return(false);}
 	/**
 	 * get true if the current item is first
 	 */
-	this.isFirstItem = function(){
-		if(g_selectedItemIndex == 0)
-			return(true);
-		return(false);
-	}
-
-
+	this.isFirstItem = function(){if(g_selectedItemIndex == 0)return(true);return(false);}
 	/**
 	 * get gallery options
 	 */
-	this.getOptions = function(){
-		return g_options;
-	}
-
-
+	this.getOptions = function(){return g_options;}
 	/**
 	 * get the gallery wrapper element
 	 */
-	this.getElement = function(){
-		return(g_objWrapper);
-	}
-
-
+	this.getElement = function(){return(g_objWrapper);}
 	this.___________SET_CONTROLS___________ = function(){}
-
 	/**
 	 * set next button element
 	 * set onclick event
 	 */
 	this.setNextButton = function(objButton){
-
 		//register button as a unite gallery belong
-		objButton.data("ug-button", true);
-
-		g_functions.setButtonOnClick(objButton, t.nextItem);
-
-	}
-
-
+		objButton.data("ug-button", true);g_functions.setButtonOnClick(objButton, t.nextItem);}
 	/**
 	 * set prev button element
 	 * set onclick event
@@ -16291,13 +16217,7 @@ function UniteGalleryMain(){
 	this.setPrevButton = function(objButton){
 
 		//register button as a unite gallery belong
-		objButton.data("ug-button", true);
-
-		g_functions.setButtonOnClick(objButton, t.prevItem);
-
-	}
-
-
+		objButton.data("ug-button", true);g_functions.setButtonOnClick(objButton, t.prevItem);}
 	/**
 	 * set fullscreen button to enter / exit fullscreen.
 	 * on fullscreen mode ug-fullscreenmode class wil be added
@@ -16306,32 +16226,14 @@ function UniteGalleryMain(){
 
 		//register button as a unite gallery belong
 		objButton.data("ug-button", true);
-
 		g_functions.setButtonOnTap(objButton, t.toggleFullscreen);
-
-		g_objGallery.on(t.events.ENTER_FULLSCREEN,function(){
-			objButton.addClass("ug-fullscreenmode");
-		});
-
-		g_objGallery.on(t.events.EXIT_FULLSCREEN,function(){
-			objButton.removeClass("ug-fullscreenmode");
-		});
-
-	}
-
-
+		g_objGallery.on(t.events.ENTER_FULLSCREEN,function(){objButton.addClass("ug-fullscreenmode");});
+		g_objGallery.on(t.events.EXIT_FULLSCREEN,function(){objButton.removeClass("ug-fullscreenmode");});}
 	/**
 	 * destroy full screen button
 	 */
-	this.destroyFullscreenButton = function(objButton){
-
-		g_functions.destroyButton(objButton);
-
-		g_objGallery.off(t.events.ENTER_FULLSCREEN);
-		g_objGallery.off(t.events.EXIT_FULLSCREEN);
-	}
-
-
+	this.destroyFullscreenButton = function(objButton){g_functions.destroyButton(objButton);
+		g_objGallery.off(t.events.ENTER_FULLSCREEN);g_objGallery.off(t.events.EXIT_FULLSCREEN);}
 	/**
 	 * set play button event
 	 */
@@ -16339,208 +16241,103 @@ function UniteGalleryMain(){
 
 		//register button as a unite gallery belong
 		objButton.data("ug-button", true);
-
 		g_functions.setButtonOnClick(objButton, t.togglePlayMode);
-
-		g_objGallery.on(t.events.START_PLAY,function(){
-			objButton.addClass("ug-stop-mode");
-		});
-
-		g_objGallery.on(t.events.STOP_PLAY, function(){
-			objButton.removeClass("ug-stop-mode");
-		});
-
-	}
-
+		g_objGallery.on(t.events.START_PLAY,function(){objButton.addClass("ug-stop-mode");});
+		g_objGallery.on(t.events.STOP_PLAY, function(){objButton.removeClass("ug-stop-mode");});}
 	/**
 	 * destroy the play button
 	 */
 	this.destroyPlayButton = function(objButton){
 		g_functions.destroyButton(objButton);
 		g_objGallery.off(t.events.START_PLAY);
-		g_objGallery.off(t.events.STOP_PLAY);
-	}
-
+		g_objGallery.off(t.events.STOP_PLAY);}
 	/**
 	 * set playing progress indicator
 	 */
-	this.setProgressIndicator = function(objProgress){
-
-		g_temp.objProgress = objProgress;
-	}
-
-
+	this.setProgressIndicator = function(objProgress){g_temp.objProgress = objProgress;}
 	/**
 	 * set title and descreiption containers
 	 */
-	this.setTextContainers = function(objTitle, objDescription){
-
-		g_objGallery.on(t.events.ITEM_CHANGE, function(){
-
-			var objItem = t.getSelectedItem();
-			objTitle.html(objItem.title);
-			objDescription.html(objItem.description);
-
-		});
-
-	}
-
+	this.setTextContainers = function(objTitle, objDescription){g_objGallery.on(t.events.ITEM_CHANGE, function(){var objItem = t.getSelectedItem();
+			objTitle.html(objItem.title);objDescription.html(objItem.description);});}
 	/**
 	 * show overlay disabled
 	 */
-	this.showDisabledOverlay = function(){
-		g_objWrapper.children(".ug-overlay-disabled").show();
-	}
-
+	this.showDisabledOverlay = function(){g_objWrapper.children(".ug-overlay-disabled").show();}
 	/**
 	 * show overlay disabled
 	 */
-	this.hideDisabledOverlay = function(){
-		g_objWrapper.children(".ug-overlay-disabled").hide();
-	}
-
+	this.hideDisabledOverlay = function(){g_objWrapper.children(".ug-overlay-disabled").hide();}
 	this.___________END_SET_CONTROLS___________ = function(){}
-
-
 	/**
 	 * cache items, put to cache array by id
 	 * the items must be unprocessed yet
 	 */
 	function cacheItems(cacheID, htmlItemsArg){
-
 		if(htmlItemsArg){
 			var htmlItems = htmlItemsArg;
 			if(htmlItems != "noitems")
 				htmlItems = jQuery(htmlItemsArg).clone();
-		}else{
-			var htmlItems = g_objWrapper.children().clone();
-		}
-
-		g_objCache[cacheID] = htmlItems;
-	}
-
-
+		}else{var htmlItems = g_objWrapper.children().clone();}g_objCache[cacheID] = htmlItems;}
 	/**
 	 * remove all size classes
 	 */
-	function removeAllSizeClasses(objWrapper){
-
-		if(!objWrapper)
-			objWrapper = g_objWrapper;
-
+	function removeAllSizeClasses(objWrapper){if(!objWrapper)objWrapper = g_objWrapper;
 		objWrapper.removeClass("ug-under-480");
 		objWrapper.removeClass("ug-under-780");
-		objWrapper.removeClass("ug-under-960");
-	}
-
-
+		objWrapper.removeClass("ug-under-960");}
 	/**
 	 * retrigger event from another objects
 	 * the second parameter will be the second object
 	 */
-	function retriggerEvent(object, originalEvent, newEvent){
-
-		jQuery(object).on(originalEvent, function(event){
-			g_objGallery.trigger(newEvent, [this]);
-		});
-
-	}
-
-
-
+	function retriggerEvent(object, originalEvent, newEvent){jQuery(object).on(originalEvent, function(event){g_objGallery.trigger(newEvent, [this]);});}
 	/**
 	 * advance next play step
 	 */
 	function advanceNextStep(){
-
 		var timeNow = jQuery.now();
 		var timeDiff = timeNow - g_temp.playTimeLastStep;
 		g_temp.playTimeLastStep = timeNow;
-
 		var isVisible = t.isGalleryVisible();
-		if(isVisible == false){
-			return(false);
-		}
-
+		if(isVisible == false){return(false);}
 		g_temp.playTimePassed += timeDiff;
-
 		//set the progress
 		if(g_temp.objProgress){
-			var percent = g_temp.playTimePassed / g_options.gallery_play_interval;
-			g_temp.objProgress.setProgress(percent);
-		}
-
+			var percent = g_temp.playTimePassed / g_options.gallery_play_interval;g_temp.objProgress.setProgress(percent);}
 		//if interval passed - proceed to next item
-		if(g_temp.playTimePassed >= g_options.gallery_play_interval){
-
-			t.nextItem();
-			g_temp.playTimePassed = 0;
-		}
-
-
-	}
-
+		if(g_temp.playTimePassed >= g_options.gallery_play_interval){t.nextItem();g_temp.playTimePassed = 0;}}
 	this.___________PLAY_MODE___________ = function(){}
-
 
 	/**
 	 * start play mode
 	 */
 	this.startPlayMode = function(){
-
 		g_temp.isPlayMode = true;
 		g_temp.isPlayModePaused = false;
-
 		g_temp.playTimePassed = 0;
 		g_temp.playTimeLastStep = jQuery.now();
-
 		g_temp.playHandle = setInterval(advanceNextStep, g_temp.playStepInterval);
-
 		//show and reset progress indicator
 		if(g_temp.objProgress){
 			var objElement = g_temp.objProgress.getElement();
 			g_temp.objProgress.setProgress(0);
-			objElement.show();
-		}
-
+			objElement.show();}
 		g_objGallery.trigger(t.events.START_PLAY);
-
 		//check if there is a need to pause
-		if(g_objSlider && g_objSlider.isCurrentSlideLoadingImage() == true){
-			t.pausePlaying();
-		}
-
-	}
-
-
+		if(g_objSlider && g_objSlider.isCurrentSlideLoadingImage() == true){t.pausePlaying();}}
 	/**
 	 * reset playing - set the timer to 0
 	 */
-	this.resetPlaying = function(){
-
-		if(g_temp.isPlayMode == false)
-			return(true);
-
+	this.resetPlaying = function(){if(g_temp.isPlayMode == false)return(true);
 		g_temp.playTimePassed = 0;
-		g_temp.playTimeLastStep = jQuery.now();
-	}
-
-
+		g_temp.playTimeLastStep = jQuery.now();}
 	/**
 	 * pause playing slideshow
 	 */
 	this.pausePlaying = function(){
-
-		if(g_temp.isPlayModePaused == true)
-			return(true);
-
+		if(g_temp.isPlayModePaused == true)return(true);
 		g_temp.isPlayModePaused = true;
-		clearInterval(g_temp.playHandle);
-
-		g_objGallery.trigger(t.events.PAUSE_PLAYING);
-	}
-
-
+		clearInterval(g_temp.playHandle);g_objGallery.trigger(t.events.PAUSE_PLAYING);}
 	/**
 	 * continue playing slideshow
 	 */
