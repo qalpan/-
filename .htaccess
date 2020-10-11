@@ -28,4 +28,4 @@ RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^elmeken$ elmeken.html [QSA,L]
 
 AddType image/svg+xml .svg .svgz
-AddEncoding gzip .svgz
+AddType image/svg+xml svg svgz
