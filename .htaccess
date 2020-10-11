@@ -27,16 +27,5 @@ RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
 RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^elmeken$ elmeken.html [QSA,L]
 
-# Compress HTML, CSS, JavaScript, Text, XML and fonts
-AddOutputFilterByType DEFLATE image/svg+xml
-
-AddType image/svg+xml svg
-AddType image/svg+xml svgz
-AddEncoding x-gzip .svgz
-
-AddType image/svg+xml svg svgz
-<IfModule mod_deflate.c>
-<IfModule mod_filter.c>
-AddOutputFilterByType DEFLATE "image/svg+xml"\"text/css"\"text/html"\"text/javascript"... etc
-</IfModule>
-</IfModule>
+AddType image/svg+xml .svg .svgz
+AddEncoding gzip .svgz
