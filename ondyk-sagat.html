@@ -1,0 +1,106 @@
+<style>
+	body{background:;}
+	svg {
+		display: block;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);}
+	.filler {
+		background:#6B470F;
+		position:absolute;
+		top:50%;
+        bottom:0;
+		left:0;
+		right:0;}
+.filler a{position:absolute;font:19px sans-serif;color:#858474;}	
+a.бір{margin:147px 909px;}
+a.екі{margin:49px 979px;}	
+a.үш{margin:-69px 978px;}
+a.төрт{margin:-168px 908px;}
+a.бес{top: -51.5%;left: 49.65%;}
+a.алты{margin:-168px 682px;}	
+a.жеті{margin:-67px 612px;}
+a.сегіз{margin:49px 610px;}	
+a.тоғыз{margin:148px 681px;}	
+a.он{bottom: 47%;left: 49.25%;font-weight:bold;}
+a.он:before{content:url(ai.svg);margin:-57px 3px;position:absolute;}
+a.бес:before{content:url(kyn.svg);position:absolute;margin:55px -5px;}
+</style>
+
+<div class="filler">
+<a class="бір">1</a>
+<a class="екі">2</a>
+<a class="үш">3</a>
+<a class="төрт">4</a>
+<a class="бес">5</a>
+<a class="алты">6</a>
+<a class="жеті">7</a>
+<a class="сегіз">8</a>
+<a class="тоғыз">9</a>
+<a class="он">10</a>
+</div>
+<svg width="400" height="400">
+    <filter id="innerShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+        <feOffset in="blur" dx="2.5" dy="2.5"/>
+    </filter>
+    <g>
+        <circle id="shadow" style="fill:rgba(0,0,0,0.1)" cx="197" cy="200" r="187" filter="url(#innerShadow)"></circle>
+        <circle id="circle" style="stroke: #FFF; stroke-width:2px; fill:#ffc10733" cx="200" cy="200" r="180"></circle>
+    </g>
+    <g class="2">
+        <line x1="200" y1="200" x2="200" y2="55" transform="rotate(80 200 200)" style="stroke-width: 3px; stroke: #fffbf9;" id="hourhand">
+            <animatetransform attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              dur="43200s"
+                              repeatCount="indefinite"/>
+        </line>
+        <line x1="200" y1="200" x2="200" y2="40" style="stroke-width: 4px; stroke: #fdfdfd;" id="minutehand">
+            <animatetransform attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              dur="3600s"
+                              repeatCount="indefinite"/>
+        </line>
+        <line x1="200" y1="200" x2="200" y2="30" style="stroke-width: 2px; stroke: #925f4d;" id="secondhand">
+            <animatetransform attributeName="transform"
+                              attributeType="XML"
+                              type="rotate"
+                              dur="60s"
+                              repeatCount="indefinite"/>
+        </line>
+    </g>
+    <circle id="center" style="fill:#ffc107; stroke: #925f4d; stroke-width: 2px;" cx="200" cy="200" r="3"></circle>
+</svg>
+
+<script>
+	var hands = [];
+	hands.push(document.querySelector('#secondhand > *'));
+	hands.push(document.querySelector('#minutehand > *'));
+	hands.push(document.querySelector('#hourhand > *'));
+	var cx = 200;
+	var cy = 200;
+	function shifter(val) {
+		return [val, cx, cy].join(' ');}
+	var date = new Date();
+	var hoursAngle = 360 * date.getHours() / 10 - date.getMinutes() / 2;
+	var minuteAngle = 360 * date.getMinutes() / 60;
+	var secAngle = 360 * date.getSeconds() / 60;
+	hands[0].setAttribute('from', shifter(secAngle));
+	hands[0].setAttribute('to', shifter(secAngle - 360));
+	hands[1].setAttribute('from', shifter(minuteAngle));
+	hands[1].setAttribute('to', shifter(minuteAngle - 360));
+	hands[2].setAttribute('from', shifter(hoursAngle));
+	hands[2].setAttribute('to', shifter(hoursAngle - 360));
+	for(var i = 1; i <= 10; i++) {
+		var el = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+		el.setAttribute('x1', '200');
+		el.setAttribute('y1', '30');
+		el.setAttribute('x2', '200');
+		el.setAttribute('y2', '40');
+		el.setAttribute('transform', 'rotate(' + (i*360/10) + ' 200 200)');
+		el.setAttribute('style', 'stroke: #ffffff;');
+		document.querySelector('svg').appendChild(el);}
+</script>
