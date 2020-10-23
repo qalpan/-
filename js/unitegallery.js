@@ -1518,7 +1518,7 @@ function UGThumbsGeneral(){
 		THUMB_IMAGE_LOADED: "thumb_image_loaded"};
 	var g_options = {
 			thumb_width:260,								//thumb width
-			thumb_height:190,							//thumb height
+			thumb_height:160,							//thumb height
 			thumb_fixed_size:true,						//true,false - fixed/dynamic thumbnail width
 			thumb_resize_by:"height",					//set resize by width or height of the image in case of non fixed size,
 			thumb_border_effect:true,					//true, false - specify if the thumb has border
