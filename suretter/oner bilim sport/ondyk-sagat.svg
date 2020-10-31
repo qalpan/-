@@ -39,7 +39,10 @@ viewBox="0 0 42701.92 21084.09"
   </linearGradient>
     <rect style="fill:url(#id1)" x="15301.17" y="4492.26" width="12099.58" height="12099.57"/>
    </mask>
-
+  <filter id="innerShadow" x="-20%" y="-20%" width="140%" height="140%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+   <feOffset in="blur" dx="2.5" dy="2.5"/>
+  </filter>
  <g id="Layer_x0020_1">
   <polygon class="fil0" points="36330.26,10542.04 36330.26,21084.09 6371.66,21084.09 6371.66,10542.04 "/>
   <path id="shadow" class="fil1" style="mask:url(#id0)" d="M27396.91 10542.04c0,-3339.07 -2706.88,-6045.94 -6045.95,-6045.94 -3339.08,0 -6045.95,2706.87 -6045.95,6045.94 0,3339.08 2706.87,6045.95 6045.95,6045.95 3339.07,0 6045.95,-2706.87 6045.95,-6045.95z" filter="url(#innerShadow)"/>
