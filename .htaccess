@@ -28,6 +28,9 @@ RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^elmeken$ elmeken.html [QSA,L]
 RewriteRule ^ondyk-sagat$ ondyk-sagat.html [QSA,L]
 
+AddType image/svg+xml svg svgz
+AddEncoding gzip svgz
+
 AddType image/svg+xml svg
 AddType image/svg+xml svgz
 AddEncoding x-gzip .svgz
