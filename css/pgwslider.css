@@ -12,7 +12,7 @@ div.dropdown{bottom:290px;left:-60px;position:absolute;}
 .dropdown div.көрме-ағылшын{margin:-259px -55px;line-height:0.8em;}
 .dropdown div.көрме-жапон{margin:-248px -51px;line-height:0.8em;}
 .dropdown div.көрме-араб{margin:-243px -46px;line-height:0.8em;} 
-.dropdown div.көрме{margin:-296px -46px;line-height:0.8em;}   
+.dropdown div.көрме{margin:-296px -46px;line-height:0.8em;min-width:170px;}   
 .dropdown div.мүлік{margin:-116px -6px;}
 .dropdown div.көлік{margin:-181px 32px;}
 .dropdown div.азық{margin:-158px 69px;}
@@ -42,7 +42,7 @@ img.жихаз{bottom:10px;}
 img.білім{bottom:10px;}
 img.жануар{bottom:10px;}
 img.қызымет{bottom:10px;} 
-div.көрме{margin:-362px -33px;line-height:1em;}  
+div.көрме{margin:-362px -33px;line-height:1em;min-width:170px;}  
 div.көрме-ағылшын{bottom:294px;left:2px;line-height:1em;}
 div.көрме-жапон{margin:-283px -51px;line-height:1em;}
 div.көрме-араб{margin:-271px -47px;line-height:1em;}   
