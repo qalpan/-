@@ -23,10 +23,12 @@ RewriteRule ^art-education-sports$ art-education-sports.html [QSA,L]
 RewriteRule ^san-ylgileri$ san-ylgileri.html [QSA,L]
 RewriteRule ^tabigat$ tabigat.html [QSA,L]
 RewriteRule ^pater$ pater.html [QSA,L]
-RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
-RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^elmeken$ elmeken.html [QSA,L]
 RewriteRule ^ondyk-sagat$ ondyk-sagat.html [QSA,L]
+RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
+RewriteRule ^yi$ yi.html [QSA,L]
+RewriteRule ^jeke-komekhiniz$ jeke-komekhiniz.html [QSA,L]
+
 
 AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
