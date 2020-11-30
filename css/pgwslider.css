@@ -28,7 +28,7 @@ div.dropdown{bottom:290px;left:-60px;position:absolute;}
 .dropdown div.қызымет{text-align:right;margin:-27px 138px;}}
 
 @media only screen and (max-width: 1200px){
-img.ел-пошта{margin:-6px -20px;}
+img.ел-пошта{margin:50px 0px;}
 img.көрме{bottom:9px;}
 img.көрме-ағылшын{bottom:9px;}
 img.көрме-жапон{bottom:9px;left:8px;}
@@ -49,18 +49,18 @@ div.көрме{margin:-362px -33px;line-height:1em;min-width:170px;}
 div.көрме-ағылшын{bottom:294px;left:2px;line-height:1em;}
 div.көрме-жапон{margin:-283px -51px;line-height:1em;}
 div.көрме-араб{margin:-271px -47px;line-height:1em;}   
-div.мүлік{bottom:154px;}
-div.көлік{bottom:219px;}
-div.азық{bottom:196px;}
-div.кіиім{bottom:197px;}
-div.зат{bottom:151px;}
-div.құрлыс{bottom:243px;}
-div.химиа{bottom:88px;}
-div.жихаз{bottom:176px;}
+div.мүлік{bottom:174px;}
+div.көлік{bottom:240px;}
+div.азық{bottom:217px;}
+div.кіиім{bottom:217px;}
+div.зат{bottom:171px;}
+div.құрлыс{bottom:259px;}
+div.химиа{bottom:106px;}
+div.жихаз{bottom:197px;}
 div.білім{bottom:196px;}
-div.өсімдік{bottom:111px;}  
+div.өсімдік{bottom:37px;}  
 div.жаныуар{bottom:111px;}
-div.қызымет{bottom:108px;}    
+div.қызымет{bottom:152px;}    
 .dropdown{position:absolute;width:57px;left:-156px;bottom:-8px;}}
 
 @media only screen and (max-width: 1500px){}
