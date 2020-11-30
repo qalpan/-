@@ -28,7 +28,9 @@ RewriteRule ^ondyk-sagat$ ondyk-sagat.html [QSA,L]
 RewriteRule ^jer-telim$ jer-telim.html [QSA,L]
 RewriteRule ^yi$ yi.html [QSA,L]
 RewriteRule ^komekhi$ komekhi.html [QSA,L]
-RewriteRule ^komekhi$ komekhi.html [QSA,L]
+RewriteRule ^bilim-kyzymet$ bilim-kyzymet.html [QSA,L]
+RewriteRule ^jihaz-kyzymet$ jihaz-kyzymet.html [QSA,L]
+RewriteRule ^oiyn$ oiyn.html [QSA,L]
 
 AddType image/svg+xml svg svgz
 AddEncoding gzip svgz
