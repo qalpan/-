@@ -19,13 +19,13 @@ div.dropdown{bottom:290px;left:-60px;position:absolute;}
 .dropdown div.азық{margin:-180px 69px;}
 .dropdown div.кіиім{margin:-180px 100px;}
 .dropdown div.зат{margin:-136px 138px;}
-.dropdown div.құрлыс{text-align:right;left:-102px;}
-.dropdown div.химиа{text-align:right;left:-107px;}
-.dropdown div.жихаз{text-align:right;margin:-159px 139px;}
-.dropdown div.білім{text-align:right;margin:-114px -14px;}
-.dropdown div.өсімдік{text-align:right;margin:-97px 30px;}  
-.dropdown div.жаныуар{text-align:right;margin:-30px 83px;}
-.dropdown div.қызымет{text-align:right;margin:-52px 138px;}}
+.dropdown div.құрлыс{text-align:right;left:-131px;}
+.dropdown div.химиа{text-align:right;left:-133px;}
+.dropdown div.жихаз{text-align:right;margin:-159px 111px;}
+.dropdown div.білім{text-align:right;margin:-114px -41px;}
+.dropdown div.өсімдік{text-align:right;margin:-97px 3px;}  
+.dropdown div.жаныуар{text-align:right;margin:-30px 55px;}
+.dropdown div.қызымет{text-align:right;margin:-52px 111px;}}
 
 @media only screen and (max-width: 1200px){
 img.ел-пошта{margin:40px 0px;}
