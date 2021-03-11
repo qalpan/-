@@ -121,7 +121,7 @@ div.қызымет{margin:-93px 300px;text-align:right;}
 .dropdown{margin:9px 32%;}
 div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.көрме-араб,div.мүлік,div.көлік,div.азық,div.кіиім,div.зат,div.құрлыс,div.химиа,
 div.жихаз,div.білім,div.өсімдік,div.жаныуар,div.қызымет{
-  font-size:12px;-moz-font-size:11px;display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:182px;z-index:1;}
+  display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:182px;z-index:1;}
 div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.көрме-араб a,div.мүлік a,div.көлік a,div.азық a,div.кіиім a,div.зат a,
 div.құрлыс a,div.химиа a,div.жихаз a,div.білім a,div.өсімдік a,div.жаныуар a,div.қызымет a{
   color:#858474;padding:0px 0px;text-decoration:none;display:block;}
