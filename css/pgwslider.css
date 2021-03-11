@@ -124,7 +124,7 @@ div.жихаз,div.білім,div.өсімдік,div.жаныуар,div.қызы
   font-size:12px;-moz-font-size:11px;display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:182px;z-index:1;}
 div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.көрме-араб a,div.мүлік a,div.көлік a,div.азық a,div.кіиім a,div.зат a,
 div.құрлыс a,div.химиа a,div.жихаз a,div.білім a,div.өсімдік a,div.жаныуар a,div.қызымет a{
-  color:#858474;text-decoration:none;display:block;}
+  color:#858474;padding:3px 4px;text-decoration:none;display:block;}
 div.көрме a:hover,div.көрме-ағылшын a:hover,div.көрме-жапон a:hover,div.көрме-араб a:hover,div.мүлік a:hover,div.көлік a:hover,
 div.азық a:hover,div.кіиім a:hover,div.зат a:hover,div.құрлыс a:hover,div.химиа a:hover,div.жихаз a:hover,div.білім a:hover,
 div.өсімдік a:hover,div.жаныуар a:hover,div.қызымет a:hover{background-color:rgba(186, 169, 13, 0.43137254901960786);}
