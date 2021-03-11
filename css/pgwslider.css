@@ -101,7 +101,7 @@ img.қазақ:hover{content:url(../suretter/kazak-janyu.svg);}
 img.ағылшын:hover{content:url(../suretter/agylhyn-janyu.svg);}
 img.жапон:hover{content:url(../suretter/japon-janyu.svg);}
 img.араб:hover{content:url(../suretter/arab-janyu.svg);}
-.dropdown img:hover{background-color:rgb(255,255,240);}
+.dropdown img:hover{}
 div.көрме{margin:-335px -46px;}
 .көрме-ағылшын{margin:-263px -54px;}
 .көрме-жапон{margin:-307px -58px;}
