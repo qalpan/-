@@ -121,7 +121,7 @@ div.қызымет{margin:-93px 300px;text-align:right;}
 .dropdown{margin:9px 32%;}
 div.көрме,div.көрме-ағылшын,div.көрме-жапон,div.көрме-араб,div.мүлік,div.көлік,div.азық,div.кіиім,div.зат,div.құрлыс,div.химиа,
 div.жихаз,div.білім,div.өсімдік,div.жаныуар,div.қызымет{
-  font-size:12px;display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:154px;z-index:1;}
+  font-size:;display:none;position:absolute;background-color:rgba(255, 255, 240, 0.89);min-width:;z-index:;}
 div.көрме a,div.көрме-ағылшын a,div.көрме-жапон a,div.көрме-араб a,div.мүлік a,div.көлік a,div.азық a,div.кіиім a,div.зат a,
 div.құрлыс a,div.химиа a,div.жихаз a,div.білім a,div.өсімдік a,div.жаныуар a,div.қызымет a{
   color:#858474;padding:0px 0px;text-decoration:none;display:block;}
@@ -131,7 +131,7 @@ div.өсімдік a:hover,div.жаныуар a:hover,div.қызымет a:hover
 .dropdown:hover div.көрме,.dropdown:hover div.көрме-ағылшын,.dropdown:hover div.көрме-жапон,.dropdown:hover div.көрме-араб,
 .dropdown:hover div.мүлік,.dropdown:hover div.көлік,.dropdown:hover div.азық,.dropdown:hover div.кіиім,.dropdown:hover div.зат,
 .dropdown:hover div.құрлыс,.dropdown:hover div.химиа,.dropdown:hover div.жихаз,.dropdown:hover div.білім,.dropdown:hover div.өсімдік,
-.dropdown:hover div.жаныуар,.dropdown:hover div.қызымет {display:block;}
+.dropdown:hover div.жаныуар,.dropdown:hover div.қызымет{display:block;}
 img.ел-пошта{bottom:9px;float:right;right:29px;position:absolute;}
 img.ел-пошта:hover{content:url(../suretter/el.pohta-janyu.svg);}
 img.қазақ{bottom:26px;left:41px;position:absolute;}
