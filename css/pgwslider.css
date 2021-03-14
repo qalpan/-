@@ -20,8 +20,8 @@ div.dropdown{bottom:290px;left:-60px;position:absolute;}
 .dropdown div.кіиім{margin:-201px 98px;z-index:1;}
 .dropdown div.зат{margin:-151px 136px;z-index:1;}
 .dropdown div.құрлыс{left:-131px;z-index:1;}
-.dropdown div.химиа{right;left:-133px;z-index:1;}
-.dropdown div.жихаз{margin:-159px 111px;z-index:1;}
+.dropdown div.химиа{left:-7px;z-index:1;}
+.dropdown div.жихаз{margin:-177px 211px;z-index:1;}
 .dropdown div.білім{margin:-136px 94px;}
 .dropdown div.өсімдік{margin:-110px 128px;}  
 .dropdown div.жаныуар{margin:-37px 76px;}
@@ -51,7 +51,7 @@ div.көрме-жапон{margin:-283px -51px;line-height:1em;}
 div.көрме-араб{margin:-271px -47px;line-height:1em;}   
 div.мүлік{bottom:194px;}
 div.көлік{bottom:265px;}
-div.азық{bottom:217px;line-height:0.8em;}
+div.азық{bottom:389px;line-height:0.8em;}
 div.кіиім{bottom:239px;}
 div.зат{bottom:187px;}
 div.құрлыс{bottom:333px;}
