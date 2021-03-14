@@ -38,7 +38,7 @@ html{box-sizing: border-box;}
 */
 img,
 object,
-embed {max-width: 100%;}
+embed {max-width: ;}
 
 /*
    Note: keeping IMG here will cause problems if you're using foreground images as sprites.
